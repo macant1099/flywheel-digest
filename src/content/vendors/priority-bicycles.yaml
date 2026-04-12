@@ -1,0 +1,170 @@
+name: Priority Bicycles
+emoji: "\U0001F6B2"
+category: DTC Bicycles (Belt-Drive, E-Bikes, Fleet)
+platform: Shopify (standard)
+website: https://www.prioritybicycles.com
+websiteDisplay: prioritybicycles.com
+afareScore: 44
+afareBand: Early
+afareDimensions:
+  - name: Program Presence
+    score: 9
+    maxScore: 20
+    tagline: Well-architected partnership ecosystem on single niche network
+    criteria:
+      - name: Major Network Coverage
+        score: 0
+        maxScore: 4
+        evidence: Not present on any of the 5 major networks (CJ, Awin, Impact, Rakuten). Affiliate program hosted on AvantLink, a mid-tier niche network.
+      - name: Niche/Vertical Network Coverage
+        score: 2
+        maxScore: 4
+        evidence: Active on AvantLink, a respected outdoor/cycling niche network. Also listed on Yazing and TapRefer directories.
+      - name: Private/Direct Programs
+        score: 3
+        maxScore: 4
+        evidence: "Multiple direct programs: affiliate via AvantLink, Content Creator Program ($5K gear + $1K grant), Customer Referral Program, and Partner Dealer Program."
+      - name: LiveChannel/Membership Network Presence
+        score: 0
+        maxScore: 4
+        evidence: No presence on any membership or LiveChannel-style affiliate network. No subscription or membership commerce program.
+      - name: Program Discoverability
+        score: 4
+        maxScore: 4
+        evidence: "Dedicated program page, separate Creator and Dealer pages. Listed in 5+ 'best bicycle affiliate programs' roundup articles."
+  - name: Commission & Terms
+    score: 9
+    maxScore: 20
+    tagline: Functional but undifferentiated terms at category median
+    criteria:
+      - name: Commission Rate Competitiveness
+        score: 2
+        maxScore: 4
+        evidence: "5% commission on all sales. Category median for DTC bicycles is 5%, so exactly at median."
+      - name: Cookie Duration
+        score: 2
+        maxScore: 4
+        evidence: 21-day cookie, below category median of 30 days. Problematic for high-consideration bicycle purchases.
+      - name: Payment Terms & Reliability
+        score: 2
+        maxScore: 4
+        evidence: "Via AvantLink standard terms. Monthly payments, $50 minimum threshold. Standard but not favorable."
+      - name: Tiered/Performance Incentives
+        score: 1
+        maxScore: 4
+        evidence: No tiered commission structure. Flat 5% across all sales. Content Creator Program is selective, not a standard performance tier.
+      - name: Product-Level Commission Strategy
+        score: 2
+        maxScore: 4
+        evidence: "Flat 5% across diverse price points ($300 kids bikes to $2,500+ e-bikes). No strategic rate differentiation by category."
+  - name: Partner Ecosystem
+    score: 9
+    maxScore: 20
+    tagline: Small but thoughtful ecosystem with strong creator investment
+    criteria:
+      - name: Active Affiliate Count
+        score: 1
+        maxScore: 4
+        evidence: Likely 10-50 active affiliates as a small DTC brand on a single niche network.
+      - name: Partner Type Diversity
+        score: 2
+        maxScore: 4
+        evidence: "Confirmed types: cycling/outdoor content blogs, deal/coupon sites, content creators. Limited to content + coupon + creator."
+      - name: Top Partner Quality
+        score: 2
+        maxScore: 4
+        evidence: "Reviews from mid-tier cycling publications (DA 20-50). Editorial mentions in Forbes and Robb Report, but not confirmed affiliate-driven."
+      - name: Content Creator Engagement
+        score: 3
+        maxScore: 4
+        evidence: "Dedicated Content Creator Program: $5,000 gear grant + $1,000 cash grant. Genuine creator investment with dedicated landing page."
+      - name: AI Agent Affiliate Presence
+        score: 1
+        maxScore: 4
+        evidence: May appear in some AI recommendations for commuter/belt-drive bikes. No AI agent affiliate strategy or agent-optimized feeds.
+  - name: Tracking & Attribution
+    score: 9
+    maxScore: 20
+    tagline: Solid niche network tracking with gaps in creative and feeds
+    criteria:
+      - name: Tracking Technology
+        score: 2
+        maxScore: 4
+        evidence: Powered by AvantLink. Cookie-based tracking with affiliate link encoding. Standard network-level, less enterprise than Impact or CJ.
+      - name: Real-Time Reporting
+        score: 2
+        maxScore: 4
+        evidence: AvantLink provides standard dashboards with click/sale reporting. Less sophisticated breakdowns than enterprise platforms.
+      - name: Deep Linking Support
+        score: 3
+        maxScore: 4
+        evidence: AvantLink Custom Link Builder enables tracking links to any product page. Affiliate Link Encoder and custom tracking codes available.
+      - name: Creative Asset Library
+        score: 1
+        maxScore: 4
+        evidence: Basic banners and text links. No video assets, email templates, or seasonal creative refreshes for affiliates.
+      - name: API/Feed Access
+        score: 1
+        maxScore: 4
+        evidence: AvantLink Product Link Tool for basic product search. No rich data feed, real-time inventory, or API. Small catalog (15 models).
+  - name: LiveChannel Readiness
+    score: 8
+    maxScore: 20
+    tagline: Shopify standard with single-network dependency
+    criteria:
+      - name: Shopify Platform Presence
+        score: 2
+        maxScore: 4
+        evidence: Shopify standard plan (not Plus). Functional DTC storefront with product catalog and checkout. Single US storefront.
+      - name: CX Connector Compatibility
+        score: 2
+        maxScore: 4
+        evidence: "Mailchimp (email, 3x abandoned cart improvement), FenixCommerce (shipping). Basic but functional. No CRM or CDP."
+      - name: Membership Model Fit
+        score: 1
+        maxScore: 4
+        evidence: Community newsletter with exclusive offers but no tangible membership benefits or affiliate-trackable conversion events.
+      - name: Exclusive Offer Capability
+        score: 2
+        maxScore: 4
+        evidence: Shopify discount codes and seasonal promotions. No documented affiliate-exclusive offer process.
+      - name: Multi-Network Scalability
+        score: 1
+        maxScore: 4
+        evidence: AvantLink only. Single-network dependency is a scalability constraint. Expanding would require building from scratch.
+strengths:
+  - title: Multi-path partnership architecture
+    description: "Four distinct partner programs (affiliate, content creator, referral, dealer) show strategic sophistication rare for a DTC brand this size."
+  - title: Strong program discoverability (4/4)
+    description: "Appears in 5+ 'best bicycle affiliate programs' roundups with clear, well-structured program pages."
+  - title: High average order value ($550+)
+    description: "Even at 5% commission, affiliates earn ~$27.50 per sale. E-bike sales yield $75-125 per conversion."
+gaps:
+  - title: No major network presence (0/4)
+    description: "Absent from all 5 major affiliate networks. Recommendation: Launch on Impact or CJ to expand publisher pool."
+  - title: Below-median cookie duration (2/4)
+    description: "21-day cookie is problematic for high-consideration bicycle purchases. Recommendation: Extend to 30-45 days."
+  - title: No membership commerce model (1/4)
+    description: "Purely transactional with no recurring revenue opportunity. Recommendation: Launch a 'Priority Rider' membership at $49-99/year."
+assessment: "Priority Bicycles scores 44/100 (Early band, top end) on the AFARE scale, reflecting a small DTC brand with thoughtful partnership strategy but limited affiliate infrastructure and scale. The brand punches above its weight in program discoverability and partnership architecture."
+assessmentHighlight: "The clearest path to 60+ (Developing band) is: (1) launch on Impact or CJ, (2) extend cookie to 30-45 days, and (3) introduce tiered commission incentives."
+evaluationDate: "2026-04-11"
+competitivePosition:
+  competitors:
+    - name: Rad Power Bikes
+      networks: 1
+      commissionRate: "~5%"
+      cookieDuration: 30 days
+    - name: Aventon
+      networks: 1
+      commissionRate: "4%"
+      cookieDuration: 30 days
+    - name: Lectric eBikes
+      networks: 0
+      commissionRate: Unknown
+      cookieDuration: Unknown
+    - name: Canyon Bicycles
+      networks: 1
+      commissionRate: Varies
+      cookieDuration: Unknown
+  summary: "Priority sits in the middle of its DTC bicycle competitive set, trailing Aventon and Rad Power on affiliate scale but leading on program discoverability and creator investment."

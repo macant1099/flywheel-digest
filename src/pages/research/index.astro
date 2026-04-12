@@ -1,0 +1,106 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const research = await getCollection('research');
+
+const categories: Record<string, { label: string; items: typeof research }> = {
+  'affiliate-networks': { label: 'Affiliate Networks', items: [] },
+  'verticals': { label: 'Verticals', items: [] },
+  'industry': { label: 'Industry', items: [] },
+  'livechannel': { label: 'LiveChannel', items: [] },
+};
+
+for (const r of research) {
+  const cat = r.data.category;
+  if (categories[cat]) {
+    categories[cat].items.push(r);
+  }
+}
+
+function categoryBadgeClass(cat: string): string {
+  switch (cat) {
+    case 'affiliate-networks': return 'green';
+    case 'verticals': return 'yellow';
+    case 'industry': return 'orange';
+    case 'livechannel': return 'red';
+    default: return '';
+  }
+}
+
+function statusBadge(status: string): string {
+  switch (status) {
+    case 'active': return 'green';
+    case 'new': return 'orange';
+    default: return '';
+  }
+}
+---
+
+<Base title="Research">
+  <h1 class="page-title">Research</h1>
+  <p class="text-muted mb-3">{research.length} research files tracking affiliate networks, vertical landscapes, industry trends, and LiveChannel intelligence.</p>
+
+  {Object.entries(categories).filter(([, v]) => v.items.length > 0).map(([key, { label, items }]) => (
+    <section class="category-section">
+      <h2 class="category-title">
+        <span class={`badge ${categoryBadgeClass(key)}`}>{label}</span>
+        <span class="category-count text-xs text-muted">{items.length} files</span>
+      </h2>
+      <div class="research-list">
+        {items.sort((a, b) => a.data.title.localeCompare(b.data.title)).map((r) => (
+          <a href={`/research/${r.id.replace(/\.md$/, '')}/`} class="card research-card">
+            <div class="flex-between">
+              <span class="research-title">{r.data.title}</span>
+              <div class="research-meta">
+                {r.data.status !== 'tracking' && (
+                  <span class={`badge ${statusBadge(r.data.status)}`}>{r.data.status}</span>
+                )}
+                <span class="text-xs text-muted font-mono">{r.data.lastUpdated}</span>
+              </div>
+            </div>
+            {r.data.summary && <p class="text-sm text-muted mt-1">{r.data.summary}</p>}
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>
+
+<style>
+  .page-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+  .category-section {
+    margin-bottom: 2rem;
+  }
+  .category-title {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+  .research-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .research-card { display: block; text-decoration: none; }
+  .research-card:hover { text-decoration: none; }
+  .research-title { font-weight: 600; font-size: 0.9rem; }
+  .research-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 768px) {
+    .flex-between { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
+    .research-meta { order: -1; }
+  }
+</style>

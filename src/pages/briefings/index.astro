@@ -1,0 +1,110 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+const briefings = await getCollection('briefings');
+const sorted = briefings.sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const latest = sorted[0];
+const archive = sorted.slice(1);
+
+let LatestContent: any = null;
+if (latest) {
+  const rendered = await render(latest);
+  LatestContent = rendered.Content;
+}
+---
+
+<Base title="Briefings">
+  <h1 class="page-title">Daily Briefings</h1>
+  <p class="text-muted mb-3">{briefings.length} briefings tracking affiliate intelligence signals and vendor developments.</p>
+
+  {latest && (
+    <section class="latest-briefing">
+      <div class="latest-label">
+        <span class="badge green">Latest</span>
+        <span class="text-xs text-muted font-mono">{latest.data.date}</span>
+      </div>
+      <h2 class="latest-title">{latest.data.title}</h2>
+      {latest.data.tags && (
+        <div class="latest-tags mb-2">
+          {latest.data.tags.map((tag: string) => (
+            <span class="tag">{tag}</span>
+          ))}
+        </div>
+      )}
+      <article class="prose">
+        {LatestContent && <LatestContent />}
+      </article>
+    </section>
+  )}
+
+  {archive.length > 0 && (
+    <section class="archive mt-3">
+      <h2 class="section-title mb-2">Archive</h2>
+      <div class="archive-list">
+        {archive.map((b) => (
+          <a href={`/briefings/${b.id.replace(/\.md$/, '')}/`} class="card archive-card">
+            <div class="flex-between">
+              <span class="archive-title">{b.data.title}</span>
+              <span class="text-xs text-muted font-mono">{b.data.date}</span>
+            </div>
+            {b.data.summary && <p class="text-sm text-muted mt-1">{b.data.summary}</p>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</Base>
+
+<style>
+  .page-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+  .latest-briefing {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+  }
+  .latest-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .latest-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .latest-tags {
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .tag {
+    font-size: 0.7rem;
+    font-family: var(--mono);
+    color: var(--text-muted);
+    background: rgba(45, 51, 72, 0.5);
+    padding: 0.1rem 0.45rem;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+  }
+  .section-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+  .archive-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .archive-card { display: block; text-decoration: none; }
+  .archive-card:hover { text-decoration: none; }
+  .archive-title { font-weight: 600; font-size: 0.9rem; }
+</style>

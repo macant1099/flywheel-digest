@@ -1,0 +1,360 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const vendors = await getCollection('vendors');
+  return vendors.map((vendor) => ({
+    params: { slug: vendor.id },
+    props: { vendor },
+  }));
+}
+
+const { vendor } = Astro.props;
+const v = vendor.data;
+
+function bandClass(band: string): string {
+  switch (band) {
+    case 'Leading': return 'green';
+    case 'Established': return 'yellow';
+    case 'Developing': return 'orange';
+    case 'Early': return 'red';
+    default: return '';
+  }
+}
+
+function scoreColor(score: number, max: number): string {
+  const pct = (score / max) * 100;
+  if (pct >= 75) return 'green';
+  if (pct >= 60) return 'yellow';
+  if (pct >= 45) return 'orange';
+  return 'red';
+}
+---
+
+<Base title={v.name}>
+  <a href="/vendors/" class="back-link">&larr; All Vendors</a>
+
+  <header class="vendor-header">
+    <div>
+      <h1><span class="vendor-emoji">{v.emoji}</span> {v.name}</h1>
+      <div class="vendor-meta">
+        <span>{v.category}</span>
+        <span class="sep">|</span>
+        <span>{v.platform}</span>
+        <span class="sep">|</span>
+        <a href={v.website} target="_blank" rel="noopener">{v.websiteDisplay}</a>
+      </div>
+    </div>
+    <div class="header-score">
+      <div class="header-score-number">
+        <span class={`score-big ${scoreColor(v.afareScore, 100)}-text`}>{v.afareScore}</span>
+        <span class="score-max">/100</span>
+      </div>
+      <span class={`badge ${bandClass(v.afareBand)}`}>{v.afareBand}</span>
+    </div>
+  </header>
+
+  <section class="overall-bar mt-2">
+    <div class="score-bar" style="height: 12px;">
+      <div class={`score-bar-fill ${scoreColor(v.afareScore, 100)}`} style={`width: ${v.afareScore}%`}></div>
+    </div>
+    <div class="bar-labels">
+      <span>0</span><span>25</span><span>50</span><span>75</span><span>100</span>
+    </div>
+  </section>
+
+  <section class="dimensions mt-3">
+    <h2>AFARE Dimensions</h2>
+    {v.afareDimensions.map((dim) => (
+      <div class="dimension">
+        <div class="dim-header">
+          <div>
+            <h3>{dim.name}</h3>
+            <p class="dim-tagline text-sm text-muted">{dim.tagline}</p>
+          </div>
+          <div class="dim-score-block">
+            <span class={`dim-score-num font-mono ${scoreColor(dim.score, dim.maxScore)}-text`}>{dim.score}</span>
+            <span class="dim-score-max font-mono">/{dim.maxScore}</span>
+          </div>
+        </div>
+        <div class="score-bar" style="height: 10px; margin: 0.75rem 0;">
+          <div class={`score-bar-fill ${scoreColor(dim.score, dim.maxScore)}`} style={`width: ${(dim.score / dim.maxScore) * 100}%`}></div>
+        </div>
+        <div class="criteria-table">
+          <table>
+            <thead>
+              <tr>
+                <th>Criterion</th>
+                <th style="width: 70px;">Score</th>
+                <th>Evidence</th>
+              </tr>
+            </thead>
+            <tbody>
+              {dim.criteria.map((c) => (
+                <tr>
+                  <td class="criteria-name">{c.name}</td>
+                  <td class="criteria-score font-mono">{c.score}/{c.maxScore}</td>
+                  <td class="criteria-evidence">{c.evidence}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    ))}
+  </section>
+
+  <section class="strengths-gaps mt-3">
+    <div class="sg-grid">
+      <div>
+        <h2>Strengths</h2>
+        <div class="sg-list">
+          {v.strengths.map((s) => (
+            <div class="sg-item strength">
+              <div class="sg-icon">&#9650;</div>
+              <div>
+                <div class="sg-title">{s.title}</div>
+                <div class="sg-desc text-sm text-muted">{s.description}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+      <div>
+        <h2>Gaps</h2>
+        <div class="sg-list">
+          {v.gaps.map((g) => (
+            <div class="sg-item gap">
+              <div class="sg-icon">&#9660;</div>
+              <div>
+                <div class="sg-title">{g.title}</div>
+                <div class="sg-desc text-sm text-muted">{g.description}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {v.competitivePosition && (
+    <section class="competitive mt-3">
+      <h2>Competitive Position</h2>
+      <table class="comp-table">
+        <thead>
+          <tr>
+            <th>Competitor</th>
+            <th>Networks</th>
+            <th>Commission</th>
+            <th>Cookie</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="current-vendor">
+            <td><strong>{v.name}</strong></td>
+            <td class="font-mono">{v.afareDimensions[0].criteria.filter(c => c.score > 0).length}+</td>
+            <td>8%</td>
+            <td>30 days</td>
+          </tr>
+          {v.competitivePosition.competitors.map((c) => (
+            <tr>
+              <td>{c.name}</td>
+              <td class="font-mono">{c.networks}</td>
+              <td>{c.commissionRate}</td>
+              <td>{c.cookieDuration}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p class="text-sm text-muted mt-1">{v.competitivePosition.summary}</p>
+    </section>
+  )}
+
+  <section class="assessment mt-3">
+    <h2>Assessment</h2>
+    <div class="assessment-box">
+      <p>{v.assessment}</p>
+      <p class="assessment-highlight">{v.assessmentHighlight}</p>
+    </div>
+    <p class="text-xs text-muted mt-1">Evaluated: {v.evaluationDate}</p>
+  </section>
+</Base>
+
+<style>
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  .back-link:hover { color: var(--accent); }
+
+  .vendor-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  .vendor-header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.35rem;
+  }
+  .vendor-emoji { font-size: 1.3rem; margin-right: 0.2rem; }
+  .vendor-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .sep { margin: 0 0.35rem; opacity: 0.4; }
+  .header-score { text-align: right; }
+  .score-big {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: var(--mono);
+  }
+  .score-max {
+    font-size: 1rem;
+    color: var(--text-muted);
+    font-family: var(--mono);
+  }
+  .green-text { color: var(--green); }
+  .yellow-text { color: var(--yellow); }
+  .orange-text { color: var(--orange); }
+  .red-text { color: var(--red); }
+
+  .overall-bar .bar-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    font-family: var(--mono);
+    margin-top: 0.25rem;
+  }
+
+  .dimensions h2 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  .dimension {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .dim-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .dim-header h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.15rem;
+  }
+  .dim-tagline { line-height: 1.4; }
+  .dim-score-num { font-size: 1.5rem; font-weight: 700; }
+  .dim-score-max { font-size: 0.85rem; color: var(--text-muted); }
+
+  .criteria-table table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+  }
+  .criteria-table th {
+    text-align: left;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    padding: 0.4rem 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .criteria-table td {
+    padding: 0.5rem;
+    border-bottom: 1px solid rgba(45, 51, 72, 0.5);
+    vertical-align: top;
+  }
+  .criteria-name { font-weight: 500; color: var(--text); white-space: nowrap; }
+  .criteria-score { text-align: center; color: var(--text-muted); }
+  .criteria-evidence { color: var(--text-muted); line-height: 1.5; }
+
+  .sg-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+  .sg-grid h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+  }
+  .sg-list { display: flex; flex-direction: column; gap: 0.75rem; }
+  .sg-item {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.75rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .sg-icon { font-size: 0.7rem; margin-top: 0.15rem; }
+  .strength .sg-icon { color: var(--green); }
+  .gap .sg-icon { color: var(--red); }
+  .sg-title { font-weight: 600; font-size: 0.85rem; margin-bottom: 0.15rem; }
+  .sg-desc { line-height: 1.5; }
+
+  .comp-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+  }
+  .comp-table th {
+    text-align: left;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .comp-table td {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid rgba(45, 51, 72, 0.5);
+    color: var(--text-muted);
+  }
+  .current-vendor { background: rgba(16, 185, 129, 0.05); }
+  .current-vendor td { color: var(--text); }
+
+  .assessment-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-top: 0.75rem;
+  }
+  .assessment-box p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+  }
+  .assessment-box p:last-child { margin-bottom: 0; }
+  .assessment-highlight {
+    color: var(--accent) !important;
+    font-weight: 600;
+  }
+
+  @media (max-width: 768px) {
+    .vendor-header { flex-direction: column; }
+    .sg-grid { grid-template-columns: 1fr; }
+    .comp-table { font-size: 0.75rem; }
+  }
+</style>

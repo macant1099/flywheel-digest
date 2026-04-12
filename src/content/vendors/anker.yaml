@@ -1,0 +1,170 @@
+name: Anker
+emoji: "\u26A1"
+category: Consumer Electronics / Charging & Accessories
+platform: Shopify Plus (headless, 50+ global storefronts)
+website: https://www.anker.com
+websiteDisplay: anker.com
+afareScore: 64
+afareBand: Developing
+afareDimensions:
+  - name: Program Presence
+    score: 12
+    maxScore: 20
+    tagline: Multi-brand architecture on Impact with niche network breadth
+    criteria:
+      - name: Major Network Coverage
+        score: 2
+        maxScore: 4
+        evidence: Active on Impact (primary US, 8%) and Webgains (Nordics, 8-15%). No presence on CJ, ShareASale/Awin, or Rakuten.
+      - name: Niche/Vertical Network Coverage
+        score: 3
+        maxScore: 4
+        evidence: Present on FlexOffers, Indoleads, Webgains, and CueLinks. Active across 4+ niche/sub-affiliate networks with regional tailoring.
+      - name: Private/Direct Programs
+        score: 3
+        maxScore: 4
+        evidence: Direct affiliate at anker.com/become-an-affiliate via Impact, brand-specific tiers (Anker US 8%, AnkerWork separate, Anker SOLIX 5%). Separate referral program and SuperChargers creator program.
+      - name: LiveChannel/Membership Network Presence
+        score: 1
+        maxScore: 4
+        evidence: No active enrollment on LiveChannel or membership-style affiliate networks. Product seeding through SuperChargers suggests early-stage community commerce awareness.
+      - name: Program Discoverability
+        score: 3
+        maxScore: 4
+        evidence: Dedicated affiliate landing page with commission rates, cookie duration, and CTA. Appears in search results for "Anker affiliate program."
+  - name: Commission & Terms
+    score: 14
+    maxScore: 20
+    tagline: Above-median 8% commission with multi-brand architecture
+    criteria:
+      - name: Commission Rate Competitiveness
+        score: 3
+        maxScore: 4
+        evidence: "US program: 8% flat. Category median is 5%. Nordics program offers 8-15% with volume escalators."
+      - name: Cookie Duration
+        score: 3
+        maxScore: 4
+        evidence: 30-day cookie across all programs, matching category median.
+      - name: Payment Terms & Reliability
+        score: 2
+        maxScore: 4
+        evidence: Via Impact platform. 45-day validation + 60-day payment cycle is lengthy (effectively 90-105 days from sale to payment).
+      - name: Tiered/Performance Incentives
+        score: 3
+        maxScore: 4
+        evidence: Nordics program offers 8-15% tiered by product type and sales volume. SuperChargers creator program provides non-commission incentives.
+      - name: Product-Level Commission Strategy
+        score: 3
+        maxScore: 4
+        evidence: "Distinct structures per product line: Anker core (8%), AnkerWork (separate), Anker SOLIX (5%). Margin-aware product-level strategy."
+  - name: Partner Ecosystem
+    score: 13
+    maxScore: 20
+    tagline: Healthy ecosystem anchored by premium editorial coverage
+    criteria:
+      - name: Active Affiliate Count
+        score: 3
+        maxScore: 4
+        evidence: Estimated 200-500+ active direct affiliates based on multi-network footprint across 5+ networks/platforms.
+      - name: Partner Type Diversity
+        score: 3
+        maxScore: 4
+        evidence: "Confirmed types: content/review sites, coupon/deal sites, tech comparison sites, social media influencers (SuperChargers), cashback/loyalty sites."
+      - name: Top Partner Quality
+        score: 3
+        maxScore: 4
+        evidence: "Regularly featured in tier-1 editorial: Tom's Guide, TechRadar, CNN Underscored, Engadget, GearJunkie, and Wirecutter (DA 70+ publications)."
+      - name: Content Creator Engagement
+        score: 3
+        maxScore: 4
+        evidence: SuperChargers Program achieved 12M+ views, 845K likes, 103K shares over 4 months. Dedicated creator landing page at anker.com/content-creator.
+      - name: AI Agent Affiliate Presence
+        score: 1
+        maxScore: 4
+        evidence: AI agents find Anker via Amazon, not anker.com. No dedicated AI agent affiliate tier or agent-optimized product feeds.
+  - name: Tracking & Attribution
+    score: 13
+    maxScore: 20
+    tagline: Enterprise Impact platform with standard creative and feeds
+    criteria:
+      - name: Tracking Technology
+        score: 3
+        maxScore: 4
+        evidence: Powered by Impact.com with server-side tracking, cookie + fingerprint attribution, cross-device matching, and fraud detection.
+      - name: Real-Time Reporting
+        score: 3
+        maxScore: 4
+        evidence: Impact provides near real-time reporting with advanced breakdowns. Tracking described as "instant" in program documentation.
+      - name: Deep Linking Support
+        score: 3
+        maxScore: 4
+        evidence: Impact deep linking Chrome extension enables one-click creation of tracking links to any Anker product page.
+      - name: Creative Asset Library
+        score: 2
+        maxScore: 4
+        evidence: "Standard banner + text link creative. No dynamic creative, video assets for affiliates, or co-branded landing pages."
+      - name: API/Feed Access
+        score: 2
+        maxScore: 4
+        evidence: Standard network-level product data feed via Impact. No dedicated Anker affiliate API or real-time inventory feeds.
+  - name: LiveChannel Readiness
+    score: 12
+    maxScore: 20
+    tagline: Best-in-class Shopify Plus but no membership model
+    criteria:
+      - name: Shopify Platform Presence
+        score: 4
+        maxScore: 4
+        evidence: Shopify Plus enterprise deployment with 50+ global storefronts, headless architecture, integrated with NetSuite and Salesforce.
+      - name: CX Connector Compatibility
+        score: 3
+        maxScore: 4
+        evidence: "Integrated CX stack: Klaviyo, Salesforce, Google Analytics, VWO, Shopify Launchpad. Payment includes Shop Pay, PayPal, Stripe, Affirm, Klarna."
+      - name: Membership Model Fit
+        score: 1
+        maxScore: 4
+        evidence: Primarily transactional one-time purchases. Referral program (10%/10%) is a prototype but not a membership model.
+      - name: Exclusive Offer Capability
+        score: 2
+        maxScore: 4
+        evidence: Shopify discount code infrastructure in place. No documented process for creating affiliate-exclusive offers.
+      - name: Multi-Network Scalability
+        score: 2
+        maxScore: 4
+        evidence: Present on Impact + Webgains + FlexOffers + Indoleads + CueLinks. Regionally fragmented rather than strategically coordinated.
+strengths:
+  - title: Enterprise Shopify Plus platform (4/4)
+    description: 50+ global storefronts, headless architecture, and deep ERP/CRM integration provide an ideal technical foundation for LiveChannel integration.
+  - title: Above-median commission rates (8% base)
+    description: "Anker's 8% flat commission exceeds the consumer electronics category median of 5%, making it attractive to affiliates."
+  - title: Premium editorial partner coverage
+    description: "Consistent presence in 'best of' roundups from Tom's Guide, TechRadar, CNN Underscored, Engadget, GearJunkie, and Wirecutter."
+gaps:
+  - title: No AI agent affiliate strategy (1/4)
+    description: "All agent-driven affiliate revenue routes through Amazon Associates rather than Anker's direct program. Recommendation: Create a dedicated AI Agent Affiliate tier on Impact."
+  - title: No membership commerce model (1/4)
+    description: "Purely transactional model limits LiveChannel's membership-based affiliate potential. Recommendation: Launch an 'Anker Insider' membership."
+  - title: Long payment cycle hurts affiliate recruitment (2/4)
+    description: "45-day validation + 60-day payment (90-105 days total). Recommendation: Negotiate reduction to 45-60 days."
+assessment: "Anker scores 64/100 (Developing band, top end) on the AFARE scale, reflecting a mature affiliate program built on strong infrastructure that has significant room for strategic advancement. The program's core strengths are clear: above-median commission rates, a best-in-class Shopify Plus platform, and organic coverage from premium editorial publications."
+assessmentHighlight: "The clearest path to 75+ (Established band) is: (1) launch an AI agent affiliate tier, (2) build a membership offering, and (3) accelerate payment terms."
+evaluationDate: "2026-04-11"
+competitivePosition:
+  competitors:
+    - name: EcoFlow
+      networks: 2
+      commissionRate: 5-8%
+      cookieDuration: 30 days
+    - name: Belkin
+      networks: 1
+      commissionRate: "4%"
+      cookieDuration: 30 days
+    - name: RAVPower
+      networks: 1
+      commissionRate: 8-20%
+      cookieDuration: 45 days
+    - name: UGREEN
+      networks: 2
+      commissionRate: 8-15%
+      cookieDuration: 30-60 days
+  summary: "Anker leads its direct competitive set in overall AFARE score, primarily due to superior platform infrastructure and editorial partner quality. UGREEN is the most aggressive competitor on commission terms."

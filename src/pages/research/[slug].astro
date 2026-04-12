@@ -1,0 +1,103 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const research = await getCollection('research');
+  return research.map((entry) => ({
+    params: { slug: entry.id.replace(/\.md$/, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+function categoryBadgeClass(cat: string): string {
+  switch (cat) {
+    case 'affiliate-networks': return 'green';
+    case 'verticals': return 'yellow';
+    case 'industry': return 'orange';
+    case 'livechannel': return 'red';
+    default: return '';
+  }
+}
+
+function statusBadge(status: string): string {
+  switch (status) {
+    case 'active': return 'green';
+    case 'new': return 'orange';
+    default: return '';
+  }
+}
+---
+
+<Base title={entry.data.title}>
+  <a href="/research/" class="back-link">&larr; All Research</a>
+
+  <header class="entry-header">
+    <h1>{entry.data.title}</h1>
+    <div class="entry-meta">
+      <span class={`badge ${categoryBadgeClass(entry.data.category)}`}>{entry.data.category}</span>
+      {entry.data.status !== 'tracking' && (
+        <span class={`badge ${statusBadge(entry.data.status)}`}>{entry.data.status}</span>
+      )}
+      <span class="text-xs text-muted font-mono">Updated: {entry.data.lastUpdated}</span>
+    </div>
+    {entry.data.summary && <p class="entry-summary text-muted">{entry.data.summary}</p>}
+    {entry.data.tags && (
+      <div class="entry-tags">
+        {entry.data.tags.map((tag: string) => (
+          <span class="tag">{tag}</span>
+        ))}
+      </div>
+    )}
+  </header>
+
+  <article class="prose mt-2">
+    <Content />
+  </article>
+</Base>
+
+<style>
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  .back-link:hover { color: var(--accent); }
+
+  .entry-header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+  .entry-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+  .entry-summary {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+  .entry-tags {
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .tag {
+    font-size: 0.7rem;
+    font-family: var(--mono);
+    color: var(--text-muted);
+    background: var(--surface);
+    padding: 0.1rem 0.45rem;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+  }
+</style>

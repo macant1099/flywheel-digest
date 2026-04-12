@@ -1,0 +1,245 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const vendors = await getCollection('vendors');
+const research = await getCollection('research');
+const briefings = await getCollection('briefings');
+
+const sortedVendors = vendors.sort((a, b) => b.data.afareScore - a.data.afareScore);
+const recentBriefings = briefings.sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 3);
+
+function bandClass(band: string): string {
+  switch (band) {
+    case 'Leading': return 'green';
+    case 'Established': return 'yellow';
+    case 'Developing': return 'orange';
+    case 'Early': return 'red';
+    default: return '';
+  }
+}
+
+function scoreColor(score: number): string {
+  if (score >= 75) return 'green';
+  if (score >= 60) return 'yellow';
+  if (score >= 45) return 'orange';
+  return 'red';
+}
+---
+
+<Base title="Home">
+  <section class="hero">
+    <h1>Affiliate Intelligence Engine</h1>
+    <p class="subtitle">Evaluating brand readiness for affiliate commerce. Tracking networks, vendors, and the emerging AI-agent-as-affiliate ecosystem.</p>
+  </section>
+
+  <section class="metrics-bar">
+    <div class="metric">
+      <span class="metric-value">{vendors.length}</span>
+      <span class="metric-label">Vendors Scored</span>
+    </div>
+    <div class="metric">
+      <span class="metric-value">{research.length}</span>
+      <span class="metric-label">Research Files</span>
+    </div>
+    <div class="metric">
+      <span class="metric-value">{briefings.length}</span>
+      <span class="metric-label">Briefings</span>
+    </div>
+    <div class="metric">
+      <span class="metric-value">5</span>
+      <span class="metric-label">AFARE Dimensions</span>
+    </div>
+  </section>
+
+  <section class="mt-3">
+    <div class="section-header">
+      <h2>Vendor Scorecards</h2>
+      <a href="/vendors/" class="text-sm">View all &rarr;</a>
+    </div>
+    <div class="vendor-grid">
+      {sortedVendors.map((vendor) => (
+        <a href={`/vendors/${vendor.id}/`} class="card vendor-card">
+          <div class="vendor-card-header">
+            <div class="vendor-name">
+              <span class="vendor-emoji">{vendor.data.emoji}</span>
+              <span>{vendor.data.name}</span>
+            </div>
+            <span class={`badge ${bandClass(vendor.data.afareBand)}`}>{vendor.data.afareBand}</span>
+          </div>
+          <div class="vendor-card-score">
+            <span class={`score-number ${scoreColor(vendor.data.afareScore)}-text`}>{vendor.data.afareScore}</span>
+            <span class="score-max">/100</span>
+          </div>
+          <div class="score-bar">
+            <div class={`score-bar-fill ${scoreColor(vendor.data.afareScore)}`} style={`width: ${vendor.data.afareScore}%`}></div>
+          </div>
+          <p class="vendor-category text-xs text-muted mt-1">{vendor.data.category}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-3">
+    <div class="section-header">
+      <h2>Recent Briefings</h2>
+      <a href="/briefings/" class="text-sm">View all &rarr;</a>
+    </div>
+    <div class="briefing-list">
+      {recentBriefings.map((briefing) => (
+        <a href={`/briefings/${briefing.id.replace(/\.md$/, '')}/`} class="card briefing-card">
+          <div class="flex-between">
+            <span class="briefing-title">{briefing.data.title}</span>
+            <span class="text-xs text-muted font-mono">{briefing.data.date}</span>
+          </div>
+          {briefing.data.summary && <p class="text-sm text-muted mt-1">{briefing.data.summary}</p>}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="mt-3">
+    <h2 class="mb-2">Quick Links</h2>
+    <div class="grid-3 quick-links">
+      <a href="/research/" class="card quick-link">
+        <div class="quick-link-icon">&#128218;</div>
+        <div class="quick-link-title">Research</div>
+        <div class="text-xs text-muted">{research.length} files across networks, verticals, and industry</div>
+      </a>
+      <a href="/vendors/" class="card quick-link">
+        <div class="quick-link-icon">&#127942;</div>
+        <div class="quick-link-title">Benchmarks</div>
+        <div class="text-xs text-muted">AFARE scores and competitive positioning</div>
+      </a>
+      <a href="/briefings/" class="card quick-link">
+        <div class="quick-link-icon">&#128240;</div>
+        <div class="quick-link-title">Briefings</div>
+        <div class="text-xs text-muted">Daily intelligence and weekly newsletters</div>
+      </a>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: 2.5rem 0 1.5rem;
+  }
+  .hero h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+  }
+  .subtitle {
+    color: var(--text-muted);
+    font-size: 1rem;
+    max-width: 520px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .metrics-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-top: 2rem;
+    padding: 1.25rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+  .metric {
+    text-align: center;
+  }
+  .metric-value {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent);
+    font-family: var(--mono);
+  }
+  .metric-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  .section-header h2 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .vendor-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  .vendor-card {
+    display: block;
+    text-decoration: none;
+  }
+  .vendor-card:hover { text-decoration: none; }
+  .vendor-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+  .vendor-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .vendor-emoji { font-size: 1.1rem; }
+  .vendor-card-score {
+    margin-bottom: 0.5rem;
+  }
+  .score-number {
+    font-size: 1.75rem;
+    font-weight: 700;
+    font-family: var(--mono);
+  }
+  .score-max {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-family: var(--mono);
+  }
+  .green-text { color: var(--green); }
+  .yellow-text { color: var(--yellow); }
+  .orange-text { color: var(--orange); }
+  .red-text { color: var(--red); }
+
+  .briefing-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .briefing-card { display: block; text-decoration: none; }
+  .briefing-card:hover { text-decoration: none; }
+  .briefing-title { font-weight: 600; font-size: 0.9rem; }
+
+  .quick-link {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+  }
+  .quick-link:hover { text-decoration: none; }
+  .quick-link-icon { font-size: 1.5rem; margin-bottom: 0.5rem; }
+  .quick-link-title { font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem; }
+
+  @media (max-width: 768px) {
+    .metrics-bar { grid-template-columns: repeat(2, 1fr); }
+    .vendor-grid { grid-template-columns: 1fr; }
+  }
+</style>
