@@ -89,6 +89,27 @@ Perplexity's commerce model is radically different from traditional affiliate ma
 - **Snap to Shop**: Launched visual search for product discovery through smartphone camera.
 - **Buy with Pro Expansion**: Continued expanding the in-chat checkout experience to more merchants and product categories.
 
+## Market Position & Competitive Context
+
+Perplexity Shopping competes in the emerging AI commerce space:
+
+- **Perplexity vs. ChatGPT Shopping (OpenAI ACP)**: ChatGPT has a larger user base; Perplexity offers zero merchant fees vs. ChatGPT's 4% transaction fee. Perplexity is more merchant-friendly; ChatGPT has more commercial reach.
+- **Perplexity vs. Google AI Shopping**: Google is building AI-powered shopping into Search AI Mode and Gemini via the Universal Commerce Protocol (UCP). Google's existing shopping infrastructure and merchant relationships give it a massive head start.
+- **Perplexity vs. Amazon**: Amazon owns the transaction end of shopping. Perplexity competes at the discovery/recommendation layer, potentially directing users to Amazon or away from it.
+- **Perplexity vs. Traditional Affiliate**: Perplexity's zero-fee model upends the traditional affiliate commission structure. If AI search cannibalizes Google search traffic, traditional affiliate publishers lose the SEO advantage that drives their business.
+
+The February 2026 pivot away from advertising toward commerce and subscriptions signals that Perplexity sees shopping as its primary monetization path.
+
+## Optimizing for Perplexity Recommendations
+
+Vendors can improve their chances of being recommended by Perplexity's AI:
+
+- **Join the Merchant Program**: The most direct action. Merchants in the program have their data indexed and are more likely to appear in product recommendations.
+- **Structured Product Data**: Ensure product information is machine-readable with accurate pricing, specifications, and availability. AI models depend on structured data.
+- **Expert Reviews & Citations**: Perplexity's AI cites sources. Products that are well-reviewed by authoritative sources (Wirecutter, expert publications) are more likely to be recommended.
+- **Competitive Pricing**: AI comparison features surface price differences. Competitive pricing improves recommendation likelihood.
+- **Inventory Accuracy**: Nothing damages AI commerce trust faster than recommending out-of-stock products. Keep inventory data accurate and real-time.
+
 ## Vendor Takeaway
 
 Perplexity Shopping represents a new commerce channel that vendors should take seriously. The zero-fee Merchant Program makes joining risk-free, and the growing user base (30M+ daily queries) provides meaningful discovery potential. For Flywheel vendors, the key actions are: (1) join the Perplexity Merchant Program immediately, since there is no cost and inclusion increases the likelihood of being recommended by the AI; (2) ensure product data (pricing, specs, availability, imagery) is accurate and up-to-date, as Perplexity's AI uses this data to generate recommendations; (3) monitor Perplexity Shopping performance as a new channel alongside traditional affiliate and search channels; (4) prepare for the broader trend of AI-powered product discovery displacing traditional search-based shopping. Perplexity Shopping is the most vendor-friendly of the AI commerce platforms and should be an easy decision for any brand.

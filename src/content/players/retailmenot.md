@@ -85,6 +85,26 @@ RetailMeNot earns revenue through performance-based affiliate commissions:
 - **Mobile Growth**: Continued investment in the mobile app experience, including location-based in-store offer activation.
 - **Industry Scrutiny**: The broader affiliate industry continues to debate the value of coupon/deal publishers, with some networks implementing stricter attribution controls.
 
+## Market Position & Competitive Context
+
+RetailMeNot operates in the coupon/deal publisher category, competing with similar platforms and browser extensions:
+
+- **RetailMeNot vs. Honey (PayPal)**: Honey operates primarily as a browser extension that automatically applies coupon codes at checkout. RetailMeNot is more of a destination site that users visit intentionally. Both face industry scrutiny for attribution practices.
+- **RetailMeNot vs. Rakuten Rewards**: Rakuten focuses on cashback loyalty; RetailMeNot focuses on coupons and deals. They compete for the "last click" before purchase but serve different consumer behaviors.
+- **RetailMeNot vs. Capital One Shopping**: Capital One Shopping is a free browser extension that competes directly with Honey and RetailMeNot's Deal Finder extension.
+- **RetailMeNot vs. Groupon**: Groupon focuses on local deals and experiences; RetailMeNot focuses on online shopping coupons. Different use cases with some overlap in consumer mindshare.
+
+The broader coupon/deal publisher category faces increasing scrutiny from advertisers concerned about incrementality and margin erosion.
+
+## Attribution & Incrementality Considerations
+
+For vendors, the core question with RetailMeNot is whether its traffic is incremental:
+
+- **The Incrementality Problem**: A consumer who has already decided to buy a product and searches for a coupon code is not truly driven by RetailMeNot. The purchase would have happened anyway, but the coupon reduces the merchant's margin.
+- **Mitigation Strategies**: Brands can implement new-customer-only commissions, time-limited commission windows, or reduced commission rates for coupon publishers to improve incrementality.
+- **When Coupons Add Value**: Coupon sites genuinely add value when they introduce consumers to brands they would not have otherwise considered, or when they convert price-sensitive shoppers who would have abandoned their cart without a discount.
+- **Network Controls**: Major affiliate networks now offer tools to control coupon publisher attribution, including commission overrides and last-click exclusions for coupon-only touchpoints.
+
 ## Vendor Takeaway
 
-RetailMeNot represents a double-edged sword for vendors. On one hand, it drives massive volume traffic from high-intent consumers. On the other, it can erode margins and claim attribution on sales that would have happened regardless. For Flywheel vendors, the key considerations are: (1) evaluate whether RetailMeNot traffic genuinely incremental or merely capturing existing purchase intent at the last click; (2) consider implementing new-customer-only commission structures to ensure RetailMeNot is driving acquisition, not just discounting existing customers; (3) monitor the broader industry trend toward stricter attribution standards and reduced coupon site commissions. RetailMeNot is most valuable for vendors during promotional periods (Black Friday, clearance events) when the goal is maximum volume rather than margin protection.
+RetailMeNot represents a double-edged sword for vendors. On one hand, it drives massive volume traffic from high-intent consumers. On the other, it can erode margins and claim attribution on sales that would have happened regardless. For Flywheel vendors, the key considerations are: (1) evaluate whether RetailMeNot traffic is genuinely incremental or merely capturing existing purchase intent at the last click; (2) consider implementing new-customer-only commission structures to ensure RetailMeNot is driving acquisition, not just discounting existing customers; (3) monitor the broader industry trend toward stricter attribution standards and reduced coupon site commissions. RetailMeNot is most valuable for vendors during promotional periods (Black Friday, clearance events) when the goal is maximum volume rather than margin protection.

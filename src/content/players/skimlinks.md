@@ -86,6 +86,26 @@ Skimlinks uses a revenue-sharing model:
 - **APAC Expansion**: Appointed a new APAC Director to expand Skimlinks' publisher and merchant base in Asia-Pacific markets.
 - **Publisher Analytics**: Enhanced editor tools and analytics to help publishers understand which commerce content performs best and optimize accordingly.
 
+## Market Position & Competitive Context
+
+Skimlinks occupies a unique position as monetization middleware:
+
+- **Skimlinks vs. Direct Network Participation**: Large publishers like Wirecutter manage affiliate relationships directly through networks. Skimlinks is more relevant for mid-tier publishers that lack the resources for direct network management.
+- **Skimlinks vs. Wildfire RevenueEngine**: Wildfire monetizes AI-generated content; Skimlinks monetizes editorial web content. As AI-generated content grows, Wildfire becomes the analogous player for AI surfaces.
+- **Skimlinks vs. Amazon Associates**: Many publishers default to Amazon Associates for simple monetization. Skimlinks provides broader merchant coverage and typically higher commissions through multi-network optimization.
+- **Taboola Synergy**: As a Taboola company, Skimlinks can potentially integrate with Taboola's content recommendation platform, creating a unified content discovery and monetization offering.
+
+The 3% publisher acceptance rate creates a quality signal that advertisers value, but also limits the network's scale compared to more open platforms.
+
+## Impact on Vendor Strategy
+
+Vendors should understand how Skimlinks affects their affiliate economics:
+
+- **Passive Exposure**: If your affiliate program exists on any major network, Skimlinks publishers may already be generating links to your products without your active involvement. Check your network dashboard for Skimlinks-attributed sales.
+- **Commission Competition**: Skimlinks routes to the highest-paying program. If your commission rate is lower than a competitor's, Skimlinks publishers will naturally favor linking to the competitor.
+- **Exclusive Rate Negotiation**: Offering Skimlinks-exclusive rates (above your standard network rate) incentivizes premium publishers to cover and link to your products.
+- **Publisher Attribution**: Skimlinks acts as a sub-affiliate. The sale appears in your network dashboard as a Skimlinks conversion, but the actual traffic source is a premium editorial publisher. Understanding this attribution chain matters for evaluating partner quality.
+
 ## Vendor Takeaway
 
 Skimlinks is important for vendors because it represents the "automatic monetization layer" that sits between editorial content and affiliate revenue. If a vendor has an affiliate program on any major network, Skimlinks publishers are likely already linking to their products automatically, meaning vendors may be driving sales through Skimlinks publishers without explicitly managing the relationship. For Flywheel vendors, the key actions are: (1) ensure your affiliate program offers competitive commission rates, since Skimlinks automatically routes publishers to the highest-paying programs; (2) consider offering Skimlinks-exclusive rates to incentivize premium publisher coverage; (3) monitor Skimlinks analytics (available through your affiliate network dashboard) to understand which premium publishers are driving sales. Skimlinks is particularly relevant for vendors whose products are likely to be mentioned in editorial content, product reviews, and gift guides at major publications.

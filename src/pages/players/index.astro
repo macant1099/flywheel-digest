@@ -31,7 +31,7 @@ function relevanceBadge(r: string): string {
 
 <Base title="Who's Who in Affiliate">
   <h1 class="page-title">Who's Who in Affiliate</h1>
-  <p class="page-intro">A comprehensive directory of the players shaping the affiliate commerce landscape — networks, platforms, publishers, AI innovators, and industry bodies. Each profile is continuously updated by our research pipeline.</p>
+  <p class="page-intro">A comprehensive directory of the players shaping the affiliate commerce landscape. Each profile is continuously updated by our research pipeline.</p>
 
   <div class="player-count">{players.length} players tracked</div>
 
@@ -41,7 +41,7 @@ function relevanceBadge(r: string): string {
         <h2 class="type-title">{label}</h2>
         <p class="type-description">{description}</p>
       </div>
-      <div class="player-list">
+      <div class="player-grid">
         {items.sort((a, b) => {
           const relevanceOrder = { high: 0, medium: 1, low: 2 };
           const ra = relevanceOrder[a.data.vendorRelevance] ?? 1;
@@ -49,16 +49,18 @@ function relevanceBadge(r: string): string {
           if (ra !== rb) return ra - rb;
           return a.data.name.localeCompare(b.data.name);
         }).map((p) => (
-          <a href={`/players/${p.id.replace(/\.md$/, '')}/`} class="card player-card">
-            <div class="player-top">
-              <span class="player-name">{p.data.name}</span>
+          <a href={`/players/${p.id.replace(/\.md$/, '')}/`} class="player-card">
+            <div class="card-header">
+              <h3 class="card-name">{p.data.name}</h3>
               <span class={`badge ${relevanceBadge(p.data.vendorRelevance)}`}>
-                {p.data.vendorRelevance} relevance
+                {p.data.vendorRelevance}
               </span>
             </div>
-            <p class="player-description">{p.data.description}</p>
+
+            <p class="card-description">{p.data.description}</p>
+
             {p.data.keyStats && p.data.keyStats.length > 0 && (
-              <div class="player-stats">
+              <div class="card-stats">
                 {p.data.keyStats.slice(0, 3).map((s) => (
                   <div class="stat">
                     <span class="stat-value">{s.value}</span>
@@ -67,10 +69,14 @@ function relevanceBadge(r: string): string {
                 ))}
               </div>
             )}
-            <div class="player-footer">
-              {p.data.website && <span class="text-xs text-muted">{p.data.website.replace(/^https?:\/\//, '').replace(/\/$/, '')}</span>}
-              <span class="text-xs text-muted">Updated {p.data.lastUpdated}</span>
+
+            <div class="card-footer">
+              {p.data.headquarters && <span class="footer-item">{p.data.headquarters}</span>}
+              {p.data.founded && <span class="footer-item">Est. {p.data.founded}</span>}
+              <span class="footer-item">{p.data.lastUpdated}</span>
             </div>
+
+            <span class="card-link">View profile &rarr;</span>
           </a>
         ))}
       </div>
@@ -98,80 +104,127 @@ function relevanceBadge(r: string): string {
     margin-bottom: 2.5rem;
     font-family: var(--mono);
   }
+
   .type-section {
-    margin-bottom: 3rem;
+    margin-bottom: 3.5rem;
   }
   .type-header {
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--border);
   }
   .type-title {
     font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 0.2rem;
+    font-weight: 700;
+    margin-bottom: 0.15rem;
   }
   .type-description {
     font-size: 0.88rem;
     color: var(--text-muted);
   }
-  .player-list {
+
+  .player-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+
+  .player-card {
     display: flex;
     flex-direction: column;
-    gap: 0.85rem;
-  }
-  .player-card {
-    display: block;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
     text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.15s, border-color 0.15s;
   }
-  .player-card:hover { text-decoration: none; }
-  .player-top {
+  .player-card:hover {
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+    border-color: #d1d5db;
+  }
+
+  .card-header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 0.4rem;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
   }
-  .player-name {
-    font-weight: 600;
-    font-size: 1rem;
+  .card-name {
+    font-size: 1.05rem;
+    font-weight: 700;
     color: var(--text);
+    line-height: 1.3;
   }
-  .player-description {
-    font-size: 0.9rem;
+
+  .card-description {
+    font-size: 0.88rem;
     color: var(--text-muted);
     line-height: 1.6;
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
+    flex-grow: 1;
   }
-  .player-stats {
+
+  .card-stats {
     display: flex;
-    gap: 2rem;
-    margin-bottom: 0.75rem;
-    padding: 0.65rem 0;
+    gap: 1.5rem;
+    padding: 0.75rem 0;
     border-top: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.75rem;
   }
   .stat {
     display: flex;
     flex-direction: column;
+    min-width: 0;
   }
   .stat-value {
     font-weight: 600;
-    font-size: 0.95rem;
+    font-size: 0.88rem;
     color: var(--text);
     font-family: var(--mono);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .stat-label {
-    font-size: 0.75rem;
+    font-size: 0.68rem;
     color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 0.04em;
   }
-  .player-footer {
+
+  .card-footer {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+  .footer-item {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+  .footer-item:not(:last-child)::after {
+    content: "\00b7";
+    margin-left: 1rem;
+    color: var(--border);
+  }
+
+  .card-link {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .player-card:hover .card-link {
+    text-decoration: underline;
   }
 
   @media (max-width: 768px) {
-    .player-top { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
-    .player-stats { gap: 1.25rem; flex-wrap: wrap; }
+    .player-grid {
+      grid-template-columns: 1fr;
+    }
+    .card-stats { gap: 1rem; flex-wrap: wrap; }
   }
 </style>
