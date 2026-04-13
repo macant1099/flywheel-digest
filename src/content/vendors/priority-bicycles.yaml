@@ -4,8 +4,8 @@ category: DTC Bicycles (Belt-Drive, E-Bikes, Fleet)
 platform: Shopify (standard)
 website: https://www.prioritybicycles.com
 websiteDisplay: prioritybicycles.com
-afareScore: 44
-afareBand: Early
+afareScore: 46
+afareBand: Developing
 afareDimensions:
   - name: Program Presence
     score: 9
@@ -58,22 +58,22 @@ afareDimensions:
         maxScore: 4
         evidence: "Flat 5% across diverse price points ($300 kids bikes to $2,500+ e-bikes). No strategic rate differentiation by category."
   - name: Partner Ecosystem
-    score: 9
+    score: 11
     maxScore: 20
-    tagline: Small but thoughtful ecosystem with strong creator investment
+    tagline: Stronger-than-expected editorial coverage with Wirecutter and major cycling publications
     criteria:
       - name: Active Affiliate Count
         score: 1
         maxScore: 4
         evidence: Likely 10-50 active affiliates as a small DTC brand on a single niche network.
       - name: Partner Type Diversity
-        score: 2
+        score: 3
         maxScore: 4
-        evidence: "Confirmed types: cycling/outdoor content blogs, deal/coupon sites, content creators. Limited to content + coupon + creator."
+        evidence: "4+ partner types confirmed: content/review (Wirecutter, Bicycling.com, GearJunkie, BikeXchange, BikePacking.com), coupon/deal (Cycling Weekly active coupon page), comparison/database (99 Spokes), content creators (Van Duzer, TwoWheelingTots)."
       - name: Top Partner Quality
-        score: 2
+        score: 3
         maxScore: 4
-        evidence: "Reviews from mid-tier cycling publications (DA 20-50). Editorial mentions in Forbes and Robb Report, but not confirmed affiliate-driven."
+        evidence: "Wirecutter/NYT recommending Continuum Onyx in Best Hybrid Bikes 2026 (DA 95+). Bicycling.com (DA 85+) dedicated reviews. GearJunkie (DA 70+) Tested program. Cycling Weekly (DA 75+) review + active coupon page."
       - name: Content Creator Engagement
         score: 3
         maxScore: 4
@@ -146,9 +146,9 @@ gaps:
     description: "21-day cookie is problematic for high-consideration bicycle purchases. Recommendation: Extend to 30-45 days."
   - title: No membership commerce model (1/4)
     description: "Purely transactional with no recurring revenue opportunity. Recommendation: Launch a 'Priority Rider' membership at $49-99/year."
-assessment: "Priority Bicycles scores 44/100 (Early band, top end) on the AFARE scale, reflecting a small DTC brand with thoughtful partnership strategy but limited affiliate infrastructure and scale. The brand punches above its weight in program discoverability and partnership architecture."
-assessmentHighlight: "The clearest path to 60+ (Developing band) is: (1) launch on Impact or CJ, (2) extend cookie to 30-45 days, and (3) introduce tiered commission incentives."
-evaluationDate: "2026-04-11"
+assessment: "Priority Bicycles scores 46/100 (Developing band, entry) on the AFARE scale, reflecting a small DTC brand with thoughtful partnership strategy and stronger-than-expected editorial coverage, but limited affiliate infrastructure and scale. Wirecutter, Bicycling.com, GearJunkie, and Cycling Weekly all actively feature Priority products (April 2026)."
+assessmentHighlight: "The clearest path to 60+ (mid-Developing) is: (1) launch on Impact or CJ, (2) extend cookie to 30-45 days, (3) introduce tiered e-bike commission incentives, and (4) confirm AvantLink enrollment for tier-1 publishers to prevent affiliate leakage."
+evaluationDate: "2026-04-13"
 competitivePosition:
   competitors:
     - name: Rad Power Bikes
@@ -167,4 +167,4 @@ competitivePosition:
       networks: 1
       commissionRate: Varies
       cookieDuration: Unknown
-  summary: "Priority sits in the middle of its DTC bicycle competitive set, trailing Aventon and Rad Power on affiliate scale but leading on program discoverability and creator investment."
+  summary: "Priority now leads the DTC bicycle competitive set on partner quality (Wirecutter, Bicycling.com, GearJunkie active Apr 2026). Rad Power Bikes filed Ch.11 bankruptcy (Dec 2025) and was acquired by Life EV (Mar 2026), destabilizing their affiliate program — creating a recruitment window for Priority."
