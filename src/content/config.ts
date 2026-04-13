@@ -72,4 +72,22 @@ const newsletters = defineCollection({
   }),
 });
 
-export const collections = { vendors, research, briefings, newsletters };
+const players = defineCollection({
+  type: 'content',
+  schema: z.object({
+    name: z.string(),
+    type: z.enum(['network', 'platform', 'publisher', 'ai-tech', 'industry-body']),
+    description: z.string(),
+    website: z.string().optional(),
+    founded: z.string().optional(),
+    headquarters: z.string().optional(),
+    keyStats: z.array(z.object({
+      label: z.string(),
+      value: z.string(),
+    })).optional(),
+    vendorRelevance: z.enum(['high', 'medium', 'low']).default('medium'),
+    lastUpdated: z.string(),
+  }),
+});
+
+export const collections = { vendors, research, briefings, newsletters, players };

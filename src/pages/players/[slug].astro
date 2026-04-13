@@ -1,0 +1,163 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const players = await getCollection('players');
+  return players.map((p) => ({
+    params: { slug: p.id.replace(/\.md$/, '') },
+    props: { entry: p },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+function typeLabel(type: string): string {
+  switch (type) {
+    case 'network': return 'Affiliate Network';
+    case 'platform': return 'Platform & Tools';
+    case 'publisher': return 'Publisher & Partner';
+    case 'ai-tech': return 'AI & Emerging Tech';
+    case 'industry-body': return 'Industry Body';
+    default: return type;
+  }
+}
+
+function relevanceClass(r: string): string {
+  switch (r) {
+    case 'high': return 'green';
+    case 'medium': return 'yellow';
+    case 'low': return '';
+    default: return '';
+  }
+}
+---
+
+<Base title={entry.data.name}>
+  <div class="player-header">
+    <a href="/players/" class="back-link">&larr; All Players</a>
+    <h1 class="player-name">{entry.data.name}</h1>
+    <div class="player-meta">
+      <span class="badge blue">{typeLabel(entry.data.type)}</span>
+      <span class={`badge ${relevanceClass(entry.data.vendorRelevance)}`}>
+        {entry.data.vendorRelevance} relevance
+      </span>
+      {entry.data.website && (
+        <a href={entry.data.website} target="_blank" rel="noopener" class="text-sm">
+          {entry.data.website.replace(/^https?:\/\//, '').replace(/\/$/, '')} &nearr;
+        </a>
+      )}
+    </div>
+    <p class="player-description">{entry.data.description}</p>
+  </div>
+
+  {entry.data.keyStats && entry.data.keyStats.length > 0 && (
+    <div class="stats-bar">
+      {entry.data.keyStats.map((s) => (
+        <div class="stat">
+          <span class="stat-value">{s.value}</span>
+          <span class="stat-label">{s.label}</span>
+        </div>
+      ))}
+    </div>
+  )}
+
+  <div class="info-row">
+    {entry.data.founded && (
+      <div class="info-item">
+        <span class="info-label">Founded</span>
+        <span class="info-value">{entry.data.founded}</span>
+      </div>
+    )}
+    {entry.data.headquarters && (
+      <div class="info-item">
+        <span class="info-label">Headquarters</span>
+        <span class="info-value">{entry.data.headquarters}</span>
+      </div>
+    )}
+    <div class="info-item">
+      <span class="info-label">Last Updated</span>
+      <span class="info-value">{entry.data.lastUpdated}</span>
+    </div>
+  </div>
+
+  <div class="prose">
+    <Content />
+  </div>
+</Base>
+
+<style>
+  .player-header {
+    margin-bottom: 2rem;
+  }
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  .back-link:hover { color: var(--accent); }
+  .player-name {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    margin-bottom: 0.6rem;
+  }
+  .player-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  .player-description {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+  }
+  .stats-bar {
+    display: flex;
+    gap: 2.5rem;
+    padding: 1.25rem 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+  .stat { display: flex; flex-direction: column; }
+  .stat-value {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--text);
+    font-family: var(--mono);
+  }
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .info-row {
+    display: flex;
+    gap: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .info-item { display: flex; flex-direction: column; }
+  .info-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .info-value {
+    font-size: 0.9rem;
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  @media (max-width: 768px) {
+    .stats-bar { gap: 1.5rem; flex-wrap: wrap; }
+    .info-row { gap: 1.5rem; flex-wrap: wrap; }
+  }
+</style>

@@ -1,0 +1,177 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const players = await getCollection('players');
+
+const typeGroups: Record<string, { label: string; description: string; items: typeof players }> = {
+  'network': { label: 'Affiliate Networks', description: 'Platforms connecting brands with affiliates', items: [] },
+  'platform': { label: 'Platforms & Tools', description: 'Technology for managing affiliate programs', items: [] },
+  'publisher': { label: 'Publishers & Partners', description: 'Sites and services that drive affiliate traffic', items: [] },
+  'ai-tech': { label: 'AI & Emerging Tech', description: 'AI-powered affiliate and commerce technology', items: [] },
+  'industry-body': { label: 'Industry Bodies', description: 'Trade associations and standards organizations', items: [] },
+};
+
+for (const p of players) {
+  const t = p.data.type;
+  if (typeGroups[t]) {
+    typeGroups[t].items.push(p);
+  }
+}
+
+function relevanceBadge(r: string): string {
+  switch (r) {
+    case 'high': return 'green';
+    case 'medium': return 'yellow';
+    case 'low': return '';
+    default: return '';
+  }
+}
+---
+
+<Base title="Who's Who in Affiliate">
+  <h1 class="page-title">Who's Who in Affiliate</h1>
+  <p class="page-intro">A comprehensive directory of the players shaping the affiliate commerce landscape — networks, platforms, publishers, AI innovators, and industry bodies. Each profile is continuously updated by our research pipeline.</p>
+
+  <div class="player-count">{players.length} players tracked</div>
+
+  {Object.entries(typeGroups).filter(([, v]) => v.items.length > 0).map(([key, { label, description, items }]) => (
+    <section class="type-section">
+      <div class="type-header">
+        <h2 class="type-title">{label}</h2>
+        <p class="type-description">{description}</p>
+      </div>
+      <div class="player-list">
+        {items.sort((a, b) => {
+          const relevanceOrder = { high: 0, medium: 1, low: 2 };
+          const ra = relevanceOrder[a.data.vendorRelevance] ?? 1;
+          const rb = relevanceOrder[b.data.vendorRelevance] ?? 1;
+          if (ra !== rb) return ra - rb;
+          return a.data.name.localeCompare(b.data.name);
+        }).map((p) => (
+          <a href={`/players/${p.id.replace(/\.md$/, '')}/`} class="card player-card">
+            <div class="player-top">
+              <span class="player-name">{p.data.name}</span>
+              <span class={`badge ${relevanceBadge(p.data.vendorRelevance)}`}>
+                {p.data.vendorRelevance} relevance
+              </span>
+            </div>
+            <p class="player-description">{p.data.description}</p>
+            {p.data.keyStats && p.data.keyStats.length > 0 && (
+              <div class="player-stats">
+                {p.data.keyStats.slice(0, 3).map((s) => (
+                  <div class="stat">
+                    <span class="stat-value">{s.value}</span>
+                    <span class="stat-label">{s.label}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+            <div class="player-footer">
+              {p.data.website && <span class="text-xs text-muted">{p.data.website.replace(/^https?:\/\//, '').replace(/\/$/, '')}</span>}
+              <span class="text-xs text-muted">Updated {p.data.lastUpdated}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>
+
+<style>
+  .page-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    margin-bottom: 0.5rem;
+  }
+  .page-intro {
+    color: var(--text-muted);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 0.75rem;
+    max-width: 640px;
+  }
+  .player-count {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+    font-family: var(--mono);
+  }
+  .type-section {
+    margin-bottom: 3rem;
+  }
+  .type-header {
+    margin-bottom: 1rem;
+  }
+  .type-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.2rem;
+  }
+  .type-description {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+  }
+  .player-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+  .player-card {
+    display: block;
+    text-decoration: none;
+  }
+  .player-card:hover { text-decoration: none; }
+  .player-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+  }
+  .player-name {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+  }
+  .player-description {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+  .player-stats {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 0.75rem;
+    padding: 0.65rem 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+  }
+  .stat-value {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--text);
+    font-family: var(--mono);
+  }
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .player-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  @media (max-width: 768px) {
+    .player-top { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
+    .player-stats { gap: 1.25rem; flex-wrap: wrap; }
+  }
+</style>
