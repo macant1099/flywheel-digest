@@ -2,6 +2,7 @@
 title: "Tracking, Attribution & Privacy — Industry Research"
 category: industry
 lastUpdated: "2026-04-13"
+summary: "Cookie deprecation, server-side tracking adoption, and attribution model shifts affecting affiliate revenue measurement."
 ---
 
 # Tracking, Attribution & Privacy — Industry Research

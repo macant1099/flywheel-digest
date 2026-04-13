@@ -2,6 +2,7 @@
 title: "Social Commerce & Influencer Affiliate — Industry Research"
 category: industry
 lastUpdated: "2026-04-13"
+summary: "Tracking the convergence of social platforms, creator monetization, and affiliate commerce."
 ---
 
 # Social Commerce & Influencer Affiliate — Industry Research

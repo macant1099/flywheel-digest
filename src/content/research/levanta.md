@@ -2,6 +2,7 @@
 title: "Levanta — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-13"
+summary: "Amazon-native affiliate platform connecting sellers with publishers at 15-25% commission rates vs Amazon Associates' 1-4%."
 ---
 
 # Levanta — Network Research
