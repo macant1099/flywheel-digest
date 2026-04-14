@@ -4,14 +4,32 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const vendors = await getCollection('vendors');
-  return vendors.map((vendor) => ({
-    params: { slug: vendor.id },
-    props: { vendor },
-  }));
+  const playbooks = await getCollection('playbooks');
+  const partners = await getCollection('partners');
+  return vendors.map((vendor) => {
+    const playbook = playbooks.find(p => p.data.vendor === vendor.id);
+    const partnerRecs = partners.find(p => p.data.vendor === vendor.id);
+    return {
+      params: { slug: vendor.id },
+      props: { vendor, playbook, partnerRecs },
+    };
+  });
 }
 
-const { vendor } = Astro.props;
+const { vendor, playbook, partnerRecs } = Astro.props;
 const v = vendor.data;
+
+let PlaybookContent: any = null;
+if (playbook) {
+  const rendered = await playbook.render();
+  PlaybookContent = rendered.Content;
+}
+
+let PartnersContent: any = null;
+if (partnerRecs) {
+  const rendered = await partnerRecs.render();
+  PartnersContent = rendered.Content;
+}
 
 function bandClass(band: string): string {
   switch (band) {
@@ -179,6 +197,26 @@ function scoreColor(score: number, max: number): string {
     </div>
     <p class="text-xs text-muted mt-1">Evaluated: {v.evaluationDate}</p>
   </section>
+
+  {PlaybookContent && (
+    <section class="playbook-section mt-3">
+      <h2>Action Playbook</h2>
+      <p class="section-intro">Specific actions to improve this vendor's affiliate footprint, organized by timeframe.</p>
+      <div class="prose playbook-content">
+        <PlaybookContent />
+      </div>
+    </section>
+  )}
+
+  {PartnersContent && (
+    <section class="partners-section mt-3">
+      <h2>Partner Recommendations</h2>
+      <p class="section-intro">Potential affiliate partners scored on audience overlap, content relevance, reach, brand safety, and conversion potential.</p>
+      <div class="prose partners-content">
+        <PartnersContent />
+      </div>
+    </section>
+  )}
 </Base>
 
 <style>
@@ -350,6 +388,38 @@ function scoreColor(score: number, max: number): string {
   .assessment-highlight {
     color: var(--accent) !important;
     font-weight: 600;
+  }
+
+  .section-intro {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+
+  .playbook-section, .partners-section {
+    border-top: 2px solid var(--border);
+    padding-top: 2rem;
+  }
+  .playbook-section h2, .partners-section h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  .playbook-content :global(h1),
+  .partners-content :global(h1) {
+    display: none;
+  }
+  .playbook-content :global(h2),
+  .partners-content :global(h2) {
+    font-size: 1.1rem;
+    margin-top: 2rem;
+  }
+  .playbook-content :global(h3),
+  .partners-content :global(h3) {
+    font-size: 0.95rem;
+    margin-top: 1.5rem;
   }
 
   @media (max-width: 768px) {

@@ -72,6 +72,25 @@ const newsletters = defineCollection({
   }),
 });
 
+const playbooks = defineCollection({
+  type: 'content',
+  schema: z.object({
+    vendor: z.string(),
+    date: z.string(),
+    afareScore: z.number().optional(),
+    afareBand: z.string().optional(),
+  }),
+});
+
+const partners = defineCollection({
+  type: 'content',
+  schema: z.object({
+    vendor: z.string(),
+    date: z.string(),
+    category: z.string().optional(),
+  }),
+});
+
 const players = defineCollection({
   type: 'content',
   schema: z.object({
@@ -90,4 +109,4 @@ const players = defineCollection({
   }),
 });
 
-export const collections = { vendors, research, briefings, newsletters, players };
+export const collections = { vendors, research, briefings, newsletters, playbooks, partners, players };
