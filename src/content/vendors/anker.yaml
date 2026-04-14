@@ -4,8 +4,8 @@ category: Consumer Electronics / Charging & Accessories
 platform: Shopify Plus (headless, 50+ global storefronts)
 website: https://www.anker.com
 websiteDisplay: anker.com
-afareScore: 64
-afareBand: Developing
+afareScore: 65
+afareBand: Established
 afareDimensions:
   - name: Program Presence
     score: 12
@@ -58,9 +58,9 @@ afareDimensions:
         maxScore: 4
         evidence: "Distinct structures per product line: Anker core (8%), AnkerWork (separate), Anker SOLIX (5%). Margin-aware product-level strategy."
   - name: Partner Ecosystem
-    score: 13
+    score: 14
     maxScore: 20
-    tagline: Healthy ecosystem anchored by premium editorial coverage
+    tagline: Best-in-class editorial coverage with 10+ tier-1 publishers
     criteria:
       - name: Active Affiliate Count
         score: 3
@@ -71,9 +71,9 @@ afareDimensions:
         maxScore: 4
         evidence: "Confirmed types: content/review sites, coupon/deal sites, tech comparison sites, social media influencers (SuperChargers), cashback/loyalty sites."
       - name: Top Partner Quality
-        score: 3
+        score: 4
         maxScore: 4
-        evidence: "Regularly featured in tier-1 editorial: Tom's Guide, TechRadar, CNN Underscored, Engadget, GearJunkie, and Wirecutter (DA 70+ publications)."
+        evidence: "10+ tier-1 editorial partners (DA 70+) with featured/top-pick placements: Wirecutter/NYT (DA 95+), WIRED (DA 92+, #1 power bank Mar 2026), PCMag (DA 85+), The Verge (DA 92+), CNET (DA 91+), TechRadar (DA 80+), CNN Underscored (DA 95+), Engadget (DA 90+), Popular Mechanics (DA 85+, top pick Apr 2026), AppleInsider (DA 80+). Multiple 'Best Overall' and '#1 Pick' designations in Q1 2026 buying guides."
       - name: Content Creator Engagement
         score: 3
         maxScore: 4
@@ -137,8 +137,8 @@ strengths:
     description: 50+ global storefronts, headless architecture, and deep ERP/CRM integration provide an ideal technical foundation for LiveChannel integration.
   - title: Above-median commission rates (8% base)
     description: "Anker's 8% flat commission exceeds the consumer electronics category median of 5%, making it attractive to affiliates."
-  - title: Premium editorial partner coverage
-    description: "Consistent presence in 'best of' roundups from Tom's Guide, TechRadar, CNN Underscored, Engadget, GearJunkie, and Wirecutter."
+  - title: Best-in-class editorial partner coverage (4/4)
+    description: "Featured placements and top picks across 10+ tier-1 publications: Wirecutter, WIRED, PCMag, The Verge, CNET, TechRadar, CNN Underscored, Engadget, Popular Mechanics, AppleInsider. Strongest editorial affiliate footprint in consumer electronics."
 gaps:
   - title: No AI agent affiliate strategy (1/4)
     description: "All agent-driven affiliate revenue routes through Amazon Associates rather than Anker's direct program. Recommendation: Create a dedicated AI Agent Affiliate tier on Impact."
@@ -146,9 +146,9 @@ gaps:
     description: "Purely transactional model limits LiveChannel's membership-based affiliate potential. Recommendation: Launch an 'Anker Insider' membership."
   - title: Long payment cycle hurts affiliate recruitment (2/4)
     description: "45-day validation + 60-day payment (90-105 days total). Recommendation: Negotiate reduction to 45-60 days."
-assessment: "Anker scores 64/100 (Developing band, top end) on the AFARE scale, reflecting a mature affiliate program built on strong infrastructure that has significant room for strategic advancement. The program's core strengths are clear: above-median commission rates, a best-in-class Shopify Plus platform, and organic coverage from premium editorial publications."
-assessmentHighlight: "The clearest path to 75+ (Established band) is: (1) launch an AI agent affiliate tier, (2) build a membership offering, and (3) accelerate payment terms."
-evaluationDate: "2026-04-11"
+assessment: "Anker scores 65/100 (Established band) on the AFARE scale, reflecting a mature affiliate program built on strong infrastructure with best-in-class editorial coverage. The program's core strengths are clear: above-median commission rates, a best-in-class Shopify Plus platform, and premium editorial coverage from 10+ tier-1 publications with featured placements."
+assessmentHighlight: "The clearest path to 75+ (mid-Established) is: (1) launch an AI agent affiliate tier, (2) build a membership offering, and (3) accelerate payment terms."
+evaluationDate: "2026-04-14"
 competitivePosition:
   competitors:
     - name: EcoFlow
@@ -167,4 +167,4 @@ competitivePosition:
       networks: 2
       commissionRate: 8-15%
       cookieDuration: 30-60 days
-  summary: "Anker leads its direct competitive set in overall AFARE score, primarily due to superior platform infrastructure and editorial partner quality. UGREEN is the most aggressive competitor on commission terms."
+  summary: "Anker leads its direct competitive set in overall AFARE score, driven by superior platform infrastructure (Shopify Plus at enterprise scale) and best-in-class editorial partner quality (10+ tier-1 publications). UGREEN is the most aggressive competitor on commission terms."
