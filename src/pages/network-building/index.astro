@@ -1,0 +1,165 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const research = await getCollection('research');
+const nbFiles = research.filter(r => r.data.category === 'network-building');
+---
+
+<Base title="Network Building">
+  <h1 class="page-title">Network Building</h1>
+  <p class="page-intro">A three-phase guide to building private affiliate networks on LiveChannel — from finding the right partners, to signing them up, to driving consumer traffic into the live network.</p>
+
+  <div class="phase-grid">
+    <a href="/network-building/discovery/" class="phase-card">
+      <div class="phase-number">1</div>
+      <h2>Discovery</h2>
+      <p>Find the right partners to invite into your private network. Membership organizations, content creators, niche communities, loyalty programs — who fits your brand and your customers?</p>
+      <span class="phase-link">Read the guide &rarr;</span>
+    </a>
+
+    <a href="/network-building/recruitment/" class="phase-card">
+      <div class="phase-number">2</div>
+      <h2>Recruitment</h2>
+      <p>Pitch, negotiate, and onboard partners. LiveChannel's proposition isn't "earn commissions" — it's "let's build a shared commerce experience for your members."</p>
+      <span class="phase-link">Read the guide &rarr;</span>
+    </a>
+
+    <a href="/network-building/activation/" class="phase-card">
+      <div class="phase-number">3</div>
+      <h2>Activation</h2>
+      <p>Drive consumer traffic into the live network. The partner — not the vendor — is the primary traffic engine. Embed offers into existing member touchpoints.</p>
+      <span class="phase-link">Read the guide &rarr;</span>
+    </a>
+  </div>
+
+  <section class="how-it-works">
+    <h2>Two Categories of Research</h2>
+    <div class="category-grid">
+      <div class="category-card">
+        <h3>General Research</h3>
+        <p>Industry-level intelligence that applies to all vendors. Best practices for partner discovery, recruitment strategies that work, activation tactics with the highest ROI. This is the shared playbook — the knowledge base any vendor can learn from.</p>
+        <p class="category-note">Published in the research library and daily briefings.</p>
+      </div>
+      <div class="category-card">
+        <h3>Vendor-Specific Research</h3>
+        <p>Applying the general playbook to a specific vendor's situation. Which partners fit their category? What does a recruitment pitch look like for their products? Which activation channels match their customer demographic?</p>
+        <p class="category-note">Delivered in individual vendor scorecards, action playbooks, and partner recommendations.</p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .page-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    margin-bottom: 0.5rem;
+  }
+  .page-intro {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 2.5rem;
+    max-width: 640px;
+  }
+
+  .phase-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.25rem;
+    margin-bottom: 3.5rem;
+  }
+  .phase-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.75rem;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.15s, border-color 0.15s;
+  }
+  .phase-card:hover {
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    border-color: #d1d5db;
+  }
+  .phase-number {
+    width: 2.25rem;
+    height: 2.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 50%;
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .phase-card h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+  }
+  .phase-card p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.65;
+    flex-grow: 1;
+    margin-bottom: 1rem;
+  }
+  .phase-link {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .phase-card:hover .phase-link {
+    text-decoration: underline;
+  }
+
+  .how-it-works {
+    margin-top: 1rem;
+  }
+  .how-it-works h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .category-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+  .category-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+  }
+  .category-card h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+  }
+  .category-card p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.65;
+    margin-bottom: 0.5rem;
+  }
+  .category-note {
+    font-size: 0.82rem;
+    font-style: italic;
+  }
+
+  @media (max-width: 768px) {
+    .phase-grid { grid-template-columns: 1fr; }
+    .category-grid { grid-template-columns: 1fr; }
+  }
+</style>

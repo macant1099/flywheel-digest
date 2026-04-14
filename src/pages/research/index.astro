@@ -9,6 +9,7 @@ const categories: Record<string, { label: string; items: typeof research }> = {
   'verticals': { label: 'Verticals', items: [] },
   'industry': { label: 'Industry', items: [] },
   'livechannel': { label: 'LiveChannel', items: [] },
+  'network-building': { label: 'Network Building', items: [] },
 };
 
 for (const r of research) {
@@ -24,6 +25,7 @@ function categoryBadgeClass(cat: string): string {
     case 'verticals': return 'yellow';
     case 'industry': return 'orange';
     case 'livechannel': return 'red';
+    case 'network-building': return 'blue';
     default: return '';
   }
 }

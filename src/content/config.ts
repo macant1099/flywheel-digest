@@ -44,7 +44,7 @@ const research = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    category: z.enum(['affiliate-networks', 'verticals', 'industry', 'livechannel']),
+    category: z.enum(['affiliate-networks', 'verticals', 'industry', 'livechannel', 'network-building']),
     summary: z.string().optional(),
     lastUpdated: z.string(),
     status: z.enum(['tracking', 'active', 'new']).default('tracking'),

@@ -1,0 +1,77 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const research = await getCollection('research');
+const entry = research.find(r => r.id.replace(/\.md$/, '') === 'recruitment' && r.data.category === 'network-building');
+
+let Content: any = null;
+if (entry) {
+  const rendered = await entry.render();
+  Content = rendered.Content;
+}
+---
+
+<Base title="Recruitment — Network Building">
+  <article class="prose">
+    <a href="/network-building/" class="back-link">&larr; Network Building</a>
+
+    <div class="phase-header">
+      <div class="phase-number">2</div>
+      <div>
+        <h1>Partner Recruitment</h1>
+        <p class="phase-sub">How to pitch, negotiate, and onboard partners into your private LiveChannel network.</p>
+      </div>
+    </div>
+
+    {entry && <p class="last-updated">Last updated: {entry.data.lastUpdated}</p>}
+
+    {Content ? <Content /> : <p class="text-muted">Research file not yet synced. Check back after the next webmaster run.</p>}
+  </article>
+</Base>
+
+<style>
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  .back-link:hover { color: var(--accent); }
+  .phase-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .phase-number {
+    flex-shrink: 0;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 50%;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 0.25rem;
+  }
+  .phase-header h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.25rem;
+  }
+  .phase-sub {
+    font-size: 1rem;
+    color: var(--text-muted);
+    margin-bottom: 0;
+  }
+  .last-updated {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-family: var(--mono);
+    margin-bottom: 2rem;
+  }
+</style>
