@@ -90,31 +90,6 @@ The IAB is a membership-based trade organization:
 - **Shenan Reed Board Chair (2025)**: Appointed General Motors' Global Chief Media Officer as Board Chair, signaling brand-side leadership in IAB governance.
 - **European Market Growth**: Reported that the European digital advertising market reached $118.9 billion in 2025, a 16% increase.
 
-## Relevance to Affiliate & Agentic Commerce
-
-While the IAB's primary focus is display advertising, several of its initiatives directly impact affiliate and agentic commerce:
-
-### AI Transparency and Disclosure
-The 2026 AI Transparency and Disclosure Framework will shape how AI agents must disclose their commerce relationships. When ChatGPT or Perplexity recommends a product, users may need to know whether the recommendation is influenced by commercial agreements. This framework affects how ACP, UCP, and Wildfire RevenueEngine operate.
-
-### Privacy & Consent (TCF)
-The Transparency and Consent Framework affects affiliate tracking in European markets. Publishers and advertisers must obtain proper consent before tracking user behavior, which impacts affiliate attribution, cookie-based tracking, and cross-site measurement.
-
-### Measurement Standards
-IAB's measurement and viewability standards increasingly apply to affiliate and performance marketing. As the line between "advertising" and "commerce" blurs (particularly in AI-driven experiences), IAB measurement standards may extend to cover agentic commerce transactions.
-
-### Ad Format Evolution
-IAB's New Ad Unit Portfolio now covers virtual and augmented reality formats. As shopping experiences evolve beyond traditional web pages (into AI chat interfaces, AR try-on, voice commerce), IAB standards will define how these new formats are measured and monetized.
-
-## How Vendors Should Engage
-
-For most Flywheel vendors, the IAB is a background force rather than a direct engagement:
-
-- **Monitor AI Framework**: Watch the AI Transparency and Disclosure Framework for requirements that may affect how your products are presented in AI commerce experiences.
-- **TCF Compliance**: If selling to European consumers, ensure TCF v2.3 compliance for affiliate tracking and attribution.
-- **Research Reports**: IAB market research provides authoritative data on digital advertising trends that contextualize affiliate marketing within the broader digital ecosystem.
-- **Industry Events**: IAB events (Annual Leadership Meeting, NewFronts) are primarily attended by advertising executives but increasingly relevant for commerce professionals.
-
 ## Vendor Takeaway
 
 The IAB is relevant to Flywheel vendors primarily for its standards and frameworks that are increasingly shaping the rules for AI-driven commerce and digital advertising. While the PMA is more directly relevant for affiliate marketing, the IAB's AI Transparency and Disclosure Framework and privacy frameworks (TCF) affect how brands interact with AI commerce platforms, track conversions, and manage consumer data. For Flywheel vendors, the key takeaways are: (1) monitor IAB's AI transparency framework, as it will influence how AI agents disclose commerce relationships and recommendations; (2) ensure compliance with TCF v2.3 for GDPR-regulated markets; (3) follow IAB research for authoritative data on digital advertising market trends; (4) understand that as agentic commerce grows, IAB standards will increasingly apply to AI-powered shopping experiences, not just traditional display advertising. The IAB's 2026 focus on Agentic AI signals that the organization is actively working to create governance frameworks for AI-driven commerce.

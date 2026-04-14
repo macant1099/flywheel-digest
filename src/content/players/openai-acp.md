@@ -90,28 +90,6 @@ OpenAI's commerce model charges merchants:
 - **Shopify Expansion**: Over 1M Shopify merchants (including Glossier, SKIMS, Spanx, Vuori) being onboarded to ACP.
 - **$122B Funding Round (April 2026)**: Massive funding round provides resources for continued commerce investment.
 
-## Market Position & Competitive Context
-
-OpenAI's ACP is the leading agentic commerce protocol but faces growing competition:
-
-- **ACP vs. Google UCP**: Google's Universal Commerce Protocol, announced January 2026, is a coalition-backed alternative coming to Google Search AI Mode and Gemini. Most brands will ultimately need to support both. Google has existing merchant relationships through Google Shopping; OpenAI is building from scratch.
-- **ACP vs. Perplexity Merchant Program**: Perplexity charges zero fees; ACP charges 4%. Perplexity is smaller but more merchant-friendly. Both are building in-chat checkout experiences.
-- **ACP vs. Traditional Affiliate**: ACP could eventually disintermediate traditional affiliate networks if ChatGPT becomes a primary product discovery channel. However, the affiliate ecosystem's 25+ year history of publisher relationships, content creation, and audience building cannot be replicated overnight.
-- **ACP vs. Amazon**: Amazon controls the transaction end of commerce. ACP competes at the discovery layer but has also partnered with Shopify merchants for checkout, positioning as an alternative to Amazon dependency.
-
-The March 2026 checkout pivot from Instant Checkout to discovery-with-redirect suggests OpenAI is still learning how consumers want to shop through AI interfaces.
-
-## The Dual-Protocol Future
-
-Vendors should prepare for a world where multiple AI commerce protocols coexist:
-
-- **ACP (OpenAI/ChatGPT)**: 4% transaction fee, Stripe/PayPal checkout, discovery-first approach.
-- **UCP (Google/Gemini)**: Coalition-backed, coming to Google Search AI Mode. Details still emerging but expected to leverage existing Google Shopping infrastructure.
-- **Perplexity Merchant Program**: Zero fees, PayPal checkout, smaller but growing user base.
-- **Amazon AI Shopping**: Amazon's own AI-powered shopping within its ecosystem, leveraging Alexa and app AI features.
-
-Vendors that build machine-readable product data infrastructure now will be able to support all protocols simultaneously, since the underlying data requirements (pricing, specs, availability, imagery) are similar across platforms.
-
 ## Vendor Takeaway
 
 OpenAI's Agentic Commerce Protocol is arguably the most consequential development in the affiliate and commerce ecosystem since the invention of the affiliate link itself. ChatGPT's user base, OpenAI's resources, and the ACP's open standard approach mean that AI-powered shopping will become a significant commerce channel. For Flywheel vendors, the key considerations are: (1) integrate with ACP as soon as possible, since early adopters will benefit from preferential placement as the ecosystem grows; (2) evaluate the 4% transaction fee against expected revenue, noting that it is higher than Perplexity's zero-fee model but lower than some marketplace commissions; (3) prepare for a dual-protocol world where both ACP and Google's UCP need to be supported; (4) ensure product data, pricing, and availability are accurate and machine-readable, as AI agents depend on structured data for recommendations; (5) monitor the evolving checkout model, as OpenAI is still refining how purchases are completed. ACP represents the transition from passive affiliate marketing to active agentic commerce, and vendors that prepare now will have a structural advantage.

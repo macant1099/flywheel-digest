@@ -2,7 +2,6 @@
 title: "Bicycles & Outdoor Recreation — Vertical Affiliate Landscape"
 category: verticals
 lastUpdated: "2026-04-12"
-summary: "Affiliate landscape for the $34B bicycle and $900B+ outdoor recreation markets — high AOV, enthusiast-driven, community publishers."
 ---
 
 # Bicycles & Outdoor Recreation — Vertical Affiliate Landscape

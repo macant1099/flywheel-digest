@@ -2,7 +2,6 @@
 title: "Awin — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "Global affiliate network connecting 30,000+ advertisers with 260,000+ publishers across 180+ countries. Owned by Axel Springer."
 ---
 
 # Awin — Network Profile

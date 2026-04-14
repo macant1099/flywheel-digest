@@ -2,7 +2,6 @@
 title: "Rakuten Advertising — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "One of the oldest affiliate networks (est. 1996 as LinkShare), now backed by Rakuten Group's global internet services empire."
 ---
 
 # Rakuten Advertising — Network Profile

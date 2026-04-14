@@ -84,26 +84,6 @@ Partnerize operates on an enterprise SaaS model:
 - **AI-Driven Partnership Discovery**: Enhanced tools for automated partner matching and optimization based on predictive analytics.
 - **Revenue Growth**: Achieved approximately $65.7 million in revenue across 1,800+ clients.
 
-## Market Position & Competitive Context
-
-Partnerize competes directly in the enterprise partnership management space:
-
-- **Partnerize vs. Impact.com**: The primary competitor. Both offer SaaS-based partnership management at enterprise scale. Impact.com has higher brand recognition and a larger US presence; Partnerize differentiates through Konnecto's competitive intelligence and VantagePoint's AI search attribution.
-- **Partnerize vs. CJ/Awin**: Like Impact.com, Partnerize offers a SaaS alternative to traditional networks. The no-override-fee model is attractive to enterprise brands seeking cost efficiency.
-- **Partnerize vs. Everflow**: Everflow focuses on tracking depth; Partnerize offers full partnership automation including discovery, contracting, and managed services.
-
-The Konnecto acquisition gives Partnerize a unique data asset: the ability to map competitor partnership strategies and identify which partners drive sales for competing brands. This competitive intelligence angle is not available from Impact.com or CJ.
-
-## VantagePoint for Publishers: AI Search Attribution
-
-VantagePoint for Publishers is worth highlighting as a forward-looking innovation:
-
-- **The Problem**: Traditional affiliate attribution is click-based. As AI search engines (Perplexity, ChatGPT, Google AI Overviews) synthesize content from publishers to answer shopping queries, publishers lose attribution even when their content influences purchases.
-- **VantagePoint's Solution**: Uses AI-driven attribution to track how publisher content influences purchases through AI search interfaces, not just through direct clicks.
-- **Implication for Vendors**: Vendors whose products are recommended through AI search channels may benefit from understanding which publisher content drives those recommendations, enabling more informed partnership decisions.
-
-This positions Partnerize uniquely at the intersection of traditional affiliate marketing and the emerging AI search ecosystem.
-
 ## Vendor Takeaway
 
 Partnerize is most relevant for enterprise brands running complex, global partnership programs that need sophisticated attribution, commissioning, and compliance capabilities. For Flywheel vendors, Partnerize is worth evaluating if they operate at enterprise scale across multiple countries and need advanced features like AI-driven competitive intelligence (via Konnecto) or publisher AI search attribution (via VantagePoint). The platform's VantagePoint tool is particularly noteworthy: as AI search grows, understanding how content influences purchases through AI interfaces (not just traditional clicks) will become critical. For mid-market vendors, Impact.com typically offers a better entry point with similar capabilities at more accessible pricing.

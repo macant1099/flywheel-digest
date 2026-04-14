@@ -2,7 +2,6 @@
 title: "CJ Affiliate — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "One of the oldest and largest affiliate networks, founded 1998. Now part of Publicis Groupe with global reach and deep data assets."
 ---
 
 # CJ Affiliate — Network Profile

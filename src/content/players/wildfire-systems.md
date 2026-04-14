@@ -85,26 +85,6 @@ Wildfire operates on a revenue-sharing model:
 - **Retail Media Expansion**: Expanding into the retail media space, connecting affiliate monetization with retail media advertising opportunities.
 - **Series B Funding ($16M, 2024)**: Secured Series B funding co-led by Intuit Ventures and Mucker Capital, bringing total funding to $40.5 million.
 
-## Market Position & Competitive Context
-
-Wildfire occupies the "AI monetization infrastructure" niche, a category it largely created:
-
-- **Wildfire vs. Skimlinks**: Skimlinks monetizes editorial web content automatically; Wildfire monetizes AI-generated content automatically. They are analogous platforms for different content surfaces.
-- **Wildfire vs. OpenAI ACP**: OpenAI's Agentic Commerce Protocol is a commerce standard for ChatGPT specifically; Wildfire's RevenueEngine works across any AI application, chatbot, or agent. They can coexist but also compete for the monetization layer position.
-- **Wildfire vs. Perplexity Shopping**: Perplexity has built its own shopping experience; Wildfire provides monetization infrastructure that any AI app can use. Perplexity is a destination; Wildfire is plumbing.
-- **Wildfire vs. Traditional Networks**: Networks connect brands with publishers; Wildfire connects brands with AI applications. The "publisher" in Wildfire's model is the AI agent itself.
-
-The core risk for Wildfire is that major AI platforms (OpenAI, Google, Perplexity) build their own affiliate monetization layers, bypassing third-party infrastructure.
-
-## The AI Commerce Monetization Thesis
-
-Wildfire's bet is that AI commerce needs a monetization layer to scale:
-
-- **The Problem**: AI applications recommend products but have no business model for commerce. Advertising models are being questioned (Perplexity pivoted away from ads in 2026). Subscription revenue alone may not sustain AI businesses.
-- **The Solution**: Affiliate commissions provide a performance-based revenue stream that aligns AI recommendations with commerce outcomes. RevenueEngine makes this trivial to implement.
-- **The Flywheel Effect**: AI applications that monetize product recommendations through RevenueEngine have financial incentives to recommend more products, driving more commerce, generating more revenue, enabling more AI development.
-- **The Vendor Implication**: Products that are "monetizable" (i.e., have active affiliate programs) become more likely to be recommended by AI applications than products that are not. This creates a new form of discoverability advantage.
-
 ## Vendor Takeaway
 
 Wildfire Systems is critically important for understanding how AI-powered commerce will be monetized. As AI agents and chatbots increasingly recommend products, RevenueEngine is the infrastructure that converts these recommendations into trackable, commissionable transactions. For Flywheel vendors, the key implications are: (1) your products may already be generating affiliate revenue through AI channels via Wildfire without your direct knowledge, so ensure your affiliate programs are active and competitively commissioned across major networks; (2) as AI commerce grows, the ability to be "monetizable" through platforms like RevenueEngine becomes a form of discoverability, since AI applications will naturally favor recommending products they can earn commissions on; (3) monitor Wildfire's expansion and consider direct partnership to ensure optimal representation in AI-driven product recommendations. RevenueEngine represents the bridge between today's affiliate marketing and tomorrow's agentic commerce.

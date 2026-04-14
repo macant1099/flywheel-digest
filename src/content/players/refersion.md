@@ -87,26 +87,6 @@ Annual billing provides a 20% discount across all tiers.
 - **Enhanced Integrations**: Expanded integration ecosystem to include 30+ marketing tools including Klaviyo, ReCharge, Bold, Yotpo, and Attentive.
 - **Subscription Commission Support**: Added support for recurring/subscription-based commissions, enabling affiliate programs for subscription box and SaaS brands.
 
-## Market Position & Competitive Context
-
-Refersion competes in the crowded Shopify affiliate app market while also positioning against broader platforms:
-
-- **Refersion vs. GoAffPro**: GoAffPro offers a free plan; Refersion starts at $39/month but provides deeper features, better integrations, and a built-in marketplace. Refersion is the "grow into" option from GoAffPro.
-- **Refersion vs. Impact.com**: Impact.com serves enterprise brands with sophisticated attribution; Refersion serves SMB-to-mid-market Shopify brands with simpler, faster setup. Different segments with some overlap at the mid-market.
-- **Refersion vs. UpPromote**: UpPromote is a direct Shopify competitor. Refersion differentiates through its 60,000+ brand install base and first-party tracking technology.
-
-Refersion's two acquisitions (Assembly 2020, Pantastic 2025) reflect the consolidation trend in ecommerce tools, where holding companies aggregate best-of-breed SaaS products under one umbrella.
-
-## Best Practices for Shopify Vendors
-
-For Shopify-based Flywheel vendors considering Refersion:
-
-- **Start with the Launch Plan**: At $39/month, test affiliate marketing viability before committing to higher tiers.
-- **Use Post-Purchase Popups**: Convert satisfied customers into ambassadors immediately after their first purchase.
-- **Leverage the Marketplace**: List your program in the Refersion Marketplace so creators and affiliates can find and apply to you directly.
-- **Integrate Klaviyo/Attentive**: Connect Refersion with your email and SMS marketing tools to trigger campaigns based on affiliate activity.
-- **Set SKU-Level Commissions**: Incentivize affiliates to promote high-margin products by offering higher commission rates on specific SKUs.
-
 ## Vendor Takeaway
 
 Refersion is the top choice for Shopify-based vendors that want to launch and manage affiliate and ambassador programs quickly and affordably. Its first-party tracking technology, accessible pricing, and deep Shopify integration make it ideal for DTC brands at any stage. For Flywheel vendors on Shopify, Refersion should be a primary consideration for managing direct affiliate relationships, particularly for ambassador and customer referral programs. It works well alongside traditional network presence (CJ, Awin) since Refersion manages direct relationships while networks provide broader publisher discovery. The main consideration is whether the vendor needs enterprise-level features like multi-touch attribution and cross-channel analytics, which may require supplementing Refersion with a platform like Impact.com.

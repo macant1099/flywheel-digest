@@ -2,7 +2,6 @@
 title: "LiveChannel — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "Emerging connected commerce platform — community-powered channels bridging DTC and marketplace models."
 ---
 
 # LiveChannel — Network Profile

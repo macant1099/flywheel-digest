@@ -2,7 +2,6 @@
 title: "AI Agent Affiliates — Industry Research"
 category: industry
 lastUpdated: "2026-04-12"
-summary: "AI agents as a new class of affiliate — operating at machine speed, reshaping attribution, and challenging traditional publisher models."
 ---
 
 # AI Agent Affiliates — The Emerging AI-Agent-as-Affiliate Ecosystem
@@ -401,3 +400,27 @@ impact: medium
 sentiment: positive
 ---
 A January 2026 pricing page analysis of 58 AI SaaS affiliate programs found median payout of 20% with 60-day cookie windows. Top-quartile programs delivered ~2.3x higher earnings-per-click than display ads for B2B traffic. This establishes a clear benchmark for AI tool vendors entering the affiliate space: sub-20% commission or sub-30-day cookies are likely to underperform in publisher recruitment.
+
+---signal---
+id: news-20260414-006
+signal: FTC issues first Consumer Review Rule warning letters in January 2026 — AI-generated endorsements in crosshairs
+date: 2026-04-14
+source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
+categories: industry
+tags: ftc, regulation, disclosure, ai-endorsements, compliance, consumer-review-rule
+impact: high
+sentiment: negative
+---
+In January 2026, the FTC issued its first formal warning letters under the Consumer Review Rule, citing ten companies for violations including fake reviews, incentivized testimonials, and deceptive review practices. The FTC's updated Endorsement Guides (2025) now explicitly cover AI-generated content — meaning any affiliate content produced by or with AI assistance requires clear, conspicuous disclosure. This escalation from guidance to active enforcement is a material compliance risk for affiliate publishers using AI content tools at scale.
+
+---signal---
+id: news-20260414-007
+signal: ClickCampaigns.ai launches as AI-native platform designed to replace full marketing departments for affiliate operators
+date: 2026-04-14
+source: https://www.financialcontent.com/article/marketersmedia-2026-4-12-ai-driven-marketing-platform-launched-user-friendly-tools-for-affiliates
+categories: industry
+tags: ai-tools, clickcampaigns, affiliate-automation, ai-marketing, platform-launch
+impact: medium
+sentiment: positive
+---
+Affiliate Marketing Buffet officially launched ClickCampaigns.ai on April 12, 2026, positioning it as an AI-powered platform capable of replacing traditional marketing departments for affiliate marketers and solo operators. The broader trend is clear: video content is now non-optional (video marketers generate 66% more qualified leads), and AI tools for content production, optimization, and campaign management are accelerating adoption at the individual affiliate level. Monitoring for feature claims vs. real-world performance.

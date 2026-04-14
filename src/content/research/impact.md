@@ -2,7 +2,6 @@
 title: "Impact.com — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "Partnership management platform extending beyond traditional affiliate into influencer, B2B, mobile, and strategic partnerships."
 ---
 
 # Impact.com — Network Profile

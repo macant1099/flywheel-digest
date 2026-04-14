@@ -2,7 +2,6 @@
 title: "ShareASale — Network Profile"
 category: affiliate-networks
 lastUpdated: "2026-04-12"
-summary: "Founded 2000, acquired by Awin 2017. Popular with SMB merchants for accessibility and low barriers to entry."
 ---
 
 # ShareASale — Network Profile

@@ -88,26 +88,6 @@ There are no commissions or overrides taken by GoAffPro on affiliate sales. The 
 - **Multi-Platform Expansion**: Continued expanding support beyond Shopify to BigCommerce, WooCommerce, and Wix.
 - **Feature Parity Improvements**: Ongoing feature development to close gaps with premium competitors while maintaining the free tier.
 
-## Market Position & Competitive Context
-
-GoAffPro occupies the entry-level tier of the Shopify affiliate app market:
-
-- **GoAffPro vs. Refersion**: Refersion is more polished, with deeper integrations and a built-in marketplace. GoAffPro is cheaper (free vs. $39/month) with surprisingly robust features. GoAffPro is the starting point; Refersion is the upgrade path.
-- **GoAffPro vs. UpPromote**: Both compete at similar price points on Shopify. GoAffPro differentiates with its genuinely unlimited free plan and mobile apps for affiliates.
-- **GoAffPro vs. Impact.com/CJ**: These are fundamentally different categories. GoAffPro manages direct affiliate relationships; networks and SaaS platforms provide marketplace discovery and enterprise tools. They can coexist.
-
-GoAffPro's bootstrapped, India-based operation gives it a cost advantage that venture-funded US competitors cannot match, enabling the free-forever plan.
-
-## Graduation Path for Growing Vendors
-
-GoAffPro works well as part of a progression:
-
-1. **Stage 1 (Launch)**: Use GoAffPro Free to set up a basic affiliate program, convert customers to ambassadors via post-purchase popups, and validate the model.
-2. **Stage 2 (Growth)**: Upgrade to GoAffPro Premium or migrate to Refersion when you need branded portals, advanced analytics, and deeper email marketing integrations.
-3. **Stage 3 (Scale)**: Move to Impact.com or establish presence on CJ/Awin when the program reaches enterprise scale and needs multi-channel attribution, managed services, or a large publisher marketplace.
-
-This progression ensures vendors never overspend on affiliate infrastructure relative to their program maturity.
-
 ## Vendor Takeaway
 
 GoAffPro is the right starting point for small to mid-size Shopify vendors who want to test affiliate marketing without financial commitment. The free plan provides a risk-free way to validate whether affiliate partnerships can drive meaningful revenue before investing in a premium platform. For Flywheel vendors, GoAffPro is most relevant as a stepping stone: start with GoAffPro to prove the affiliate model, then graduate to Refersion or Impact.com as the program scales. It is also a good choice for vendors with tight budgets who need basic affiliate functionality without the cost of premium tools. The main limitation is the lack of a publisher discovery marketplace, meaning vendors must actively recruit their own affiliates.

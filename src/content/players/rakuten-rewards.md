@@ -88,26 +88,6 @@ For merchants, Rakuten Rewards operates as an affiliate publisher:
 - **Rakuten Credit Card Expansion**: Enhanced cashback credit card benefits to drive deeper member engagement and higher share of wallet.
 - **In-Store Growth**: Continued expansion of card-linked in-store cashback offers, bridging online and offline commerce.
 
-## Market Position & Competitive Context
-
-Rakuten Rewards is the dominant cashback platform in the US market:
-
-- **Rakuten Rewards vs. RetailMeNot**: RetailMeNot focuses on coupons; Rakuten focuses on cashback. Rakuten's model creates stronger loyalty (members return habitually) while RetailMeNot is more transactional.
-- **Rakuten Rewards vs. Capital One Shopping**: Capital One Shopping is free and earns points toward gift cards. Rakuten offers more flexible rewards (cash, Amex points, Bilt points). Both compete for the browser extension position.
-- **Rakuten Rewards vs. Honey (PayPal)**: Honey automatically applies coupon codes; Rakuten provides cashback on purchases. Different value propositions that increasingly overlap.
-- **Rakuten Rewards vs. TopCashback/BeFrugal**: Smaller cashback competitors that often offer higher rates on individual merchants but lack Rakuten's scale and brand recognition.
-
-Rakuten's integration with the Rakuten Advertising network creates a unique advantage: merchants on Rakuten Advertising can seamlessly activate Rakuten Rewards as a publisher, creating a frictionless path from network membership to cashback channel activation.
-
-## Cashback Economics for Vendors
-
-Understanding the economics of cashback publishing is essential:
-
-- **Commission Split**: When a Rakuten member earns 5% cashback, the merchant may be paying 8-12% in total affiliate commission. Rakuten keeps the difference (the "take rate").
-- **Promotional Cashback**: Merchants can increase cashback rates during key periods (e.g., 10% cashback during Black Friday) to drive volume. This comes from increased merchant commissions, not from Rakuten absorbing margin.
-- **Incrementality Debate**: The same incrementality questions that apply to RetailMeNot apply to Rakuten Rewards: habitual Rakuten users may have purchased regardless. However, the loyalty effect of regular cashback creates genuine repeat purchase behavior that may not exist otherwise.
-- **New Customer Acquisition**: Rakuten's referral program (currently $50 per referral) actively grows the member base, providing merchants with access to genuinely new customers entering the ecosystem.
-
 ## Vendor Takeaway
 
 Rakuten Rewards is one of the most important affiliate publishers for any consumer brand with an online presence. Its 17M+ members represent a significant and engaged shopping audience that actively seeks out deals and cashback before purchasing. For Flywheel vendors, the key considerations are: (1) activate Rakuten Rewards as a publisher in your affiliate program, ideally through the Rakuten Advertising network for seamless integration; (2) offer competitive cashback rates to ensure visibility among the 3,500+ competing retailers; (3) use promotional cashback increases strategically during key shopping periods to drive volume; (4) evaluate incrementality carefully, as some Rakuten traffic may not be truly incremental to your existing sales. Despite attribution concerns, Rakuten Rewards is too large and influential to ignore, and the loyalty effect of regular cashback creates genuine repeat purchase behavior.

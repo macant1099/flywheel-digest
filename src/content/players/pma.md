@@ -83,32 +83,6 @@ The PMA is a membership-based non-profit:
 - **2026 Board Elections**: Opened 2026 Board of Directors nominations in October 2025, refreshing industry leadership representation.
 - **Community Growth**: Continued expansion of Slack community channels and regular networking events.
 
-## Key Research Findings
-
-The PMA's research provides essential context for vendors:
-
-### 2025 Industry Study Highlights
-- **Market Size**: Affiliate marketing spending reached $13.62 billion in 2024, up from $9.1 billion in 2021.
-- **Growth Rate**: 49.8% growth from 2021-2024, a CAGR of 14.42%.
-- **Outpacing Ecommerce**: Affiliate marketing grew 2x faster than the broader e-commerce market.
-- **Channel Share**: Affiliate marketing continues to gain share of total digital advertising spend.
-
-These numbers are critical for building business cases and justifying affiliate program investment to leadership.
-
-### Industry Landscape Context
-- The PMA's research helps contextualize individual platform choices within the broader market.
-- Understanding that affiliate marketing is a $13.6B+ and growing channel validates investment in platforms like CJ, Impact.com, and Awin.
-- Growth trends suggest that affiliate and performance marketing will become an even larger share of the marketing mix.
-
-## How Vendors Can Engage
-
-For vendors that want to leverage the PMA:
-
-- **Industry Study Access**: Reference the PMA Industry Study for business case development and strategic planning.
-- **Affiliate Summit Events**: The PMA has a significant presence at Affiliate Summit conferences. These events provide networking with networks, publishers, and technology platforms.
-- **Slack Community**: Join PMA Slack channels for real-time industry discussions and connections.
-- **Board & Committee Participation**: For companies deeply invested in affiliate marketing, PMA board or committee participation provides influence over industry standards and advocacy.
-
 ## Vendor Takeaway
 
 The PMA is a useful background resource for vendors entering the affiliate marketing space, but it is not a direct operational tool. The primary value for Flywheel vendors is: (1) the PMA Industry Study provides authoritative data on market size, growth, and trends that can inform business cases and strategic planning; (2) PMA events and Slack channels offer networking opportunities with affiliate networks, publishers, and technology platforms; (3) PMA advocacy helps shape the regulatory and policy environment for affiliate marketing. Vendors do not need to be PMA members to participate in affiliate marketing, but the organization's research and networking resources can be valuable for understanding the broader industry landscape.

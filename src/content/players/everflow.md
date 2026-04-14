@@ -15,7 +15,7 @@ keyStats:
   - label: "Employees"
     value: "200+"
 vendorRelevance: "medium"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-14"
 ---
 
 ## Overview
@@ -85,6 +85,9 @@ The pricing model is transparent and predictable, making it easy for brands to b
 - **Traffic Health Launch (2025)**: Released the first-of-its-kind domain health and IP blacklist monitoring tool with Google Threat Intelligence.
 - **Customer Value Feature**: Launched LTV-based commission automation, enabling brands to pay higher commissions for partners that drive long-term customer value.
 - **10th Anniversary (2026)**: Approaching its 10-year anniversary with planned launches of dedicated media buying features and deeper strategic publisher partnerships.
+- **"Shape Your Success" Survey (January 2026)**: Launched an industry-wide survey to align Everflow's educational resources and product roadmap with affiliate leader priorities heading into 2026. Signals a community-driven product approach ahead of the anniversary year.
+- **AI Discovery Focus (2026)**: Everflow's 2026 industry prediction blog highlights AI-driven product discovery as the defining trend reshaping the affiliate playbook, positioning the platform to add AI attribution layers on top of its existing tracking infrastructure.
+- **"#1 Partner Marketing Platform" Positioning**: Everflow has shifted its official marketing language to claim the #1 position, reflecting growing confidence from its bootstrapped growth trajectory and $4.3B in tracked revenue.
 
 ## Market Position & Competitive Context
 
