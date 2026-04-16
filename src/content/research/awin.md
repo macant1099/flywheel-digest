@@ -1,7 +1,7 @@
 ---
 title: "Awin — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-12"
+lastUpdated: "2026-04-16"
 ---
 
 # Awin — Network Profile
@@ -183,10 +183,58 @@ Awin's annual trend reports and market data provide valuable macro intelligence:
 - Awin positioned at the center of the affiliate industry's response to agentic commerce — AI shopping agents will need affiliate network infrastructure to monetize referrals.
 - Published market forecast: affiliate marketing to drive 1 in 7 US ecommerce dollars.
 - Continued investment in cookieless and privacy-compliant tracking as Chrome cookie deprecation takes full effect.
+- **April 15, 2026:** Announced multi-million dollar US market investment. CPI has recovered $578M+ globally. Soft Click tech defended $6.55M for US brands against browser extension misattribution. LLM discovery engine in US pilot. 140% support team growth. New US leadership (Travis Abbott, Lisa Tadje). ThinkTank Americas April 20–22, Chicago.
+- **April 2026:** Launched Awin Accelerate (SMB automation tier) and upgraded AI platform with smart partnership recommendations and customizable dashboards.
 
 **Market Context:**
 The ShareASale consolidation has reshaped the affiliate network competitive landscape. The US market now has four major networks (CJ, Awin, Impact, Rakuten) instead of five, increasing concentration. This consolidation trend may continue as AI-driven commerce creates new demands for scale and technology investment that smaller networks cannot match.
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+### 2026-04-16 — Major US Market Investment Announcement
+**Source:** GlobeNewswire / Business Insider (April 15, 2026)
+**Signal Type:** Strategic / Platform / Technology
+**Relevance:** HIGH
+
+Awin unveiled its most significant investment to date in the North American market, timed to coincide with ThinkTank Americas 2026 (April 20–22, Chicago). Key details:
+
+**Conversion Protection Initiative (CPI):**
+- CPI has recovered $578M+ in global brand revenue to date
+- $37M in incremental commissions identified that would otherwise have been lost to legacy tracking failures
+- "Soft Click" technology shielded 29.4M+ global transactions in 2025
+- Saved US brand adopters $6.55M by blocking browser extension misattribution (coupon/extension overwrites of upper-funnel publishers)
+- MasterTag positioned as a privacy-first LLM/AI-discovery data foundation — Awin explicitly framing it as infrastructure for the agentic commerce era
+
+**AI Platform Expansion:**
+- LLM discovery engine now in active US pilot — uses probabilistic + deterministic signals to match brands with publishers
+- Awin claims 1M active publishers (likely global total; distinct from the 260K "active" figure used previously)
+- Smart partnership recommendations and customizable campaign dashboards launched (platform upgrade)
+- Awin Accelerate product: automation for everyday affiliate tasks, targeting SMB/mid-market segment
+
+**US Leadership & Scale:**
+- 140% increase in North American regional support team headcount during 2025
+- New US leadership hires: Travis Abbott (Head of Sales), Lisa Tadje (Head of Marketing)
+- Quote from Adam Weiss (President, North America): "We aren't just providing a platform; we are providing the data integrity and expert regional leadership U.S. brands need to outpace the competition in an increasingly AI-saturated market."
+- Active US brand roster includes Under Armour, GE Appliances, HexClad, Speedo, Samsung
+
+**Market Context:**
+- US ecommerce valued at $1.62 trillion in 2026 per cited data
+- Awin framing its US push as a direct response to "AI black boxes" fragmenting attribution
+
+**Flywheel Implications:**
+- The CPI / Soft Click / browser extension defense story is directly relevant to any LiveChannel vendor running programs with coupon/deal publishers — Awin is the only major network with explicit last-click misattribution protection at scale
+- The LLM discovery engine pilot is the clearest signal yet that Awin is positioning for agentic commerce monetization — vendors who join now get early access to this infrastructure
+- The 140% support team expansion addresses the #1 weakness flagged in this profile (poor SMB support during migration period)
+
+---
+
+### 2026-04-16 — Commission Rate Signal (Review Aggregation)
+**Source:** Multiple affiliate review sites (LanderLab, Adam Connell, Hilton Software) — April 2026
+**Signal Type:** Publisher Sentiment / Rates
+**Relevance:** MEDIUM
+
+- Practitioner consensus: Awin commission rates average 5–20% depending on vertical and advertiser
+- Free tier available for affiliates (publishers) — no upfront cost to join
+- $20 minimum payout remains standard
+- Consistent feedback: strong European presence + global reach is a differentiator for international publishers
+- Noted weaknesses in reviews: slower affiliate approval processes, interface still perceived as dated by some (likely ex-ShareASale users comparing to legacy platform)

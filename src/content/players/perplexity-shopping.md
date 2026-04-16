@@ -15,7 +15,7 @@ keyStats:
   - label: "Valuation"
     value: "$21B+ (2026)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-16"
 ---
 
 ## Overview
@@ -83,6 +83,8 @@ Perplexity's commerce model is radically different from traditional affiliate ma
 
 ## Recent Developments
 
+- **Amazon v. Perplexity Lawsuit (Ongoing, 2026)**: Amazon sued Perplexity in November 2025, alleging that its **Comet** AI browser agent covertly accessed private Amazon customer accounts and disguised automated activity as human browsing. A California federal court issued an injunction on March 10, 2026 blocking Comet from Amazon's marketplace. On March 17, a U.S. appeals court temporarily stayed the injunction, allowing Comet to operate pending appeal. On April 1, Perplexity filed with a federal appeals court to overturn the injunction permanently. **This is one of the most consequential agentic commerce legal battles of 2026 — the outcome will shape how AI shopping agents can interact with third-party retail platforms.**
+- **Comet Browser Agent**: Perplexity's Comet is an AI-powered browser/agent that executes purchases on behalf of users — a fully autonomous shopping agent. The Amazon dispute centers on whether AI agents have the right to operate on platforms that depend on human ad impressions for revenue.
 - **Advertising Pivot (February 2026)**: Abandoned advertising model to focus exclusively on shopping experience and Pro membership growth.
 - **PayPal Integration (2025)**: Selected PayPal to power Instant Buy and agentic commerce capabilities, enabling in-chat checkout.
 - **5,000+ Merchant Milestone**: Expanded merchant program to over 5,000 participating merchants.
@@ -92,3 +94,5 @@ Perplexity's commerce model is radically different from traditional affiliate ma
 ## Vendor Takeaway
 
 Perplexity Shopping represents a new commerce channel that vendors should take seriously. The zero-fee Merchant Program makes joining risk-free, and the growing user base (30M+ daily queries) provides meaningful discovery potential. For Flywheel vendors, the key actions are: (1) join the Perplexity Merchant Program immediately, since there is no cost and inclusion increases the likelihood of being recommended by the AI; (2) ensure product data (pricing, specs, availability, imagery) is accurate and up-to-date, as Perplexity's AI uses this data to generate recommendations; (3) monitor Perplexity Shopping performance as a new channel alongside traditional affiliate and search channels; (4) prepare for the broader trend of AI-powered product discovery displacing traditional search-based shopping. Perplexity Shopping is the most vendor-friendly of the AI commerce platforms and should be an easy decision for any brand.
+
+**Watch closely:** The Amazon v. Perplexity legal battle over the Comet agent is foundational to the future of agentic commerce. If Perplexity wins, AI agents will be able to transact across any retailer's site without explicit consent — massively accelerating the agentic shopping channel. If Amazon wins, AI agents will need explicit retailer authorization to operate, slowing the category's growth but creating cleaner partnership frameworks. Either outcome has significant implications for Flywheel vendor strategy on Amazon and emerging AI shopping channels.

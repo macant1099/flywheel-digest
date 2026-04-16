@@ -15,7 +15,7 @@ keyStats:
   - label: "Tracking"
     value: "First-party, cookieless"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-15"
 ---
 
 ## Overview
@@ -82,6 +82,8 @@ Annual billing provides a 20% discount across all tiers.
 
 ## Recent Developments
 
+- **Free Marketplace Listing Plan (January 2026)**: Major strategic shift — Refersion launched a free tier allowing any ecommerce brand to publish a single percent-of-sale affiliate offer on the Refersion Marketplace at no cost. This removes the paywall to affiliate discovery, letting brands test affiliate interest and gain visibility with Refersion's 3.6M+ affiliate pool before committing to a paid plan. The free listing is limited to one offer and a basic commission structure, but represents a significant competitive move against GoAffPro and UpPromote.
+- **3.6M+ Affiliate Network**: Updated marketplace stats show over 3.6 million affiliates active on the Refersion Marketplace, meaningfully larger than prior reported figures.
 - **Pantastic Acquisition (February 2025)**: Acquired by Pantastic, expanding the parent company's ecommerce technology portfolio.
 - **AI Partner Suggestions**: Launched AI-powered affiliate recommendations to help brands discover relevant creators and publishers.
 - **Enhanced Integrations**: Expanded integration ecosystem to include 30+ marketing tools including Klaviyo, ReCharge, Bold, Yotpo, and Attentive.
@@ -90,3 +92,5 @@ Annual billing provides a 20% discount across all tiers.
 ## Vendor Takeaway
 
 Refersion is the top choice for Shopify-based vendors that want to launch and manage affiliate and ambassador programs quickly and affordably. Its first-party tracking technology, accessible pricing, and deep Shopify integration make it ideal for DTC brands at any stage. For Flywheel vendors on Shopify, Refersion should be a primary consideration for managing direct affiliate relationships, particularly for ambassador and customer referral programs. It works well alongside traditional network presence (CJ, Awin) since Refersion manages direct relationships while networks provide broader publisher discovery. The main consideration is whether the vendor needs enterprise-level features like multi-touch attribution and cross-channel analytics, which may require supplementing Refersion with a platform like Impact.com.
+
+**January 2026 Update:** The new Free Marketplace Listing plan is a zero-risk entry point for any Flywheel vendor not yet running an affiliate program. Brands can publish a free listing, gauge affiliate interest, and validate commission rates before paying a cent. If you're on Shopify and haven't launched an affiliate program yet, the free listing removes all excuses.

@@ -79,3 +79,63 @@ impact: medium
 sentiment: neutral
 ---
 2026 industry data reveals TikTok Shop affiliate commission benchmarks are shifting toward hybrid compensation models: a guaranteed flat fee per video ($100–$500 for top performers) layered on top of 15–20% commission. This structure is becoming the expected norm for brand-creator deals on short-form video platforms. LiveChannel vendors competing in video-driven affiliate channels should anticipate this cost structure when building creator partnerships.
+
+---signal---
+id: news-20260415-001
+signal: Later surpasses $2.9B creator-driven commerce in Q1 2026, enterprise business doubles YoY
+date: 2026-04-15
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, influencer-marketing, creator-commerce, enterprise, performance-channel, social-commerce
+impact: high
+sentiment: positive
+---
+Later announced record Q1 2026 milestones: $2.9B in verified influencer-driven purchases, 100%+ YoY enterprise growth, and $250M in cumulative creator payouts. Fortune 500 brands including Nike, Wayfair, and Unilever are consolidating creator programs on the platform. A new CTO was appointed and AI capabilities expanded. The milestone signals that influencer marketing has fully crossed over from brand awareness spend to a performance-measured channel — with direct revenue attribution now table stakes for enterprise brands.
+
+---signal---
+id: news-20260416-001
+signal: eBay partners with Meta to enable in-feed affiliate product tagging on Facebook and Reels
+date: 2026-04-16
+source: https://channelx.world/2026/04/ebay-partners-with-meta-for-new-affiliate-program/
+categories: industry
+tags: ebay, meta, facebook, reels, social-commerce, in-feed-shopping
+impact: high
+sentiment: positive
+---
+eBay and Meta have announced a new affiliate partnership allowing creators to tag eBay products directly in Facebook posts and Reels — no link-in-bio required. Shoppers can tap and purchase in-flow, removing major friction from the social-to-purchase funnel. This is a direct challenge to TikTok Shop's native commerce model and signals accelerating consolidation of affiliate commerce into social feeds.
+
+---signal---
+id: news-20260416-002
+signal: Instagram re-launches affiliate program with shoppable links embedded directly in Reels
+date: 2026-04-16
+source: https://www.emarketer.com/content/instagram-launches-affiliate-program-shopping-influence-slips
+categories: industry
+tags: instagram, meta, reels, social-commerce, affiliate-program, creator-economy
+impact: high
+sentiment: positive
+---
+Instagram is making its second attempt at a native affiliate program after sunsetting its first in 2022, this time embedding shoppable affiliate links directly into Reels. The move comes as social commerce in the US is projected to surpass $100B for the first time in 2026, with over half of social network users also acting as social buyers. Meta is simultaneously rolling out in-feed affiliate tags on Facebook, making the combined Meta ecosystem a major new distribution channel for affiliate vendors.
+
+---signal---
+id: news-20260416-003
+signal: Later surpasses $2.9B in creator-driven commerce, doubles enterprise business, adds AI capabilities
+date: 2026-04-16
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, influencer-marketing, social-commerce, creator-economy, ai, saas
+impact: medium
+sentiment: positive
+---
+Later announced April 14, 2026 that it has surpassed $2.9B in creator-driven commerce and more than doubled its enterprise business, positioning influencer marketing explicitly as a performance channel rather than a branding spend. The company appointed a new CTO and is expanding its AI capabilities. This validates the convergence of influencer and affiliate tracking as a unified performance layer — relevant to LiveChannel vendor strategy.
+
+---signal---
+id: news-20260416-004
+signal: TikTok Shop 2026 benchmark data shows hybrid flat-fee + 15–20% commission emerging as standard for top creator deals
+date: 2026-04-16
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: industry
+tags: tiktok-shop, commission-rates, creator-deals, hybrid-compensation, short-form-video
+impact: medium
+sentiment: neutral
+---
+New 2026 data from Short Form Nation finds that the emerging standard for TikTok Shop's best-performing creator partnerships is hybrid compensation: a guaranteed flat fee ($100–$500/video) plus 15–20% affiliate commission. This is raising the cost of creator affiliate deals significantly compared to pure-commission models. Vendors on LiveChannel and similar platforms should benchmark their affiliate offers against this structure to remain competitive for top creators.
