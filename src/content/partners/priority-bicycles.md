@@ -1,6 +1,6 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-16"
+date: "2026-04-17"
 ---
 
 # Priority Bicycles Affiliate Partner Recommendations

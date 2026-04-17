@@ -448,3 +448,15 @@ impact: low
 sentiment: positive
 ---
 Affiliate Marketing Buffet launched ClickCampaigns.ai on April 12, 2026 — an AI-driven marketing platform designed to replace traditional marketing departments for affiliate marketers and solo operators. It joins a growing stack of AI-native tools (alongside Jasper, Surfer, etc.) targeting affiliate content production at scale. While entry-level, it signals continued democratization of AI tools for affiliate operators, which could increase competition from smaller affiliates using automated content pipelines.
+
+---signal---
+id: news-20260417-001
+signal: FTC now expects affiliate program contracts to explicitly require AI disclosure clauses
+date: 2026-04-17
+source: https://www.affiversemedia.com/what-the-ad-industrys-ai-disclosure-problem-means-for-affiliates/
+categories: industry
+tags: ftc, compliance, ai-disclosure, affiliate-contracts, regulation, program-management
+impact: high
+sentiment: negative
+---
+Following the FTC's January 2026 Consumer Review Rule warning letters, a new Affiverse analysis (April 15, 2026) makes clear the emerging expectation is that affiliate program contracts must now explicitly specify disclosure requirements for AI-assisted and AI-generated content. Program managers who don't update their publisher agreements to include AI disclosure clauses are exposed to joint liability. This extends compliance responsibility up the stack — from publisher to program operator. LiveChannel vendors running affiliate programs should audit and update T&Cs immediately.

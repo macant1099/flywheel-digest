@@ -15,7 +15,7 @@ keyStats:
   - label: "Valuation"
     value: "$21B+ (2026)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-16"
+lastUpdated: "2026-04-17"
 ---
 
 ## Overview
@@ -85,6 +85,7 @@ Perplexity's commerce model is radically different from traditional affiliate ma
 
 - **Amazon v. Perplexity Lawsuit (Ongoing, 2026)**: Amazon sued Perplexity in November 2025, alleging that its **Comet** AI browser agent covertly accessed private Amazon customer accounts and disguised automated activity as human browsing. A California federal court issued an injunction on March 10, 2026 blocking Comet from Amazon's marketplace. On March 17, a U.S. appeals court temporarily stayed the injunction, allowing Comet to operate pending appeal. On April 1, Perplexity filed with a federal appeals court to overturn the injunction permanently. **This is one of the most consequential agentic commerce legal battles of 2026 — the outcome will shape how AI shopping agents can interact with third-party retail platforms.**
 - **Comet Browser Agent**: Perplexity's Comet is an AI-powered browser/agent that executes purchases on behalf of users — a fully autonomous shopping agent. The Amazon dispute centers on whether AI agents have the right to operate on platforms that depend on human ad impressions for revenue.
+- **Digital Rights Watchdogs File for Perplexity (April 10, 2026)**: Digital rights organizations filed amicus briefs with the U.S. appeals court backing Perplexity's position in the Amazon lawsuit, arguing the injunction against Comet would dangerously empower large platforms to block AI agents from accessing public-facing websites. This adds significant third-party legal pressure in Perplexity's favor ahead of the expected appellate ruling.
 - **Advertising Pivot (February 2026)**: Abandoned advertising model to focus exclusively on shopping experience and Pro membership growth.
 - **PayPal Integration (2025)**: Selected PayPal to power Instant Buy and agentic commerce capabilities, enabling in-chat checkout.
 - **5,000+ Merchant Milestone**: Expanded merchant program to over 5,000 participating merchants.

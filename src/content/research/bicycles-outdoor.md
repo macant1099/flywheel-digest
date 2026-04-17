@@ -1,7 +1,7 @@
 ---
 title: "Bicycles & Outdoor Recreation — Vertical Affiliate Landscape"
 category: verticals
-lastUpdated: "2026-04-12"
+lastUpdated: "2026-04-17"
 ---
 
 # Bicycles & Outdoor Recreation — Vertical Affiliate Landscape
@@ -73,11 +73,11 @@ Priority Bicycles is one of the Flywheel platform's primary tracked vendors. Her
 | REI Co-op | 5% | 15 days | AvantLink | $150+ | $7.50+ |
 | Jenson USA | 3% | 30 days | AvantLink / Impact | $200+ | $6+ |
 | ICAN Cycling | 5% | 30 days | Awin (ex-ShareASale) | $500+ | $25+ |
-| Velowave | 7-10% | 30 days | Awin (ex-ShareASale) | $800+ | $56-$80+ |
+| Velowave | 7-10% | 60 days | Awin (ex-ShareASale) | $800+ | $56-$80+ |
 | Velotric | 7% | 30 days | Direct | $1,200+ | $84+ |
-| Aventon | 5-7% | 30 days | AvantLink | $1,200+ | $60-$84+ |
+| Aventon | 4% | 30 days | AvantLink | $1,200+ | ~$48+ |
 | Alchemy Bikes | Up to 6% | 30 days | AvantLink | $3,000+ | $180+ |
-| Performance Bicycle | 5% + 1% new customer | 30 days | Direct | $200+ | $10+ |
+| Performance Bicycle | 5% + 1% new customer | 15 days | Direct | $200+ | $10+ |
 | Brompton | Varies | Varies | AvantLink | $1,500+ | Varies |
 
 **Priority's Affiliate Strengths:**
@@ -265,4 +265,69 @@ For the Flywheel intelligence engine, the following cycling/outdoor affiliate si
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+---
+
+### Signal Block — 2026-04-17
+
+**Source:** Web research (uppromote.com, avelonetwork.com/Avelon, wataugagroup.com, newengen.com)
+
+#### Program Updates & Benchmark Corrections
+
+- **Aventon commission drop confirmed:** Aventon is now listed at **4%** (was 5-7% in prior tracking). This is a meaningful reduction — absolute commission on a $1,200 e-bike falls from ~$60-84 to ~$48. Watch for publisher migration to higher-paying e-bike competitors.
+- **Velowave cookie extended:** Velowave's cookie window is **60 days** (not 30 as previously tracked). This is the longest cookie in the e-bike segment — a competitive advantage for publishers with long consideration-cycle audiences. Corrected in benchmark table above.
+- **Performance Bicycle cookie is 15 days:** Confirmed 15-day window (not 30 as previously noted). Their 1% new-customer bonus is a differentiator but the short cookie hurts.
+- **Competitive Cyclist moved to Impact:** Now running on Impact network, not AvantLink. Publishers who are Impact-first will find it easier to access; AvantLink-only publishers may have missed the transition.
+- **Specialized on Rakuten:** 3-12% commission with 30-day cookie via Rakuten. High ceiling (12%) for premium gear/apparel, lower floor (3%) for full bikes. Network diversification from AvantLink norm.
+- **Bikeberry emerging:** 10% commission, 30-day cookie. Motorized/hybrid bikes niche — not a direct Priority Bicycles competitor but signals aggressive commission posture in DIY/custom bike segment.
+- **Priority Bicycles confirmed unchanged:** Still at 5% / 21-day / AvantLink as of early 2026. No improvement to cookie window despite competitive pressure.
+
+#### UK Market Signal — Avelon Network (Cycling)
+
+Avelon is emerging as a UK-focused sports/cycling affiliate network with several notable program specs (GBP AOV, 2026):
+
+| Program Type | Commission | AOV | Attribution Window |
+|---|---|---|---|
+| Premium cycling retailer (Sigma Sports) | 2.8% | £455 | 90 days |
+| High-end bike brand | 4.9% | £1,800 | 45 days |
+| Cycling accessories | 5% | £300 | 30 days |
+| Cycling apparel | 7% | £180 | 30 days |
+| Lights/safety gear | 2% | £280 | 30 days |
+| Cycling nutrition/small goods | 10.5–21% | £89–139 | 30–90 days |
+
+**Key insight:** UK premium cycling market shows **90-day attribution windows** for high-AOV programs (Sigma Sports, £455 AOV). This is far ahead of US norms and supports the argument that Priority Bicycles' 21-day window is especially weak. UK publishers on Avelon may have more favorable terms than US counterparts on AvantLink.
+
+#### Influencer & Creator Marketing Trends (Q1 2026)
+
+**Structural shift — always-on creator programs:** Brands are moving away from one-off campaign spikes to **always-on creator programs** (per Newengen March 2026 analysis, 7M+ creator profiles tracked). This is a significant structural change: cycling brands running perpetual creator communities rather than seasonal pushes will have compounding affiliate revenue advantages.
+
+**Instagram CTV expansion (March 2026):** Instagram expanded its connected TV app to Google TV devices (following Dec 2025 Amazon Fire TV launch). Reels now auto-play in interest-based channels including sports. Implications for cycling/outdoor affiliate publishers:
+- Creator content now competes with Netflix for living-room share.
+- Brands need creators who produce **cinematic, watchable** content beyond 15-second clips.
+- Cycling adventure/tour content (GCN, Path Less Pedaled style) is well-suited for CTV.
+- This extends the upper funnel for cycling affiliate publishers significantly.
+
+**Micro/nano-influencer dominance in outdoor niche:** Outdoor/cycling brands seeing higher engagement and conversion via micro-influencers (Watauga Group, Dec 2025). Key dynamics:
+- Nano-influencers embedded in local cycling clubs, commuter advocacy groups, bikepacking communities convert at above-average rates due to trust.
+- Gen Z (18-24) and seniors (65+) both increasing outdoor participation — two demographically distinct audiences requiring different creator profiles.
+- Core outdoor enthusiast counts up 5.7% YoY — reversing multi-year decline.
+
+**TikTok product discovery:** Increasingly used for first-touch cycling product discovery, especially among 18-30 demographic. E-bike brands are the heaviest TikTok investors in the cycling space.
+
+**Value-driven educational content:** Tutorial and how-to content (maintenance guides, route planning, gear selection) outperforms pure product promotion. Priority Bicycles' low-maintenance positioning is a natural fit — "never adjust your chain again" style content performs well in this format.
+
+#### Priority Bicycles — Competitive Position Update (Apr 2026)
+
+| Dimension | Status | Risk Level |
+|---|---|---|
+| Commission rate (5%) | On par with category norm | Medium — e-bike brands pay more |
+| Cookie window (21 days) | Below category norm (30 days typical, 60 days for Velowave) | High — losing late-funnel attributions |
+| Network presence (AvantLink only) | Single-network; Competitive Cyclist moved to Impact | Medium — missing Impact publishers |
+| Aventon commission cut | Competitor weakened — opportunity to gain publisher share | Positive signal |
+| Always-on creator programs | Not confirmed; likely still campaign-based | Medium — losing ground to brands with perpetual programs |
+| CTV-ready content | Priority's clean/minimal aesthetic suits CTV | Potential positive |
+
+**Top action items for Priority Bicycles:**
+1. Extend cookie to 30 days (minimum) to match norm; 45-60 days would be category-leading.
+2. Add Impact or Awin as second network to capture publishers who left when Competitive Cyclist moved.
+3. Launch always-on creator program (micro-influencer tier) — commuter cyclists, urban lifestyle creators.
+4. Develop CTV-suitable brand video assets — belt-drive simplicity narrative is strong for living-room-screen storytelling.

@@ -139,3 +139,15 @@ impact: medium
 sentiment: neutral
 ---
 New 2026 data from Short Form Nation finds that the emerging standard for TikTok Shop's best-performing creator partnerships is hybrid compensation: a guaranteed flat fee ($100–$500/video) plus 15–20% affiliate commission. This is raising the cost of creator affiliate deals significantly compared to pure-commission models. Vendors on LiveChannel and similar platforms should benchmark their affiliate offers against this structure to remain competitive for top creators.
+
+---signal---
+id: news-20260417-002
+signal: Affilae platform data: influencers now make up 53% of all affiliate partnerships
+date: 2026-04-17
+source: https://us.fashionnetwork.com/news/After-the-acquisition-at-all-costs-era-marketing-seeks-immediate-impact,1822825.html
+categories: industry
+tags: influencer-affiliate, affilae, creator-economy, platform-data, commission-rates, social-commerce
+impact: medium
+sentiment: positive
+---
+Affilae's 2026 platform report reveals that influencers now account for 53% of all partnerships on its network — a structural majority. Commissions paid to influencers are also growing significantly. This confirms the convergence of influencer and affiliate channels is not a projection but an observable platform reality. For LiveChannel vendors, this means affiliate program structures must accommodate creator/influencer deal mechanics (hybrid flat + performance) to access the majority of available partners.

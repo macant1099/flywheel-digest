@@ -121,3 +121,138 @@
 11:18:31 [build] 64 page(s) built in 1.09s
 11:18:31 [build] Complete!
 [2026-04-16 11:18:31] Build succeeded
+[main ab92b1f] sync: 2026-04-16 webmaster update
+ 21 files changed, 1310 insertions(+), 23 deletions(-)
+ create mode 100755 scripts/webmaster-sync.sh
+ create mode 100644 src/content/briefings/2026-04-16.md
+ create mode 100644 src/content/players/brambles-ai.md
+ create mode 100644 src/content/players/shopnomix.md
+ create mode 100644 src/content/players/whatnot.md
+ create mode 100644 sync.log
+fatal: failed to get: -25308
+fatal: failed to store: -25308
+To https://github.com/macant1099/flywheel-digest.git
+   7496d9d..ab92b1f  main -> main
+[2026-04-16 11:18:33] Pushed to GitHub
+[2026-04-16 11:18:33] Webmaster sync complete
+[2026-04-17 10:55:24] Webmaster sync starting
+
+> flywheel-affiliate-digest@0.0.1 build
+> astro build
+
+10:55:26 [content] Syncing content
+10:55:26 [WARN] [glob-loader] Duplicate id "ai-agent-affiliates" found in /Users/macant/Projects/flywheel-digest/src/content/research/ai-agent-affiliates.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "bicycles-outdoor" found in /Users/macant/Projects/flywheel-digest/src/content/research/bicycles-outdoor.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "impact" found in /Users/macant/Projects/flywheel-digest/src/content/research/impact.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "2026-w16" found in /Users/macant/Projects/flywheel-digest/src/content/newsletters/2026-W16.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "anker" found in /Users/macant/Projects/flywheel-digest/src/content/playbooks/anker.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "priority-bicycles" found in /Users/macant/Projects/flywheel-digest/src/content/playbooks/priority-bicycles.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "anker" found in /Users/macant/Projects/flywheel-digest/src/content/partners/anker.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "priority-bicycles" found in /Users/macant/Projects/flywheel-digest/src/content/partners/priority-bicycles.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "social-commerce" found in /Users/macant/Projects/flywheel-digest/src/content/research/social-commerce.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [WARN] [glob-loader] Duplicate id "perplexity-shopping" found in /Users/macant/Projects/flywheel-digest/src/content/players/perplexity-shopping.md. Later items with the same id will overwrite earlier ones.
+10:55:26 [content] Synced content
+10:55:26 [types] Generated 533ms
+10:55:26 [build] output: "static"
+10:55:26 [build] mode: "static"
+10:55:26 [build] directory: /Users/macant/Projects/flywheel-digest/dist/
+10:55:26 [build] Collecting build info...
+10:55:26 [build] ✓ Completed in 541ms.
+10:55:26 [build] Building static entrypoints...
+10:55:27 [vite] ✓ built in 408ms
+10:55:27 [build] ✓ Completed in 421ms.
+
+ building client (vite) 
+10:55:27 [vite] transforming...
+10:55:27 [vite] ✓ 1 modules transformed.
+10:55:27 [vite] rendering chunks...
+10:55:27 [vite] ✓ built in 4ms
+
+ generating static routes 
+10:55:27 ▶ src/pages/about/index.astro
+10:55:27   └─ /about/index.html (+3ms) 
+10:55:27 ▶ src/pages/briefings/[slug].astro
+10:55:27   ├─ /briefings/2026-04-11-initial-assessment/index.html (+1ms) 
+10:55:27   ├─ /briefings/2026-04-13/index.html (+1ms) 
+10:55:27   ├─ /briefings/2026-04-14/index.html (+1ms) 
+10:55:27   ├─ /briefings/2026-04-15/index.html (+1ms) 
+10:55:27   ├─ /briefings/2026-04-16/index.html (+0ms) 
+10:55:27   └─ /briefings/2026-04-17/index.html (+0ms) 
+10:55:27 ▶ src/pages/briefings/index.astro
+10:55:27   └─ /briefings/index.html (+1ms) 
+10:55:27 ▶ src/pages/livechannel.astro
+10:55:27   └─ /livechannel/index.html (+1ms) 
+10:55:27 ▶ src/pages/network-building/activation.astro
+10:55:27   └─ /network-building/activation/index.html (+1ms) 
+10:55:27 ▶ src/pages/network-building/discovery.astro
+10:55:27   └─ /network-building/discovery/index.html (+1ms) 
+10:55:27 ▶ src/pages/network-building/recruitment.astro
+10:55:27   └─ /network-building/recruitment/index.html (+0ms) 
+10:55:27 ▶ src/pages/network-building/index.astro
+10:55:27   └─ /network-building/index.html (+0ms) 
+10:55:27 ▶ src/pages/players/[slug].astro
+10:55:27   ├─ /players/affiliate-summit/index.html (+1ms) 
+10:55:27   ├─ /players/avantlink/index.html (+0ms) 
+10:55:27   ├─ /players/cj-affiliate/index.html (+0ms) 
+10:55:27   ├─ /players/everflow/index.html (+0ms) 
+10:55:27   ├─ /players/impact/index.html (+0ms) 
+10:55:27   ├─ /players/awin/index.html (+0ms) 
+10:55:27   ├─ /players/goaffpro/index.html (+0ms) 
+10:55:27   ├─ /players/iab/index.html (+0ms) 
+10:55:27   ├─ /players/levanta/index.html (+0ms) 
+10:55:27   ├─ /players/livechannel/index.html (+0ms) 
+10:55:27   ├─ /players/ltk/index.html (+0ms) 
+10:55:27   ├─ /players/meta-affiliate-partnerships/index.html (+0ms) 
+10:55:27   ├─ /players/openai-acp/index.html (+0ms) 
+10:55:27   ├─ /players/partnerstack/index.html (+0ms) 
+10:55:27   ├─ /players/partnerize/index.html (+0ms) 
+10:55:27   ├─ /players/perplexity-shopping/index.html (+0ms) 
+10:55:27   ├─ /players/performance-marketing-association/index.html (+0ms) 
+10:55:27   ├─ /players/pma/index.html (+0ms) 
+10:55:27   ├─ /players/rakuten-rewards/index.html (+1ms) 
+10:55:27   ├─ /players/rakuten-advertising/index.html (+0ms) 
+10:55:27   ├─ /players/rakuten/index.html (+0ms) 
+10:55:27   ├─ /players/refersion/index.html (+0ms) 
+10:55:27   ├─ /players/retailmenot/index.html (+0ms) 
+10:55:27   ├─ /players/skimlinks/index.html (+0ms) 
+10:55:27   ├─ /players/shopmy/index.html (+0ms) 
+10:55:27   ├─ /players/tiktok-shop/index.html (+0ms) 
+10:55:27   ├─ /players/wildfire-systems/index.html (+0ms) 
+10:55:27   ├─ /players/wirecutter/index.html (+0ms) 
+10:55:27   ├─ /players/brambles-ai/index.html (+0ms) 
+10:55:27   ├─ /players/shopnomix/index.html (+0ms) 
+10:55:27   ├─ /players/whatnot/index.html (+1ms) 
+10:55:27   ├─ /players/devotion/index.html (+0ms) 
+10:55:27   └─ /players/euka-ai/index.html (+0ms) 
+10:55:27 ▶ src/pages/players/index.astro
+10:55:27   └─ /players/index.html (+1ms) 
+10:55:27 ▶ src/pages/research/[slug].astro
+10:55:27   ├─ /research/ai-agent-affiliates/index.html (+1ms) 
+10:55:27   ├─ /research/activation/index.html (+0ms) 
+10:55:27   ├─ /research/bicycles-outdoor/index.html (+0ms) 
+10:55:27   ├─ /research/awin/index.html (+0ms) 
+10:55:27   ├─ /research/cj-affiliate/index.html (+0ms) 
+10:55:27   ├─ /research/consumer-electronics/index.html (+0ms) 
+10:55:27   ├─ /research/impact/index.html (+0ms) 
+10:55:27   ├─ /research/levanta/index.html (+0ms) 
+10:55:27   ├─ /research/livechannel/index.html (+0ms) 
+10:55:27   ├─ /research/discovery/index.html (+0ms) 
+10:55:27   ├─ /research/rakuten/index.html (+0ms) 
+10:55:27   ├─ /research/recruitment/index.html (+0ms) 
+10:55:27   ├─ /research/social-commerce/index.html (+0ms) 
+10:55:27   ├─ /research/shareasale/index.html (+0ms) 
+10:55:27   └─ /research/tracking-privacy/index.html (+0ms) 
+10:55:27 ▶ src/pages/research/index.astro
+10:55:27   └─ /research/index.html (+1ms) 
+10:55:27 ▶ src/pages/vendors/[slug].astro
+10:55:27   ├─ /vendors/anker/index.html (+1ms) 
+10:55:27   └─ /vendors/priority-bicycles/index.html (+1ms) 
+10:55:27 ▶ src/pages/vendors/index.astro
+10:55:27   └─ /vendors/index.html (+1ms) 
+10:55:27 ▶ src/pages/index.astro
+10:55:27   └─ /index.html (+2ms) 
+10:55:27 ✓ Completed in 51ms.
+
+10:55:27 [build] 67 page(s) built in 1.03s
+10:55:27 [build] Complete!
+[2026-04-17 10:55:27] Build succeeded
