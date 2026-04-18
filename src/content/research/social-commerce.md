@@ -151,3 +151,15 @@ impact: medium
 sentiment: positive
 ---
 Affilae's 2026 platform report reveals that influencers now account for 53% of all partnerships on its network — a structural majority. Commissions paid to influencers are also growing significantly. This confirms the convergence of influencer and affiliate channels is not a projection but an observable platform reality. For LiveChannel vendors, this means affiliate program structures must accommodate creator/influencer deal mechanics (hybrid flat + performance) to access the majority of available partners.
+
+---signal---
+id: news-20260418-001
+signal: Target ends cash commission creator affiliate program — replaces with gamified gift card rewards
+date: 2026-04-18
+source: https://adage.com/influencers-creators/aa-target-creator-program-affiliate-challenges/
+categories: industry
+tags: target, creator-program, affiliate, commission, gift-card, gamification, influencer, retail
+impact: high
+sentiment: negative
+---
+Target is replacing its commission-based Creator Program with a gamified model that rewards creators with gift cards and Target products instead of cash payouts. The move signals a broader trend of large retailers de-risking cash commission obligations by substituting lower-cost, product-based incentives. For the affiliate creator economy, this is a meaningful regression: fewer cash incentives reduce professional creator participation and channel quality. LiveChannel vendors competing for creator attention should note the gap this creates — performance-based cash commissions are now a differentiator, not a baseline.

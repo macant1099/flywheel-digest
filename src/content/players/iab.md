@@ -15,7 +15,7 @@ keyStats:
   - label: "Focus"
     value: "Digital advertising standards"
 vendorRelevance: "low"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-18"
 ---
 
 ## Overview
@@ -84,6 +84,9 @@ The IAB is a membership-based trade organization:
 
 ## Recent Developments
 
+- **2026 Outlook Study — Ad Spend +9.5%**: Released April 2026, the IAB's 2026 Outlook Study projects U.S. ad spend growth of +9.5% YoY (vs. +5.7% in 2025), with AI dominating buyer priorities — 5 of the top 6 buyer focus areas center on AI adoption and agentic systems.
+- **IAB NewFronts 2026 Moves to March**: In a significant structural shift, IAB moved its signature NewFronts digital video upfront event from its traditional May slot to March 2026, signaling the urgency of CTV/streaming planning cycles.
+- **IAB Australia Affiliate & Partnership Marketing Summit (April 21, 2026)**: IAB Australia is hosting its annual Affiliate and Partnerships Marketing Summit in Sydney (April 21) and Melbourne, marking growing recognition of affiliate/performance marketing within the broader IAB ecosystem.
 - **AI Transparency and Disclosure Framework (2026)**: Released the first-ever industry framework for AI disclosure in advertising, addressing the rapid growth of AI in ad creation, targeting, and commerce.
 - **Agentic AI Focus (2026)**: The IAB has centered its 2026 agenda on Agentic AI, recognizing that autonomous AI systems that plan, decide, and act are fundamentally changing digital advertising and commerce.
 - **TCF v2.3 (2025)**: Released updated Transparency and Consent Framework focusing on improved vendor disclosure, with compliance deadline of February 2026.

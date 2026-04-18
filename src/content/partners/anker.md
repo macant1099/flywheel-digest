@@ -1,6 +1,6 @@
 ---
 vendor: "anker"
-date: "2026-04-17"
+date: "2026-04-18"
 ---
 
 # Anker Affiliate Partner Recommendations
@@ -1002,7 +1002,171 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 
 ---
 
+---
+
+---
+
+## 2026-04-18 Discovery Update
+
+*Automated partner discovery scan — even-day cycle (Anker). All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 36. Android Police
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **24/25** |
+
+**URL:** https://www.androidpolice.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Prolific active Anker publisher with multiple articles in 2026: Anker 150W charger deal coverage (April 2026 — just this week), Anker Prime 250W Desktop Charger review, dedicated Anker travel adapter feature (February 24, 2026), "this Anker charger is the only one you'll ever need" editorial (March 4, 2026), ultra-compact 45W smart display charger deal alert (April 17, 2026). Android Police operates a dedicated Anker tag page with ongoing coverage. Confirmed affiliate links: "If you buy something from an Android Police link, we may earn a commission."
+**Evidence:** Multiple Anker-specific articles across deal coverage, full product reviews, and buying recommendations in Q1–Q2 2026. Android Police is a **Recurrent Ventures** publication — the **same parent company as 9to5Toys (#3 in matrix) and 9to5Mac (#16)**. DA ~78, 4–6M monthly visits, primarily Android/mobile/tech enthusiast audience.
+**Opportunity:** Android Police's mobile-first, Android-focused audience is a core Anker buyer demographic. Their deal alert format drives high-intent purchase traffic. The critical leverage angle: Android Police is Recurrent Ventures (same as 9to5Toys and 9to5Mac) — meaning a single partnership negotiation can cover all three properties simultaneously. Current links likely route through Amazon Associates (~3%); converting to Anker direct Impact program (8%) represents a 166% commission uplift for Recurrent Ventures, making a unified deal easy to pitch.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Recurrent Ventures centralized affiliate/commerce team (same contact already managing 9to5Toys and 9to5Mac for Anker) — LinkedIn outreach to Recurrent Ventures Head of Commerce; a single conversation expands the existing deal to cover Android Police at zero incremental cost
+- **Key value proposition:** Recurrent Ventures triple-play: adding Android Police to the existing 9to5Toys + 9to5Mac Anker relationship extends coverage to Android-first audience at no new relationship overhead; Android Police's deal alert format drives same high-intent buying traffic as 9to5Toys; exclusive Android Police reader promo code (e.g., "APDROIDS12" for 12% off) personalizes the offer for an Android community with strong brand affinity
+- **Authenticated member base:** No authenticated member base — primarily SEO + social-driven readership; however Recurrent Ventures operates email newsletter infrastructure across all three properties that can reach Anker-interested audiences
+
+**Activation Angle:**
+- **Member communication channels:** Android Police email newsletter (engaged Android enthusiast audience), Android Police social media (Twitter/X 350K+, Facebook 500K+), Recurrent Ventures unified deal alert network shared with 9to5Toys and 9to5Mac, Google Discover/Apple News distribution for deal articles
+- **Embed opportunities:** Anker deal alert articles (Android Police publishes multiple Anker deal posts per month — convert from Amazon links to direct); "Best Android chargers" and "Best phone accessories" buying guides; back-to-school and holiday gift guides; Prime Day / Spring Sale event coverage with exclusive Anker reader promo codes; Anker AnkerWork product reviews for their productivity/work-from-home vertical
+- **Estimated activation potential:** High — Android Police deal alert readers are in active purchase mode; mobile-first audience is Anker's sweet spot (USB-C chargers, power banks, cables); Recurrent Ventures network amplification means simultaneous deal placement across Android Police + 9to5Toys + 9to5Mac at each Anker sale event, creating a coordinated multi-property traffic surge
+
+---
+
+### 37. RetailMeNot
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 3 |
+| Reach & Authority | 5 |
+| Brand Safety | 4 |
+| Conversion Potential | 5 |
+| **Total** | **20/25** |
+
+**URL:** https://www.retailmenot.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker coupon pages on RetailMeNot for both anker.com (22 active coupons, "30% Off" headline, verified April 2026) and ankersolix.com (verified April 9, 2026, 1% cashback + promo codes). RetailMeNot earns affiliate commissions on Anker purchases. 75M+ monthly active users. Backed by Ziff Davis (same parent as PCMag, already in matrix).
+**Evidence:** Live, actively maintained Anker and Anker SOLIX coupon pages (both verified in April 2026). RetailMeNot's affiliate model is transparent — they publish commission-driven coupon content at massive scale. 75M+ shoppers use RetailMeNot specifically because they are in purchase mode and looking for a final incentive to convert. Ziff Davis ownership connects to PCMag's affiliate infrastructure.
+**Opportunity:** RetailMeNot is a bottom-of-funnel conversion powerhouse — users arrive having already decided to buy, looking only for a coupon code. An optimized RetailMeNot Anker page (with exclusive codes, cashback, and featured placement) captures buyers at the moment of maximum purchase intent. Current relationship appears to be standard coupon aggregation; upgrading to a **Featured Brand** or **Cashback Partner** placement would give Anker premium visibility at the point of conversion. The Ziff Davis connection opens a path to coordinate with PCMag's affiliate team for a unified Ziff Davis deal.
+
+**Recruitment Angle:**
+- **Best outreach channel:** RetailMeNot / Ziff Davis Commerce team via RetailMeNot's brand partner portal (partners.retailmenot.com); also LinkedIn outreach to RetailMeNot's Head of Brand Partnerships; coordinate with PCMag contact if Ziff Davis relationship is already established
+- **Key value proposition:** RetailMeNot's 75M monthly users are already in purchase mode — every Anker shopper who visits RetailMeNot before checkout is a guaranteed conversion if given a valid code; Featured Brand placement puts Anker at top of electronics/charger category pages; exclusive "RetailMeNot15" code (15% off anker.com) creates urgency and drives direct DTC conversions rather than Amazon routing; RetailMeNot cashback integration (1–2%) compounds the incentive for repeat buyers
+- **Authenticated member base:** YES (partial) — RetailMeNot has 30M+ registered members with email deal alerts and cashback tracking; members who activate deal alerts for electronics categories receive Anker coupon notifications directly in their inbox
+
+**Activation Angle:**
+- **Member communication channels:** RetailMeNot email deal alerts (30M+ registered members, segmented by category — electronics buyers are a targetable sub-list), RetailMeNot mobile app push notifications (active shoppers receive deal alerts at moment of shopping intent), RetailMeNot social media (Twitter/X, Facebook), browser extension (RetailMeNot Genie) that surfaces Anker codes at checkout across all sites
+- **Embed opportunities:** Featured placement in Electronics > Chargers & Cables category page; Anker SOLIX featured on Electronics > Home Backup Power; seasonal deal blasts (Prime Day, Black Friday, Spring Sale — RetailMeNot sends dedicated deal emails during major sale events); RetailMeNot "Double Cashback" promotions to drive urgency during product launches; browser extension auto-apply for Anker codes at checkout (passive conversion lift with zero user friction)
+- **Estimated activation potential:** High — bottom-of-funnel users convert at 5–10x the rate of editorial readers; RetailMeNot's 75M scale means even a small percentage engaging with Anker codes represents significant volume; cashback + exclusive code combination is the strongest conversion incentive mix available in the coupon affiliate category
+
+---
+
+### 38. PoweredThrough
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 2 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **20/25** |
+
+**URL:** https://poweredthrough.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Published comprehensive "Anker SOLIX Review 2026: Honest Look at the Full Lineup" (updated April 2026) — a multi-product review covering the full SOLIX lineup. Key finding highlighted: "Anker SOLIX is the only brand on this site with a 5-year warranty standard across its power station lineup." Affiliate disclosure confirms participation in Rakuten Advertising and Amazon Associates. Not connected to Anker's direct Impact program.
+**Evidence:** Full lineup review with in-depth multi-model analysis. Editorial emphasis on Anker's 5-year warranty as a unique differentiator — this is the kind of long-form, high-trust content that drives premium ticket conversions. PoweredThrough is a specialized backup power / portable power station review site — a rare niche vertical where SOLIX dominates and review content carries significant purchase influence.
+**Opportunity:** PoweredThrough is one of the few dedicated review sites specifically focused on backup power and portable power stations — Anker SOLIX's home turf. Their audience (homeowners, RV/van lifers, emergency preparedness buyers, outdoor enthusiasts) is exactly the SOLIX buyer demographic. The $1,000–$5,000+ SOLIX ticket price means even a small number of conversions generates outsized commission revenue. Converting from Rakuten Advertising / Amazon Associates to Anker's direct Impact program — or better, a dedicated SOLIX affiliate arrangement — would unlock 8%+ commission on multi-thousand-dollar transactions.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email via PoweredThrough's contact page; LinkedIn outreach to "Edd Pratt" (listed as author/reviewer); no major publication gatekeeping — a direct outreach to the editorial team is the fastest path
+- **Key value proposition:** Anker SOLIX is already PoweredThrough's top-recommended brand (5-year warranty distinction highlighted) — converting from Amazon's ~3% to Anker SOLIX direct (8%) on a $2,000–$5,000 product generates $160–$400 per conversion vs. $60–$150 on Amazon; exclusive "PoweredThrough" reader discount code (e.g., "POWERED10" for 10% off SOLIX) gives PoweredThrough's audience a compelling direct-buy incentive; early access to SOLIX product launches for first-mover review content
+- **Authenticated member base:** No authenticated member base — SEO and search-driven readership; however the niche focus means high average engagement time and purchase intent per visitor
+
+**Activation Angle:**
+- **Member communication channels:** PoweredThrough email newsletter (smaller but highly targeted backup power audience), RSS subscribers, referral traffic from Reddit (r/SolarDIY, r/vandwellers, r/preppers communities link to specialized review content), Google organic search (SOLIX long-tail queries drive high-intent traffic)
+- **Embed opportunities:** "Anker SOLIX Full Lineup Review" (already live — optimize link routing from Amazon/Rakuten to Anker direct); individual SOLIX model reviews (F2000, F3000, C1000, C800 — each a separate page opportunity); "Best portable power station for [use case]" buying guides (camping, RVs, home backup, van life); SOLIX Solarbank home energy storage reviews for the home backup power segment
+- **Estimated activation potential:** Medium — smaller absolute audience than tier-1 sites, but SOLIX ticket size ($1,000–$5,000+) makes each conversion worth 10–30x a standard charger affiliate transaction; PoweredThrough readers are high-intent research-mode buyers who read detailed reviews before committing to large purchases; strong Reddit/community referral pattern means content circulates in purchase-intent communities
+
+---
+
+### 39. TechBargains
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 3 |
+| Brand Safety | 4 |
+| Conversion Potential | 4 |
+| **Total** | **19/25** |
+
+**URL:** https://www.techbargains.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active Anker store page on TechBargains with dedicated deal listings (most recently Anker 4-Port USB Hub deal, March 2026). TechBargains earns affiliate commissions on all purchases — confirmed "When you buy through links on our site, we may earn an affiliate commission." Covers Anker deals across chargers, power banks, hubs, and cables. Primarily routes through Amazon Associates.
+**Evidence:** Dedicated Anker store page aggregating current deals. Active charger/power bank deal category. TechBargains is a focused tech deal aggregator (DA 55+, 1–2M monthly visits) with a loyal audience of tech deal seekers. Not a general coupon site — specifically tech products, meaning higher audience-product alignment than broad coupon platforms.
+**Opportunity:** TechBargains' tech-specific deal audience maps closely to Anker's buyer profile. Unlike broad coupon sites, TechBargains visitors are specifically seeking tech deals — electronics, gadgets, and accessories. An exclusive Anker promo code for TechBargains ("TECHBARGAINS10") would convert the existing deal-browsing traffic to direct anker.com purchases at 8% commission. Smaller scale than Slickdeals or RetailMeNot, but a more targeted audience with less competition for attention.
+**Recommended Action:** Contact TechBargains via their affiliate/partnerships page. Provide exclusive Anker promo code for direct link placement. Coordinate Anker deal placements during major sale events (Prime Day, Black Friday) for homepage/category featured placement.
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-18)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 3 | Android Police | 24/25 | Warm | Very High | Low |
+| 10 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 10 | Engadget | 23/25 | Cold | High | Medium |
+| 10 | MacRumors | 23/25 | Warm | High | Low |
+| 10 | The Verge | 23/25 | Warm | Very High | Medium |
+| 10 | CNET | 23/25 | Warm | Very High | Medium |
+| 10 | The Independent/IndyBest | 23/25 | Warm | High | Low |
+| 16 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 16 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 16 | AppleInsider | 22/25 | Warm | High | Low |
+| 16 | 9to5Mac | 22/25 | Warm | High | Low |
+| 16 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 21 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 21 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 21 | MKBHD | 21/25 | Warm | Very High | High |
+| 21 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 21 | T3 | 21/25 | Warm | High | Low |
+| 21 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 21 | Perks at Work | 21/25 | Cold | High | Medium |
+| 21 | Slickdeals | 21/25 | Warm | High | Low |
+| 21 | Creative Bloq | 21/25 | Warm | Medium-High | Low |
+| 30 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 30 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 30 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 30 | Rakuten | 20/25 | Warm | High | Low |
+| 30 | RetailMeNot | 20/25 | Warm | High | Low |
+| 30 | PoweredThrough | 20/25 | Warm | Medium | Low |
+| 36 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 36 | TechBargains | 19/25 | Warm | Medium | Low |
+| 38 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 39 | Houston Chronicle | 16/25 | Warm | Low | Low |
+
+---
+
 ## Strategic Recommendations
+
 
 
 
