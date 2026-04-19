@@ -163,3 +163,15 @@ impact: high
 sentiment: negative
 ---
 Target is replacing its commission-based Creator Program with a gamified model that rewards creators with gift cards and Target products instead of cash payouts. The move signals a broader trend of large retailers de-risking cash commission obligations by substituting lower-cost, product-based incentives. For the affiliate creator economy, this is a meaningful regression: fewer cash incentives reduce professional creator participation and channel quality. LiveChannel vendors competing for creator attention should note the gap this creates — performance-based cash commissions are now a differentiator, not a baseline.
+
+---signal---
+id: news-20260419-001
+signal: Amazon Associates April 14 policy overhaul — 180-day ship deadline, paid traffic blocked, onsite commissions narrowed to ASIN variants
+date: 2026-04-19
+source: https://affiliatecms.com/threads/amazon-associates-program-updates-major-policy-changes-effective-today-april-14-2026.385/
+categories: industry
+tags: amazon-associates, policy-change, commission-eligibility, paid-traffic, content-requirements, influencer-program
+impact: high
+sentiment: negative
+---
+Amazon rolled out sweeping updates to the Associates Program Operating Agreement effective April 14, 2026. Three major changes: (1) A new 180-day window — products must be shipped, streamed, and paid for within 180 days or no commission; (2) Any purchase driven by paid or boosted advertising linking to Amazon now disqualifies commission — even without prohibited keywords; (3) Onsite commissions now apply only to the exact ASIN variant linked, eliminating cross-category "halo" commissions. Original content requirements were also tightened — simple product listings no longer qualify; real commentary or transformation is now required. These changes reduce commission opportunity for large affiliates and close loopholes used by paid traffic arbitrageurs.

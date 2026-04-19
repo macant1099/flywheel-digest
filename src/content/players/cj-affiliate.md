@@ -15,7 +15,7 @@ keyStats:
   - label: "Global Reach"
     value: "Billions of consumers"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-19"
 ---
 
 ## Overview
@@ -84,6 +84,10 @@ Publishers pay no fees to join or participate in the network. They earn commissi
 - **Publicis VIVnetworks Acquisition**: Publicis Groupe acquired VIVnetworks to complement CJ and create what it calls the world's largest performance-driven affiliate marketing solution.
 - **2025 Industry Recognition**: CJ earned multiple awards in 2025, including bronze for Global Affiliate Network of the Year and various campaign-specific awards.
 - **AI-Powered Matching**: CJ has invested in machine learning for publisher-advertiser matching, predictive performance scoring, and automated optimization recommendations.
+- **CJU26 Registration Opens April 28, 2026**: CJ's annual client conference, CJ University (CJU), has announced that CJU26 registration opens April 28, 2026 at 11am PT. The event will be held in Santa Barbara, CA. Session reveals and speaker announcements are planned for July 2026. CJU is considered the industry's premier affiliate marketing conference.
+- **$16B+ in Transactions**: As of early 2026, CJ has driven over 157 million transactions and generated over $16 billion in publisher revenue, underscoring its continued dominance as a high-volume performance network.
+- **Interface Competitiveness Under Scrutiny**: Independent 2026 platform reviews continue to note that CJ's interface "feels dated compared to newer platforms" like Impact.com, flagging UX modernization as an ongoing priority for the network.
+- **Glo-Localize Strategy at CJU25**: The 2025 CJU agenda prominently featured cross-vertical global brand panels on "glo-localization" — adapting local strategies, reallocating budgets from saturated markets, and unlocking new regional revenue — signaling CJ's increased focus on international program scaling in 2026.
 
 ## Market Position & Competitive Context
 

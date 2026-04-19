@@ -43,3 +43,27 @@ impact: medium
 sentiment: neutral
 ---
 The affiliate industry has crossed from forecast to operational reality on cookie deprecation in 2026. Safari and Firefox block third-party cookies by default; Google retired its Privacy Sandbox initiative in October 2025 but kept cookies enabled with user controls. The leading 2026 migration path is server-side/first-party tracking via tools like Impact, PartnerStack, Refersion, Tapfiliate, and TUNE (CAKE). Vendors not yet on server-side tracking face growing attribution gaps, particularly for Safari/Firefox audiences.
+
+---signal---
+id: news-20260419-002
+signal: California privacy law Jan 2026 — Ace Hardware sued for tracking users who opted out; mid-market fines averaging $42K
+date: 2026-04-19
+source: https://ppc.land/ace-hardware-sued-for-tracking-users-who-opted-out-of-cookies/
+categories: industry
+tags: california-privacy, ccpa, opt-out, cookie-tracking, compliance, lawsuit, affiliate-risk
+impact: medium
+sentiment: negative
+---
+California's expanded privacy law (effective January 1, 2026) now requires companies to enter specific agreements with any third party receiving consumer data and restricts downstream usage. Ace Hardware is now facing litigation for tracking users who explicitly opted out of cookies. Industry data shows fines for continuous tracking violations averaging $42,000 for mid-market businesses in 2026, with piggybacking scripts accounting for 64% of unauthorized cookies found in audits. Affiliate programs using third-party tracking pixels on vendor sites face direct exposure — server-side or first-party solutions are the compliance path.
+
+---signal---
+id: news-20260419-003
+signal: FlexOffers updates publisher T&C April 16 — strict traffic source approval, subaffiliate disclosure, account termination risk
+date: 2026-04-19
+source: https://affiliatecms.com/threads/flexoffers-com-updates-its-publisher-terms-and-conditions-what-affiliates-need-to-know-in-2026.386/
+categories: affiliate-networks
+tags: flexoffers, terms-conditions, publisher-compliance, traffic-source-approval, subaffiliate, account-risk
+impact: medium
+sentiment: neutral
+---
+FlexOffers.com released updated Publisher/Affiliate Network Terms effective April 16, 2026. Key changes: (1) Every traffic source (site, email list, social, app) must now be submitted and approved individually — links cannot be used on unapproved sources; (2) Sub-affiliates require prior written consent; (3) Strict bans on adult/gambling/hate-adjacent placement, spam, and unsolicited email are reinforced with account termination and commission reversal as penalties. For LiveChannel vendors with programs on FlexOffers (or publishers promoting their brands there), non-compliant publisher activity now carries blowback risk for the brand. Vendor program managers should audit their active publisher lists for T&C compliance.

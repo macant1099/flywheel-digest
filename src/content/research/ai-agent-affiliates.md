@@ -460,3 +460,15 @@ impact: high
 sentiment: negative
 ---
 Following the FTC's January 2026 Consumer Review Rule warning letters, a new Affiverse analysis (April 15, 2026) makes clear the emerging expectation is that affiliate program contracts must now explicitly specify disclosure requirements for AI-assisted and AI-generated content. Program managers who don't update their publisher agreements to include AI disclosure clauses are exposed to joint liability. This extends compliance responsibility up the stack — from publisher to program operator. LiveChannel vendors running affiliate programs should audit and update T&Cs immediately.
+
+---signal---
+id: news-20260419-004
+signal: March 2026 Google update crushed affiliate SEO sites; Answer Engine Optimization (AEO) emerging as the next channel
+date: 2026-04-19
+source: https://www.reddit.com/r/Affiliatemarketing/comments/1sn5dsp/answer_engine_optimization_is_early_but_the_teams/
+categories: industry
+tags: google-algorithm, seo, affiliate-sites, answer-engine-optimization, ai-search, perplexity, chatgpt, traffic-diversification
+impact: medium
+sentiment: negative
+---
+The March 2026 Google core update dealt significant traffic losses to affiliate-focused content sites, with multiple publishers on r/AffiliateMarketing reporting complete category wipeouts. Simultaneously, Answer Engine Optimization (AEO) is emerging as a meaningful early-mover opportunity — optimizing content specifically for AI-powered answer engines (Perplexity, ChatGPT, Gemini) where organic affiliate link insertion is still nascent. Teams prioritizing AEO positioning now are building citation authority ahead of the monetization curve. For LiveChannel vendors: affiliate discovery increasingly happens via AI answers, not Google SERPs — this is a structural SEO risk plus an emerging publisher channel worth tracking.
