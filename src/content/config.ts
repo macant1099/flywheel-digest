@@ -47,7 +47,7 @@ const research = defineCollection({
     category: z.enum(['affiliate-networks', 'verticals', 'industry', 'livechannel', 'network-building', 'sources']),
     summary: z.string().optional(),
     lastUpdated: z.string(),
-    status: z.enum(['tracking', 'active', 'new']).default('tracking'),
+    status: z.enum(['tracking', 'active', 'new', 'brief']).default('tracking'),
     tags: z.array(z.string()).optional(),
   }),
 });
