@@ -1,21 +1,23 @@
 ---
 name: "Impact.com"
 type: "network"
-description: "SaaS-based partnership management platform powering 350,000+ partnerships for 5,000+ global brands including Walmart, Uber, and Shopify"
+description: "SaaS-based partnership management platform powering 350,000+ active partnerships for 5,000+ global brands including Walmart, Uber, and Shopify — on pace to surpass $270M ARR"
 website: "https://impact.com"
 founded: "2008"
 headquarters: "Santa Barbara, CA"
 keyStats:
   - label: "Annual Recurring Revenue"
-    value: "~$270M"
+    value: "~$270M (FY2025, up ~20% YoY)"
   - label: "Brands"
     value: "5,000+"
-  - label: "Partners in Marketplace"
-    value: "330,000+"
+  - label: "Active Partnerships"
+    value: "350,000+"
   - label: "Partner-Referred GMV"
     value: "~$120B"
+  - label: "Gross Transactional Value (GTV)"
+    value: "~$5B (partner payouts)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-20"
 ---
 
 ## Overview
@@ -79,10 +81,14 @@ This model typically results in lower total cost for high-volume programs compar
 
 ## Recent Developments
 
-- **Creator & Advocate Integration (2025)**: Impact unified its product ecosystem by including base versions of Creator and Advocate at no extra cost, enabling brands to manage all partnership types on one platform.
-- **Technology Partner Growth**: Partners supporting price comparison and validation saw a 79% increase in transaction volume in 2025.
-- **AI Investment**: Continued investment in AI-powered partner matching, predictive analytics, and automated optimization.
-- **Global Expansion**: Strengthened presence in APAC and EMEA markets, with payment support in 60+ currencies across 214 countries.
+- **Record FY2025 Performance (Jan 2026)**: Impact.com reported ~$270M ARR (up ~20% YoY), ~$120B in partner-referred GMV, and ~$5B in gross transactional value for the fiscal year ending January 31, 2026. The platform welcomed 3,500+ new customers including New Balance, Hydrojug, Udemy, and Upside.
+- **YouTube Partnership**: Impact.com partnered with YouTube to enable brands and creators to track and monetize product recommendations directly from YouTube content — a major bridge between creator commerce and affiliate performance tracking.
+- **Creator & Advocate Integration (2025)**: Impact unified its product ecosystem by including base versions of Creator and Advocate at no extra cost, enabling brands to manage affiliate, influencer, and referral programs on one platform.
+- **Creator Revenue Surge**: Creator-driven revenue surged 51% YoY in 2025, validating Impact.com's pivot toward community-driven commerce.
+- **Technology Partner Growth**: Partners supporting price comparison and cart validation saw a 79% increase in transaction volume in 2025, reflecting AI shopping agent adoption.
+- **Cyber Week Research**: Impact's 2025 Cyber Week data showed shoppers concentrated 31% of total spend on Black Friday, using Cyber Monday for final purchases — reinforcing the value of data intelligence Impact.com provides brands.
+- **AI Investment**: Continued investment in AI-powered partner matching, predictive analytics, and automated commission optimization.
+- **Global Expansion**: Payment support in 60+ currencies across 214 countries; strengthened APAC and EMEA presence.
 
 ## Market Position & Competitive Context
 

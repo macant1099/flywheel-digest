@@ -323,7 +323,7 @@ id: news-20260413-010
 signal: Instagram launches affiliate links for Reels — creators can now tag products and earn commissions directly in video content
 date: 2026-04-08
 source: https://hellopartner.com/2026/04/08/instagram-announces-huge-affiliate-link-update-to-increase-earning-chances-for-creators/
-categories: industry | verticals
+categories: [industry, verticals]
 tags: instagram, meta, reels, affiliate-links, social-commerce, creator-monetization, influencer
 impact: high
 sentiment: positive
@@ -424,18 +424,6 @@ impact: medium
 sentiment: positive
 ---
 Affiliate Marketing Buffet officially launched ClickCampaigns.ai on April 12, 2026, positioning it as an AI-powered platform capable of replacing traditional marketing departments for affiliate marketers and solo operators. The broader trend is clear: video content is now non-optional (video marketers generate 66% more qualified leads), and AI tools for content production, optimization, and campaign management are accelerating adoption at the individual affiliate level. Monitoring for feature claims vs. real-world performance.
-
----signal---
-id: news-20260416-007
-signal: FTC issues first Consumer Review Rule warning letters in January 2026, targeting fake reviews and undisclosed AI endorsements
-date: 2026-04-16
-source: https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/
-categories: industry
-tags: ftc, regulation, compliance, ai-endorsements, consumer-review-rule, disclosure
-impact: high
-sentiment: negative
----
-In January 2026, the FTC issued its first warning letters under the Consumer Review Rule, citing 10 companies for fake reviews, incentivized testimonials, and deceptive review practices. Separately, the FTC updated its Endorsement Guides in 2025 to explicitly address AI-generated content. In 2026, every piece of affiliate content — including AI-generated — must include clear, conspicuous disclosures or risk civil penalties. This raises compliance risk for vendors using AI-generated reviews or undisclosed paid influencer placements.
 
 ---signal---
 id: news-20260416-008
