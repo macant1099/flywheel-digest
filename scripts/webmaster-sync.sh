@@ -64,7 +64,7 @@ for f in "$DATA_REPO"/newsletters/*.md; do
 done
 
 # Step 4: Sync research files
-for dir in networks verticals industry livechannel network-building; do
+for dir in networks verticals industry livechannel network-building sources; do
   srcdir="$DATA_REPO/research/$dir"
   [ -d "$srcdir" ] || continue
   for f in "$srcdir"/*.md; do

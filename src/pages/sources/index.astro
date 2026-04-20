@@ -1,0 +1,281 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const sources = await getCollection('sources');
+
+const bucketGroups: Record<string, { label: string; description: string; items: typeof sources }> = {
+  'affinity-perks': {
+    label: 'Affinity & Perks Platforms',
+    description: 'White-labeled member-perks marketplaces. The closest competitive analog to LiveChannel\u2019s source-facing proposition.',
+    items: [],
+  },
+  'ams': {
+    label: 'Association Management Systems',
+    description: 'Back-office platforms for associations and clubs. Some include native member-discount modules \u2014 usually shallow ones.',
+    items: [],
+  },
+  'affiliate-network': {
+    label: 'Affiliate Networks (from the source\u2019s seat)',
+    description: 'Mainstream affiliate networks evaluated from the membership-org-publisher perspective, not the merchant perspective.',
+    items: [],
+  },
+  'vertical-benchmark': {
+    label: 'Vertical Benchmarks',
+    description: 'Flagship member-deal programs that set expectations for what \u201cgood\u201d looks like in the category.',
+    items: [],
+  },
+  'community-creator': {
+    label: 'Community & Creator Platforms',
+    description: 'Adjacent platforms that host modern paid communities. Not direct competitors, but shape what members-only commerce UX looks like.',
+    items: [],
+  },
+  'diy-pattern': {
+    label: 'The DIY Long Tail',
+    description: 'Pattern-level research. How small orgs deliver deals today when they have no platform \u2014 the real addressable market.',
+    items: [],
+  },
+};
+
+for (const s of sources) {
+  const b = s.data.bucket;
+  if (bucketGroups[b]) bucketGroups[b].items.push(s);
+}
+
+function implicationBadge(i: string): { label: string; cls: string } {
+  switch (i) {
+    case 'direct-competitor': return { label: 'Direct competitor', cls: 'red' };
+    case 'adjacent': return { label: 'Adjacent', cls: 'yellow' };
+    case 'inspiration': return { label: 'Inspiration', cls: 'blue' };
+    case 'non-threat': return { label: 'Non-threat', cls: 'green' };
+    default: return { label: i, cls: '' };
+  }
+}
+---
+
+<Base title="Sources Landscape">
+  <h1 class="page-title">Sources Landscape</h1>
+  <p class="page-intro">
+    Source-side research: the tools, platforms, and programs membership organizations currently use
+    to deliver affiliate and member-deal value. This is the flip side of vendor research \u2014 what does
+    a car club president, alumni director, or association executive have available today?
+  </p>
+
+  <div class="meta-row">
+    <span class="count">{sources.length} entries tracked</span>
+    <span class="meta-sep">\u00b7</span>
+    <span class="count">First sweep \u2014 in progress</span>
+  </div>
+
+  <div class="callout">
+    <strong>Where this is heading.</strong> The initial sweep maps what exists. A car-club
+    vertical deep-dive follows. Longer-term: a source-readiness score (mirror of the vendor
+    ACES idea), source-\u2194-vendor match scoring, and playbooks for membership-org leaders.
+    See the brief in <code>macant1099/flywheel/research/sources/landscape-brief.md</code>.
+  </div>
+
+  {Object.entries(bucketGroups).filter(([, v]) => v.items.length > 0).map(([key, { label, description, items }]) => (
+    <section class="bucket-section">
+      <div class="bucket-header">
+        <h2 class="bucket-title">{label}</h2>
+        <p class="bucket-description">{description}</p>
+      </div>
+      <div class="source-grid">
+        {items.sort((a, b) => a.data.name.localeCompare(b.data.name)).map((s) => {
+          const impl = implicationBadge(s.data.livechannelImplication);
+          return (
+            <a href={`/sources/${s.id.replace(/\.md$/, '')}/`} class="source-card">
+              <div class="card-header">
+                <h3 class="card-name">{s.data.name}</h3>
+                <span class={`badge ${impl.cls}`}>{impl.label}</span>
+              </div>
+              <p class="card-description">{s.data.description}</p>
+              <div class="card-attrs">
+                {s.data.pricingModel && (
+                  <div class="attr">
+                    <span class="attr-label">Pricing</span>
+                    <span class="attr-value">{s.data.pricingModel}</span>
+                  </div>
+                )}
+                {s.data.exclusivityPosture && s.data.exclusivityPosture !== 'unknown' && (
+                  <div class="attr">
+                    <span class="attr-label">Exclusivity</span>
+                    <span class="attr-value">{s.data.exclusivityPosture}</span>
+                  </div>
+                )}
+              </div>
+              <div class="card-footer">
+                {s.data.owner && <span class="footer-item">{s.data.owner}</span>}
+                <span class="footer-item">Reviewed {s.data.lastReviewed}</span>
+              </div>
+              <span class="card-link">View entry &rarr;</span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+
+  {sources.length === 0 && (
+    <div class="empty-state">
+      No source entries have been ingested yet. The first sweep is still populating.
+    </div>
+  )}
+</Base>
+
+<style>
+  .page-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    margin-bottom: 0.5rem;
+  }
+  .page-intro {
+    color: var(--text-muted);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 0.75rem;
+    max-width: 640px;
+  }
+  .meta-row {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    font-family: var(--mono);
+  }
+  .meta-sep { margin: 0 0.5rem; }
+
+  .callout {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: var(--text);
+    margin-bottom: 3rem;
+  }
+  .callout code {
+    font-family: var(--mono);
+    font-size: 0.82rem;
+    background: rgba(37, 99, 235, 0.08);
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+  }
+
+  .bucket-section { margin-bottom: 3.5rem; }
+  .bucket-header {
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .bucket-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.15rem;
+  }
+  .bucket-description {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .source-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+
+  .source-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.15s, border-color 0.15s;
+  }
+  .source-card:hover {
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+    border-color: #d1d5db;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+  .card-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+  }
+  .card-description {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+  }
+  .card-attrs {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0.75rem 0;
+    border-top: 1px solid var(--border);
+    margin-bottom: 0.75rem;
+  }
+  .attr { display: flex; flex-direction: column; }
+  .attr-label {
+    font-size: 0.68rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.1rem;
+  }
+  .attr-value {
+    font-size: 0.82rem;
+    color: var(--text);
+    font-family: var(--mono);
+  }
+
+  .card-footer {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+  .footer-item {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+  .footer-item:not(:last-child)::after {
+    content: "\00b7";
+    margin-left: 1rem;
+    color: var(--border);
+  }
+  .card-link {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .source-card:hover .card-link { text-decoration: underline; }
+
+  .empty-state {
+    padding: 2.5rem;
+    text-align: center;
+    color: var(--text-muted);
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .source-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -44,7 +44,7 @@ const research = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    category: z.enum(['affiliate-networks', 'verticals', 'industry', 'livechannel', 'network-building']),
+    category: z.enum(['affiliate-networks', 'verticals', 'industry', 'livechannel', 'network-building', 'sources']),
     summary: z.string().optional(),
     lastUpdated: z.string(),
     status: z.enum(['tracking', 'active', 'new']).default('tracking'),
@@ -109,4 +109,48 @@ const players = defineCollection({
   }),
 });
 
-export const collections = { vendors, research, briefings, newsletters, playbooks, partners, players };
+const sources = defineCollection({
+  type: 'content',
+  schema: z.object({
+    name: z.string(),
+    bucket: z.enum([
+      'affinity-perks',
+      'ams',
+      'affiliate-network',
+      'vertical-benchmark',
+      'community-creator',
+      'diy-pattern',
+    ]),
+    description: z.string(),
+    website: z.string().optional(),
+    owner: z.string().optional(),
+    targetSourceType: z.array(z.enum([
+      'employer',
+      'professional-association',
+      'club',
+      'alumni',
+      'consumer-membership',
+      'community',
+      'creator',
+      'mixed',
+    ])).default(['mixed']),
+    sourceReach: z.string().optional(),
+    pricingModel: z.string().optional(),
+    vendorOnboarding: z.enum(['open-marketplace', 'curated', 'invite-only', 'mixed', 'unknown']).default('unknown'),
+    exclusivityPosture: z.enum(['public-codes', 'gated', 'exclusive', 'mixed', 'unknown']).default('unknown'),
+    authModel: z.string().optional(),
+    dataVisibility: z.string().optional(),
+    uxSurface: z.array(z.string()).optional(),
+    integrationDepth: z.string().optional(),
+    strengths: z.array(z.string()).optional(),
+    gaps: z.array(z.string()).optional(),
+    livechannelImplication: z.enum(['direct-competitor', 'adjacent', 'inspiration', 'non-threat']).default('adjacent'),
+    citations: z.array(z.object({
+      label: z.string(),
+      url: z.string(),
+    })).optional(),
+    lastReviewed: z.string(),
+  }),
+});
+
+export const collections = { vendors, research, briefings, newsletters, playbooks, partners, players, sources };
