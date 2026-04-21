@@ -34,3 +34,20 @@
 - **Build:** ✅ 73 pages built in 992ms
 - **Changes:** 12 files changed, 490 insertions. New: W17 newsletter, amazon-associates + goloot player profiles, 3 research articles (ai-agent-affiliates, social-commerce, tracking-privacy)
 - **Commit:** b6ba949 → pushed to main
+
+## 2026-04-20 08:01 PDT
+
+**Files synced:**
+- Research: 15 files (0 new, content refreshed: ai-agent-affiliates.md)
+- Players: 40 files (2 new: admitad.md, tapfiliate.md; updated: impact.md)
+- Playbooks: 2 files (date bumped)
+- Partners: 2 files (anker expanded, priority-bicycles date bumped)
+- Newsletters: 2 files (frontmatter added to W16, W17)
+
+**Freshness issues:**
+- 6 research files stale (>7 days): ai-agent-affiliates, cj-affiliate, impact, livechannel, rakuten, shareasale (all lastUpdated 2026-04-12, source repo unchanged)
+- 0 player profiles stale
+- Vendor scores match scorecards (Anker 65, Priority 46)
+
+**Build:** ✓ 76 pages built in 1.05s
+**Commit:** 7acf4cc — 10 files changed, 409 insertions
