@@ -51,3 +51,20 @@
 
 **Build:** ✓ 76 pages built in 1.05s
 **Commit:** 7acf4cc — 10 files changed, 409 insertions
+
+## 2026-04-21 08:00 PDT — Webmaster Sync
+
+**Files synced:**
+- Research: 15 files (networks 7, verticals 2, industry 3, network-building 3)
+- Players: 40 profiles (1 new: sovrn.md)
+- Playbooks: 2 (anker, priority-bicycles)
+- Partner recs: 2 (anker, priority-bicycles)
+- Newsletters: 3 (W16, W17 — added frontmatter; week-1 already had it)
+
+**Freshness issues:**
+- 8 research files >7 days stale: ai-agent-affiliates, cj-affiliate, impact, levanta, livechannel, rakuten, social-commerce, tracking-privacy
+- All player profiles have lastUpdated ✓
+- Today's briefing present ✓
+
+**Build:** ✅ 91 pages, 1.62s
+**Commit:** 2ee500f — 12 files changed, +277/-11
