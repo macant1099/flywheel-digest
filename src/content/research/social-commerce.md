@@ -175,3 +175,15 @@ impact: high
 sentiment: negative
 ---
 Amazon rolled out sweeping updates to the Associates Program Operating Agreement effective April 14, 2026. Three major changes: (1) A new 180-day window — products must be shipped, streamed, and paid for within 180 days or no commission; (2) Any purchase driven by paid or boosted advertising linking to Amazon now disqualifies commission — even without prohibited keywords; (3) Onsite commissions now apply only to the exact ASIN variant linked, eliminating cross-category "halo" commissions. Original content requirements were also tightened — simple product listings no longer qualify; real commentary or transformation is now required. These changes reduce commission opportunity for large affiliates and close loopholes used by paid traffic arbitrageurs.
+
+---signal---
+id: news-20260421-001
+signal: Meta affiliate tools face brand adoption friction — advertisers call affiliate "an afterthought" despite Shoptalk launch
+date: 2026-04-20
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, facebook, instagram, reels, affiliate-tools, social-commerce, brand-adoption, shoptalk, business-ai, amazon, shopee
+impact: medium
+sentiment: neutral
+---
+Despite Meta's high-profile Shoptalk launch of creator affiliate tagging for Facebook and Instagram Reels (Amazon and Shopee as initial retail partners, with Temu/eBay/Mercado Libre joining soon), brands are slow to prioritize the rollout. adMixt CEO Kevin Simonson noted affiliate is "generally an afterthought from a strategy perspective" for most brands, who still favor paid media. Additionally, Meta debuted checkout in its Business AI sales agent at Shoptalk — a separate but converging social commerce push. The adoption gap signals an opportunity: vendors that move early on Meta's affiliate tools gain an uncrowded channel while competitors wait.

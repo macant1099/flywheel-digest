@@ -10,6 +10,8 @@ keyStats:
     value: "$89/month ($74/month annual)"
   - label: "Pricing (Scale tier)"
     value: "$179/month ($149/month annual)"
+  - label: "Customers"
+    value: "66,000+"
   - label: "Native Integrations"
     value: "30+"
   - label: "Affiliates (Launch tier)"
@@ -17,7 +19,7 @@ keyStats:
   - label: "Affiliates (Scale/Enterprise)"
     value: "Unlimited"
 vendorRelevance: "medium"
-lastUpdated: "2026-04-20"
+lastUpdated: "2026-04-21"
 ---
 
 ## Overview
@@ -87,7 +89,9 @@ This model means brands pay only the platform fee — all commission payments go
 
 ## Recent Developments
 
-- **2026 Positioning**: Tapfiliate continues to grow in the SMB segment, positioned as the go-to affordable alternative to heavyweight platforms. Industry roundups in Q1 2026 consistently cite Tapfiliate among the top 10-11 affiliate platforms for growing brands.
+- **April 2026 — Platform Upgrade (Registration & Reporting)**: Tapfiliate shipped a significant platform update covering three areas: (1) **Full affiliate registration control** — brand admins can now block affiliate signups from specific countries, disable new registrations entirely with a custom-facing message, and control program access at the entry point rather than cleaning up post-signup; (2) **Granular reporting improvements** — affiliate reports now surface approved affiliates with zero activity (previously invisible), an Email column was added to the Affiliates report for direct contact access, and asset-level reporting is now available in the Affiliate Portal; (3) **Multi-language localization** — rollout of the Advertiser Portal in additional languages began, enabling non-English-speaking teams to operate the platform natively.
+- **February 2026 — "5 Key Insights" PR Push**: Tapfiliate published a high-visibility press release (syndicated via PR Newswire) citing its 66,000+ customer base and positioning the company as the authoritative voice on affiliate program best practices for growing brands. Key data point: over 80% of brands already use affiliate marketing to attract sales.
+- **Q1 2026 Positioning**: Industry roundups consistently cite Tapfiliate among the top 10-11 affiliate platforms for growing brands. Tapfiliate's own blog published an authoritative comparison piece ranking 11 top affiliate platforms, reinforcing its thought-leadership positioning in the SMB segment.
 - **Scale-Tier MLM Expansion**: Advanced multi-level marketing features with sales goals were added to the Scale tier, expanding the platform's addressable market to brands building ambassador and distributor networks.
 - **Trolley Payout Integration**: Automated global payouts via Trolley (Scale and Enterprise) streamline affiliate compensation across borders — particularly relevant for US brands with international affiliates.
 - **API Enhancements**: Continued investment in REST API depth, with Enterprise-tier detailed API click reports enabling deeper integration with BI and analytics stacks.

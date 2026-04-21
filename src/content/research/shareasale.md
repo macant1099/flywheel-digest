@@ -1,7 +1,7 @@
 ---
 title: "ShareASale — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-12"
+lastUpdated: "2026-04-21"
 ---
 
 # ShareASale — Network Profile
@@ -178,6 +178,11 @@ Monitoring the ShareASale-to-Awin migration patterns provides intelligence on:
 - Former ShareASale merchants are adjusting to Awin's pricing and feature set.
 - The "ShareASale" brand continues to appear in industry discussions and affiliate program directories due to its historical recognition, but all operational activity is on Awin.
 - Industry observers note that the consolidation has reduced the number of major independent US-focused affiliate networks, concentrating market power among CJ, Awin, Impact, and Rakuten.
+- **February 2026 — Winter Platform Upgrade:** Awin launched a major platform upgrade featuring: (1) Campaign Builder — cuts campaign setup from hours to minutes, generates customized dashboards from goal/audience parameters; (2) AI Partner Recommendations — Awin Intelligence engine surfaces top 4 best-match partners per campaign goal + curated list of up to 250 daily opportunities; (3) Personalized publisher storefronts paired with expanded product discovery; (4) Ava AI chatbot rolled out across 20+ countries for always-on support.
+- **April 2026 — Major U.S. Investment Announcement:** Awin announced its "most significant investment to date" in the North American market, headlined by $578M+ recovered globally for partners via its Conversion Protection Initiative (CPI). Key U.S. metrics: $37M in protected commissions identified, 29.4M+ global transactions shielded by Soft Click technology, $6.55M saved for U.S. brands by blocking browser extension misattribution. Awin's U.S. team grew 140% year-over-year. U.S. ecommerce market valued at $1.62T in 2026.
+- **Trustpilot sentiment (April 2026):** Publisher frustration with customer support remains an ongoing complaint — "empty phrases" and "standard procedures" cited as insufficient for performance publishers. Positive signals around new platform tools and approval speed.
+- **Industry research (Forrester/Awin, March 2026):** 92% of marketers rate affiliate as an effective or highly effective channel, placing it behind only content marketing and PPC.
+- **AI shopping threat acknowledgment:** Awin's Mastertag positioned as a "privacy-first, future-proof data foundation" for brands competing in AI discovery and LLM performance — acknowledging that billions of dollars in consumer spending are moving into AI black boxes where traditional attribution fails.
 
 **Impact on Market Structure:**
 The ShareASale closure is one of the most significant affiliate industry consolidation events in recent years. It effectively reduced the "Big 5" US networks to a "Big 4," with Awin absorbing ShareASale's entire merchant and publisher base. This has implications for:
@@ -187,4 +192,35 @@ The ShareASale closure is one of the most significant affiliate industry consoli
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+### 2026-04-21 — Awin U.S. Investment & CPI Expansion
+**Source:** GlobeNewswire (April 15, 2026) | **Type:** Platform/Investment | **Relevance:** High
+
+Awin announced its largest-ever North American investment, centering on AI-resilient tracking infrastructure. The Conversion Protection Initiative (CPI) has now recovered $578M+ in global brand revenue. U.S.-specific: $37M in commissions protected, $6.55M saved via Soft Click anti-misattribution tech, and 140% YoY growth in regional support headcount. New leadership hires signal aggressive market expansion. The framing around "AI black boxes" eroding attribution is a direct acknowledgment that LLM/AI shopping is disrupting traditional affiliate tracking — relevant intelligence for Flywheel vendor readiness scoring.
+
+**Implications for vendors:**
+- Vendors on Awin (all former ShareASale programs) now benefit from the Mastertag cookieless tracking infrastructure — important for maintaining attribution as AI shopping agents scale.
+- Vendors NOT on Awin lack access to Soft Click misattribution protection — trackable competitive gap.
+- The 140% U.S. team growth signals Awin is prioritizing North American merchant acquisition; vendors considering network diversification should expect more aggressive Awin outreach in 2026.
+
+---
+
+### 2026-04-21 — Winter 2026 Platform Upgrade: Campaign Builder + Ava AI
+**Source:** GlobeNewswire (February 24, 2026) | **Type:** Feature Release | **Relevance:** Medium-High
+
+Awin's Winter 2026 platform upgrade introduced three meaningful capabilities: (1) Campaign Builder — goal-to-dashboard in minutes; (2) AI-driven partner matching surfacing up to 250 daily opportunities; (3) Ava AI chatbot across 20+ countries. The upgrade explicitly targets the operational complexity that has historically made affiliate management time-intensive for smaller advertiser teams. This reduces friction for former ShareASale SMB merchants still adapting to the Awin UI.
+
+**Implications for vendors:**
+- Vendors with lean affiliate management teams (common in LiveChannel's SMB segment) stand to benefit most from Campaign Builder's simplified workflow.
+- AI partner recommendations could surface mid-tier publisher partnerships that smaller merchant teams wouldn't otherwise discover — net positive for reach expansion.
+- Ava chatbot indicates Awin is investing in self-serve support, which may partially address the ongoing publisher dissatisfaction with human support responsiveness.
+
+---
+
+### 2026-04-21 — Publisher Sentiment Check (Trustpilot)
+**Source:** Trustpilot (April 2026) | **Type:** Publisher Sentiment | **Relevance:** Medium
+
+Recent Trustpilot reviews indicate persistent publisher frustration with Awin's customer support quality — specifically around "corporate platitudes" and unresolved disputes. This mirrors a pattern seen during the ShareASale migration period. Not a systemic crisis, but worth tracking as a potential churn risk for high-value publishers who may route traffic to networks with more responsive account management (CJ, Impact).
+
+**Implications for vendors:**
+- Top-performing publishers on Awin may be susceptible to poaching by CJ or Impact if support quality doesn't improve.
+- Vendors with strong direct publisher relationships may benefit from supplementing Awin with a direct affiliate program or secondary network as a publisher retention hedge.

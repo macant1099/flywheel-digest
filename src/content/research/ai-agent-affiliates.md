@@ -460,3 +460,15 @@ impact: medium
 sentiment: negative
 ---
 The March 2026 Google core update dealt significant traffic losses to affiliate-focused content sites, with multiple publishers on r/AffiliateMarketing reporting complete category wipeouts. Simultaneously, Answer Engine Optimization (AEO) is emerging as a meaningful early-mover opportunity — optimizing content specifically for AI-powered answer engines (Perplexity, ChatGPT, Gemini) where organic affiliate link insertion is still nascent. Teams prioritizing AEO positioning now are building citation authority ahead of the monetization curve. For LiveChannel vendors: affiliate discovery increasingly happens via AI answers, not Google SERPs — this is a structural SEO risk plus an emerging publisher channel worth tracking.
+
+---signal---
+id: news-20260421-002
+signal: FTC 2026 affiliate violation fines set at $53,088 per instance — enforcement activity up 40% YoY
+date: 2026-04-21
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, compliance, disclosure, fine, enforcement, regulation, affiliate-program-management
+impact: high
+sentiment: negative
+---
+As of 2026, FTC fines for affiliate disclosure violations are set at $53,088 per instance, and enforcement activity has already increased 40% compared to 2025. The FTC's updated Endorsement Guides explicitly cover AI-generated content, and the Consumer Review Rule prohibits fake reviews, undisclosed paid endorsements, and suppression of negative reviews. Every affiliate link, sponsored post, or paid product mention requires a clear and conspicuous disclosure. LiveChannel vendors operating affiliate programs must audit publisher disclosure practices — both direct program participants and any sub-affiliates — as liability can extend to the program operator for non-compliant publisher activity.
