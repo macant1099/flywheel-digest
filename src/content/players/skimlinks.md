@@ -15,7 +15,7 @@ keyStats:
   - label: "Publisher Acceptance Rate"
     value: "3%"
 vendorRelevance: "medium"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-22"
 ---
 
 ## Overview
@@ -85,6 +85,11 @@ Skimlinks uses a revenue-sharing model:
 - **Top Merchant AOV Growth**: In 2024, the top 100 merchants on Skimlinks saw average order value grow 20% year-over-year, driven by high-intent traffic from trusted publishers.
 - **APAC Expansion**: Appointed a new APAC Director to expand Skimlinks' publisher and merchant base in Asia-Pacific markets.
 - **Publisher Analytics**: Enhanced editor tools and analytics to help publishers understand which commerce content performs best and optimize accordingly.
+- **2026 UK Editorial Calendar**: Published the 2026 UK Editorial Calendar for publishers (November 2025) to help content teams align affiliate coverage with seasonal commerce moments — a signal Skimlinks is deepening its role as a publisher strategy partner, not just a monetization tool.
+- **GoWish Case Study (Q1 2026)**: GoWish, a wish-list commerce platform, partnered with Skimlinks to execute a high-speed, multi-market rollout across European markets — demonstrating Skimlinks' capacity to support international publisher scaling without manual network integrations per country.
+- **Fashion Affiliate Benchmark Content**: Skimlinks published its "25 Top-Converting Fashion Affiliate Brands in 2026" guide for publishers, continuing its trend of providing vertical-specific intelligence to help editorial teams prioritize which merchants to feature.
+- **Collective Voice Shutdown Beneficiary**: The Q1 2026 shutdown of Collective Voice (formerly ShopStyle Collective), which ceased tracking links as of March 31, 2026 and is fully closing July 31, 2026, leaves a gap in fashion/lifestyle affiliate monetization for mid-tier publishers. Skimlinks is well-positioned to absorb displaced creators who need automatic, multi-merchant monetization without platform dependency.
+- **Platform Stability**: Despite broader affiliate industry consolidation, Skimlinks shows no signs of restructuring under Taboola — it continues to operate as an independent brand and product with active product development and content publishing through early 2026.
 
 ## Vendor Takeaway
 

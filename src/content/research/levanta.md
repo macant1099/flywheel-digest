@@ -43,3 +43,15 @@ impact: high
 sentiment: neutral
 ---
 Levanta announced the acquisition of Perch+, an affiliate network built for Amazon sellers, on April 7, 2026. The deal brings Perch+'s seller and partner network into Levanta's unified platform spanning Amazon, Shopify, and Walmart. This is the latest move in accelerating industry consolidation toward all-in-one aggregation platforms. Vendors relying on Perch+ for Amazon affiliate management should evaluate migration paths; the deal could improve cross-platform capabilities but reduce network optionality.
+
+---signal---
+id: news-20260422-002
+signal: Levanta acquires Amazon affiliate network Perch+, expands to marketplace-agnostic creator-affiliate platform
+date: 2026-04-22
+source: https://hellopartner.com/2026/04/07/levanta-acquires-affiliate-network-perch/
+categories: affiliate-networks
+tags: levanta, perch-plus, acquisition, amazon, shopify, walmart, consolidation, creator-affiliate
+impact: high
+sentiment: positive
+---
+Levanta announced the acquisition of Perch+, an Amazon-focused affiliate network, bringing 60,000+ vetted partners into Levanta's marketplace. The deal follows Levanta's February 2026 Paid Placements launch (flat-rate creator deals with affiliate-level performance measurement) and March unification of creator + affiliate programs across Amazon, Shopify, and Walmart. This is a clear signal of accelerating network consolidation and the merging of creator and affiliate marketing into a single performance channel. For LiveChannel vendors, Levanta is becoming the dominant cross-marketplace affiliate infrastructure and warrants priority evaluation.

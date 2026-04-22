@@ -67,3 +67,27 @@ impact: medium
 sentiment: neutral
 ---
 FlexOffers.com released updated Publisher/Affiliate Network Terms effective April 16, 2026. Key changes: (1) Every traffic source (site, email list, social, app) must now be submitted and approved individually — links cannot be used on unapproved sources; (2) Sub-affiliates require prior written consent; (3) Strict bans on adult/gambling/hate-adjacent placement, spam, and unsolicited email are reinforced with account termination and commission reversal as penalties. For LiveChannel vendors with programs on FlexOffers (or publishers promoting their brands there), non-compliant publisher activity now carries blowback risk for the brand. Vendor program managers should audit their active publisher lists for T&C compliance.
+
+---signal---
+id: news-20260422-003
+signal: FTC affiliate disclosure fines hit $53,088 per violation in 2026 as enforcement activity climbs 40%
+date: 2026-04-22
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, disclosure, compliance, regulation, enforcement, fines, ai-content
+impact: high
+sentiment: negative
+---
+Starting in 2026, FTC fines for affiliate disclosure violations are set at $53,088 per instance — up from prior thresholds — and enforcement activity increased 40% in 2025. The FTC's updated Endorsement Guides now explicitly address AI-generated content (updated 2025), requiring disclosure when AI produces endorsement-style content. LiveChannel vendors using AI-generated product reviews or influencer-style copy face compounding liability if disclosure is not prominent and plain-language. This is an operational compliance requirement, not just a policy note.
+
+---signal---
+id: news-20260422-005
+signal: Third-party cookie deprecation now an operational reality in 2026 — industry pivoting to server-side tracking
+date: 2026-04-22
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookies, tracking, privacy, server-side, first-party-data, cookieless, impact, partnerstack
+impact: medium
+sentiment: neutral
+---
+By 2026, third-party cookie deprecation is no longer a forecast — it is an operational reality across major browsers. The affiliate industry has structurally shifted to server-side and first-party tracking solutions. Leading platforms in 2026 include Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, and Tune (CAKE). LiveChannel vendors still relying on legacy cookie-based attribution should audit tracking infrastructure now; attribution gaps directly reduce measurable affiliate ROI and publisher recruitment leverage.
