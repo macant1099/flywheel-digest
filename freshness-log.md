@@ -68,3 +68,20 @@
 
 **Build:** ✅ 91 pages, 1.62s
 **Commit:** 2ee500f — 12 files changed, +277/-11
+
+## 2026-04-22 08:01 PDT
+
+**Files synced:**
+- Research: 14 files (networks: 7, verticals: 2, industry: 3, network-building: 3)
+- Players: 41 files (2 new: visa-intelligent-commerce, whop; 1 updated: skimlinks)
+- Playbooks: 2 (anker, priority-bicycles)
+- Partners: 2 (anker, priority-bicycles)
+- Newsletters: 2 (W16, W17 — frontmatter added)
+
+**Freshness issues:**
+- 8 research files stale (>7 days): activation, ai-agent-affiliates, cj-affiliate, levanta, livechannel, rakuten, social-commerce, tracking-privacy
+- Player profiles: all within 14-day window ✓
+- Vendor YAML scores match scorecards ✓ (Anker 65, Priority Bicycles 46)
+
+**Build:** ✅ 94 pages in 1.14s
+**Commit:** 4c888be — 14 files changed, 529 insertions
