@@ -1,7 +1,7 @@
 ---
 name: "PartnerStack"
 type: "platform"
-description: "The leading partner ecosystem platform for B2B SaaS companies, enabling affiliate, referral, and reseller channel programs with a curated marketplace of B2B-focused publishers"
+description: "The leading partner ecosystem platform for B2B SaaS companies — acquired by AppDirect (April 2026) for $150M–$250M, now part of the unified subscription commerce platform for partner-led growth"
 website: "https://www.partnerstack.com"
 founded: "2015"
 headquarters: "Toronto, Canada"
@@ -9,13 +9,13 @@ keyStats:
   - label: "Focus Vertical"
     value: "B2B SaaS / Software"
   - label: "Publisher Marketplace"
-    value: "80,000+ B2B-focused partners"
+    value: "138,000+ B2B-focused partners"
   - label: "Notable Clients"
     value: "Monday.com, HubSpot, Intuit, Asana"
   - label: "Revenue"
     value: "Estimated $30M+ ARR (2024)"
 vendorRelevance: "medium"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-23"
 ---
 
 ## Overview
@@ -78,15 +78,30 @@ Partners use PartnerStack for free and receive commissions set by the advertiser
 
 ## Recent Developments
 
-**2025–2026** — PartnerStack published research on AI affiliate programs, noting that AI-category SaaS programs are among the fastest-growing on their platform as B2B publishers ramp up coverage of AI tools.
+### 🚨 ACQUIRED by AppDirect — April 14, 2026
+**PartnerStack has been acquired by AppDirect**, the world's leading B2B subscription commerce platform, in a deal valued between **$150M–$250M USD** (primarily AppDirect stock). This is AppDirect's 6th acquisition in 10 months.
+
+Key deal details:
+- PartnerStack's **110 employees** join AppDirect, with Toronto operations retained
+- **Leadership team retained** — co-founder and CEO Bryn Jones stays on
+- Combined entity serves 1,000+ tech providers, 14,000 advisors, 16M subscribers
+- AppDirect approaching **$1 billion ARR** within the next two years
+- PartnerStack's 138,000+ B2B partner network + AppDirect's marketplace infrastructure = claimed "everything store for B2B distribution"
+- Integration roadmap to be unveiled at **Thrive 2026** conference
+
+Strategic rationale: AppDirect needed PartnerStack's PRM software and B2B partner network as the "missing piece" for its vision of a unified subscription commerce platform. PartnerStack gets AppDirect's marketplace infrastructure and scale.
+
+**What this means for PartnerStack customers:** Expect gradual product integration over several months. The PartnerStack brand and product appear to be staying, at least in the near term. Vendors should monitor integration announcements at Thrive 2026.
+
+**2025–2026** — PartnerStack published research on AI affiliate programs, noting that AI-category SaaS programs are among the fastest-growing on their platform as B2B publishers ramp up coverage of AI tools. Partner count grew from 80K to 138K, reflecting ~50% market share in the PRM category.
 
 **2025** — Continued expansion of integration ecosystem with new CRM and billing platform connectors.
-
-**2025** — Growing reseller channel capabilities as more SaaS companies launch channel partner programs alongside their direct affiliate programs.
 
 ## Vendor Takeaway
 
 PartnerStack is **essential for LiveChannel vendors with a software or subscription product** — or any vendor that sells to B2B buyers. The publisher ecosystem matches the audience, the commission tooling handles SaaS economics natively, and the marketplace brand drives inbound partner interest without heavy outreach.
+
+The **AppDirect acquisition** (April 14, 2026) adds a layer of strategic consideration: AppDirect brings 14,000+ technology advisors and a massive B2B distribution network. If the integration delivers, PartnerStack programs will have access to AppDirect's reseller advisor channel — a significant upside for B2B vendors. Monitor Thrive 2026 announcements for integration specifics.
 
 **Best fit for:**
 - SaaS tools, platforms, and apps targeting business users
@@ -94,3 +109,5 @@ PartnerStack is **essential for LiveChannel vendors with a software or subscript
 - Vendors wanting reseller channels alongside affiliate programs
 
 **Not ideal for:** Physical goods, pure DTC consumer products, or vendors where coupon/loyalty/cashback publishers drive meaningful volume.
+
+**M&A Watch:** AppDirect itself has made 6 acquisitions in 10 months and is nearing $1B ARR. This combined entity will be a dominant force in B2B partner commerce — worth tracking as it could reshape how B2B affiliate programs are managed.

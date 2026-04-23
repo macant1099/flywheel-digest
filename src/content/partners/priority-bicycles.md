@@ -1,10 +1,10 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-22"
+date: "2026-04-23"
 ---
 
 # Priority Bicycles Affiliate Partner Recommendations
-**Date:** 2026-04-13
+**Date:** 2026-04-23 (updated)
 **Brand:** Priority Bicycles (prioritybicycles.com)
 **Category:** Commuter / Urban Bicycles — Belt Drive, Low-Maintenance
 **Current Affiliate Network:** AvantLink (5% commission, 21-day cookie, avg. sale $550+)
@@ -259,9 +259,116 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 
 ---
 
+---
+
+## New Leads — Discovered 2026-04-23
+
+### 14. Electrek
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **25/25** |
+
+**URL:** https://electrek.co
+**Lead Type:** 🔥 Warm Lead — Active Coverage
+**Evidence:** Electrek has published at least 3 hands-on Priority reviews: *Priority Current: A solid 5-speed belt-drive electric bike that's built to last* (Nov 2023), *Review: Testing the best (and only) belt-drive electric cruiser bike: The Priority E-Coast* (Nov 2023), and *Priority Skyline review: A 12-speed automatic shifting throttle e-bike for a song* (Aug 2025). Their April 2026 e-bike buying guide references current models. Electrek explicitly discloses they use "income earning auto affiliate links" on all review pages — their commerce infrastructure is live.
+**About:** Electrek is the dominant EV and e-bike publication in the US. Part of 9to5 Media; estimated 5M+ monthly visits, DA ~75. Their audience is precisely the tech-forward, sustainability-conscious urban commuter who buys DTC — Priority's exact buyer. Electrek's e-bike section covers both news and hands-on reviews, driving high-intent purchase traffic.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email to Electrek's e-bike editor (Micah Toll or current reviewer) + AvantLink publisher outreach
+- **Key value prop:** Electrek is already sending Priority referral traffic — formalizing AvantLink enrollment captures every click they're generating today. With Priority Skyline (2025) being their most recent review, pitch the Continuum Onyx and Priority Current for inclusion in Electrek's April 2026 "Top E-Bikes for Spring" guide. Offer Electrek readers an exclusive code to track conversions and make the partnership visible.
+- **Authenticated member base:** Electrek has a large Google News subscriber base + newsletter subscribers (est. 500K+). No hard paywall but strong email relationship with their audience.
+
+**Activation Angle:**
+- **Member communication channels:** Google News push, email newsletter (bi-weekly), and dedicated review pages that rank for high-intent search queries ("best belt drive e-bike," "Priority Current review")
+- **How to embed:** AvantLink-tracked links in the review pages and buying guide roundups. Seasonal "best e-bike for spring commuting" or "best belt drive e-bikes 2026" listicle inclusions with exclusive reader promo codes.
+- **Estimated activation potential:** HIGH — Electrek's review pages are live, affiliate-enabled, and already driving Priority traffic. Enrollment + code activation is a 2-week win with immediate revenue attribution.
+
+---
+
+### 15. Gear Patrol
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **23/25** |
+
+**URL:** https://www.gearpatrol.com
+**Lead Type:** 🔥 Warm Lead — Deep Long-term Coverage
+**Evidence:** Gear Patrol has reviewed Priority continuously since 2016 ("Best Commuter Bikes for Any Budget" featured Priority EIGHT). Recent coverage: *Priority Apollo Review: There's Nothing Like This $2,000 Gravel Bike* (Nov 2023), *Priority Joker Review: This 16-Pounder's Speed Is No Laughing Matter* (Aug 2023), and *We Tested Priority's No Maintenance Bike for a Month* (Aug 2022). The Apollo and Joker reviews are detailed, hands-on multi-week tests — a high editorial investment signal. Gear Patrol's reviewer notes they have "ridden half a dozen different Priority bikes over the years," indicating a sustained editorial relationship spanning nearly a decade.
+**About:** Gear Patrol is the premium men's lifestyle and gear publication — often described as "GQ for gear guys." DA ~65, 2M+ monthly visits. Their audience skews toward upmarket urban professionals (30-50, HHI $100K+) who spend on quality products. These readers value design, durability, and low-maintenance quality — exactly Priority's pitch. GP has strong affiliate commerce infrastructure embedded in their review content.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to Gear Patrol's Outdoors/Cycling editor — a warm relationship already exists given the decade-long editorial history
+- **Key value prop:** Gear Patrol has been Priority's most consistent premium media partner for nearly 10 years. Formalizing an AvantLink tracking relationship captures referral revenue from their entire Priority content archive (Apollo, Joker, Neverflat, + multiple older pieces). Pitch Priority 600HXT or Current for a 2026 "Best Belt Drive Bike" spring feature — an evergreen article that would rank for years.
+- **Authenticated member base:** Gear Patrol has a newsletter (est. 300K+ subscribers) and a premium "Gear Patrol Prime" membership tier with subscribers who opt in to gear recommendations.
+
+**Activation Angle:**
+- **Member communication channels:** Weekly newsletter (curated gear picks), Gear Patrol Prime subscriber emails, dedicated review pages with high SEO authority, and social (Instagram, YouTube)
+- **How to embed:** AvantLink tracking on existing review pages (capturing passive ongoing traffic immediately); Priority-exclusive reader discount codes in newsletter sends; pitch "Best Commuter Bike 2026" or "Best Maintenance-Free Bike" roundup for summer editorial calendar
+- **Estimated activation potential:** HIGH — Gear Patrol's priority content archive is substantial and ranks well. Their upmarket audience has high AOV purchase behavior. The 10-year editorial relationship is a rare asset; formalizing it is a structural gap that needs closing.
+
+---
+
+### 16. Electric Bike Report
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 3 |
+| Brand Safety | 4 |
+| Conversion Potential | 5 |
+| **Total** | **22/25** |
+
+**URL:** https://electricbikereport.com
+**Lead Type:** 🔥 Warm Lead — Affiliate-Ready Coverage
+**Evidence:** Electric Bike Report has reviewed multiple Priority models: *Priority Skyline Smart.Shift E-Bike Review* (Dec 2025) and *Priority Embark Electric Bike Review* Parts 1 & 2 (Oct 2024, Mar 2021). The Skyline review explicitly discloses: *"Some links may be affiliate links. We may get paid if you buy something or take an action after clicking one of these."* Their affiliate infrastructure is live. EBR describes itself as "the #1 source for news, reviews, buying guides, and advice on e-bikes for over 15 years."
+**About:** Electric Bike Report (EBR) is the longest-running dedicated e-bike review site in the US. DA ~55, estimated 500K–800K monthly visits from a highly purchase-intent audience. EBR readers are specifically in the e-bike buying funnel — they're not casual cyclists browsing; they're comparing models before purchasing. The Skyline Dec 2025 review is recent and live, with affiliate link infrastructure already in place.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email to EBR editorial/affiliate team (site has clear contact info) — they have an active affiliate disclosure policy, so this is a warm conversation
+- **Key value prop:** EBR already reviewed the Priority Skyline (Dec 2025) and Embark with affiliate links live. If those links aren't routing through AvantLink and credited to Priority's program, there's attribution leakage happening right now. Enrolling EBR officially in AvantLink, providing updated review units for the 2026 lineup (Continuum Onyx e-bike, Current Gen 2), and offering exclusive reader codes would convert existing organic traffic into tracked revenue.
+- **Authenticated member base:** EBR has an active email newsletter and community forum with registered users — a core audience of repeat e-bike buyers and enthusiasts.
+
+**Activation Angle:**
+- **Member communication channels:** Email newsletter, dedicated model review pages (high search ranking), community forum, YouTube channel (video reviews with affiliate links in description)
+- **How to embed:** AvantLink tracking on Priority Skyline and Embark review pages (immediate); pitch Priority Current Gen 2 for a standalone review; inclusion in EBR's annual "Best Belt Drive E-Bikes" and "Best Commuter E-Bikes" buying guides for 2026
+- **Estimated activation potential:** HIGH — EBR's audience is in active purchase mode. An e-bike buyer who reads a 3,000-word hands-on review and follows an affiliate link is one of the highest-converting traffic types in commerce. With affiliate links already live on their Priority pages, formal enrollment is purely an attribution fix with immediate upside.
+
+---
+
+### 17. Capital One Shopping (Bonus Lead)
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 2 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **19/25** |
+
+**URL:** https://capitaloneshopping.com
+**Lead Type:** Warm Lead (active Priority deals)
+**Evidence:** Capital One Shopping listed 3 active Priority Bicycles deals as of February 2026. Their merchant program runs on impact.com. Capital One Shopping is integrated into the Chrome browser extension used by 100M+ Capital One cardholders — it surfaces deals at checkout automatically.
+**Opportunity:** Capital One Shopping's authenticated cardholder base is a prime LiveChannel model fit — every enrolled member is financially verified, and the shopping tool activates offers at the moment of purchase intent. If Priority's deal codes are surfacing in Capital One Shopping but not tied to a formal merchant relationship, Priority is missing out on tracked referral revenue from a high-scale, low-friction channel. Enrolling via impact.com merchant portal is a quick operational win.
+**Recommended Action:** Set up Priority Bicycles merchant account on impact.com for Capital One Shopping partnership. Ensure Priority promo codes are fresh and seasonal. Explore Capital One's "Cardholder Offers" program for targeted seasonal campaigns to their cycling/outdoor interested cardholders.
+
+---
+
 ## YouTube Creator Leads
 
-### 13. Seth's Bike Hacks / BrainBiking (Contextual)
+### 18. Seth's Bike Hacks / BrainBiking (Contextual)
 
 | Dimension | Score |
 |-----------|-------|
@@ -297,6 +404,10 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 | 11 | BikePacking.com | 19/25 | Warm | Medium | Medium (Apollo pitch) |
 | 12 | 99 Spokes | 19/25 | Warm | Medium | Low (product feed update) |
 | 13 | Seth's Bike Hacks (YT) | 19/25 | Cold | Medium | Medium (cold outreach) |
+| **14** | **Electrek** | **25/25** | **Warm** | **Very High** | **Low (affiliate links live — enroll AvantLink)** |
+| **15** | **Gear Patrol** | **23/25** | **Warm** | **Very High** | **Low (decade relationship — formalize tracking)** |
+| **16** | **Electric Bike Report** | **22/25** | **Warm** | **High** | **Low (affiliate links live — enroll AvantLink)** |
+| 17 | Capital One Shopping | 19/25 | Warm | Medium-High | Low (impact.com merchant enrollment) |
 
 ---
 

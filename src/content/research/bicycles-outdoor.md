@@ -1,7 +1,7 @@
 ---
 title: "Bicycles & Outdoor Recreation — Vertical Affiliate Landscape"
 category: verticals
-lastUpdated: "2026-04-17"
+lastUpdated: "2026-04-23"
 ---
 
 # Bicycles & Outdoor Recreation — Vertical Affiliate Landscape
@@ -331,3 +331,106 @@ Avelon is emerging as a UK-focused sports/cycling affiliate network with several
 2. Add Impact or Awin as second network to capture publishers who left when Competitive Cyclist moved.
 3. Launch always-on creator program (micro-influencer tier) — commuter cyclists, urban lifestyle creators.
 4. Develop CTV-suitable brand video assets — belt-drive simplicity narrative is strong for living-room-screen storytelling.
+
+---
+
+### Signal Block — 2026-04-23
+
+**Source:** Web research (magentheme.com, aspire.io, digitalapplied.com, electrek.co, wausaupilotandreview.com, shortformnation.com)
+
+#### E-Bike Affiliate Commission Table — Full Update (April 2026)
+
+New comprehensive e-bike commission data sourced from a fresh market review. Several discrepancies with prior tracking corrected:
+
+| Brand | Commission | Cookie | Network(s) | AOV | Notes |
+|---|---|---|---|---|---|
+| Aventon | 5–10% | 30–60 days | AvantLink / Refersion | $1,200–$1,900 | **Correction:** Prior signal logged 4%; current review shows 5–10% range restored. Cookie now up to 60 days. |
+| Lectric eBikes | 4–6% | 30 days | Impact / Refersion | $800–$1,200 | High volume, value pricing; broad audience appeal |
+| Rad Power Bikes | 3–7% | 30 days | Impact / ShareASale | $1,200–$2,000 | Well-known brand; broad lineup across urban + cargo |
+| Ride1Up | 5–8% | 30–45 days | Refersion | $1,100–$1,700 | Strong value-to-spec; solid mid-tier pick for content publishers |
+| Himiway | 6–10% | 30 days | ShareASale / Refersion | $1,200–$2,000 | Fat-tire focus; frequent sales promotions |
+| Juiced Bikes | 3–7% | 30 days | Impact / CJ | $1,500–$2,400 | Performance-oriented; highest AOV ceiling outside SUPER73 |
+| Velotric | 5–8% | 30 days | Impact / Refersion | $1,300–$1,800 | Design-forward commuter — Priority's closest competitor on aesthetics |
+| Heybike | 5–10% | 30 days | ShareASale / Refersion | $800–$1,600 | Budget-friendly; wide demographic appeal |
+| ENGWE | 5–8% | 30 days | ShareASale / Impact | $1,000–$1,800 | Folding & fat-tire models; growing US presence |
+| SUPER73 | 3–5% | 30 days | Impact / In-house | $2,200–$4,000 | Premium lifestyle brand; highest AOV, lowest relative commission |
+| Amazon Associates | ~3% | 24 hours | Amazon | Varies | Massive catalog; very short cookie hurts e-bike attribution |
+
+**Key benchmark shifts vs. prior signal:**
+- Aventon appears to have restored its commission rate to the 5–10% range (prior signal logged a drop to 4%; may have been a temporary promotional adjustment or network-specific tier). **Monitor AvantLink program page directly for confirmation.**
+- Velotric's Impact/Refersion dual presence confirms the drift away from AvantLink for e-bike DTC brands — Priority Bicycles' AvantLink-only stance is increasingly isolated.
+- Network fragmentation is now the norm: most e-bike brands run 2+ networks simultaneously (Impact + Refersion, ShareASale + Refersion). Publishers benefit from redundancy; single-network brands risk exclusion from Impact-heavy publisher portfolios.
+
+**Priority Bicycles relative position (April 2026):**
+- 5% / 21-day / AvantLink-only is now the weakest cookie in the DTC segment (Ride1Up 30–45 days, Aventon 30–60 days, Velowave 60 days).
+- AOV ($550+) is well below e-bike comps — though it's traditional bikes, not e-bikes. Within the non-electric segment, Priority's $550 AOV and 5% rate remain competitive.
+- The absence of Impact/Refersion presence is the most actionable gap: Lectric, Rad, Ride1Up, Velotric, Heybike, Juiced, ENGWE all run on Impact or Refersion, capturing a publisher segment Priority cannot reach.
+
+#### Influencer Marketing Macro Data — Q1 2026
+
+**Industry Scale (Digital Applied / Aspire, March–April 2026):**
+- Global influencer marketing industry: **$32.6 billion** in 2026 (CAGR 16.4%, up from $24B in 2024)
+- Projected size by 2030: $52.1 billion
+- ROI benchmark: **$5.78 return per $1 spent** (standardized measurement maturing)
+- 63% of brands plan to increase influencer spend in 2026; 74% of marketers increasing budgets (Aspire data)
+- 72% of consumers trust influencer recommendations over traditional brand advertising
+- Micro-influencer engagement rate: **3.86%** (vs. much lower for mega/macro tiers)
+
+**Creator Commerce Metrics (Aspire 2026 Report):**
+- Creator-attributed affiliate sales on Aspire platform: **$52M**, up 45% YoY
+- Nano-influencer storefronts average **$4,200/month** in revenue — 34% increase from mid-2025
+- 77% of brands now repurpose creator content in paid ads; 67% bake usage rights into initial contracts
+- 59% of marketers using AI for creator discovery, vetting, and analytics
+
+**TikTok Shop — Cycling Vertical Entry:**
+- TikTok Shop adoption nearly doubled YoY: **32% of brands already selling**, 25% planning to join soon
+- Cycling accessories are actively listed on TikTok Shop (Olight bike lights confirmed as live merchant)
+- TikTok Shop affiliate structure differs from traditional networks: brands set per-product commission rates; creators apply to promote specific SKUs without needing a separate network relationship
+- **Implication for Priority Bicycles:** Full bikes ($500+) are difficult TikTok Shop items (shipping complexity, AOV mismatch for impulse buying), but **accessories and add-ons** (fenders, lights, racks, bell) could be viable TikTok Shop SKUs with strong creator-driven conversion
+
+#### Federal E-Bike Regulation — Safe SPEEDS Act (March 2026)
+
+**Source:** Electrek, March 30, 2026
+
+- Bipartisan bill introduced: **Safe SPEEDS Act** (Safe Standards for Personal E-Bike and E-Moto Device Specifications Act)
+- Sponsors: Rep. Huffman (D-CA), Rep. Min (D-CA), Rep. Lawler (R-NY), Rep. Fitzpatrick (R-PA)
+- Would give CPSC authority to define and regulate e-bikes nationally (current federal standards unchanged since 2002)
+- Creates standardized classifications, labeling, minimum age recommendations, crash data reporting
+- Context: E-bike injuries doubled annually 2017–2022; state regulations are inconsistent (NJ passed particularly strict law in Jan 2026)
+- **Affiliate implications:**
+  - If passed, standardized e-bike classes would simplify product disclosures for affiliate content creators (currently have to navigate 50-state patchwork)
+  - Federal safety labeling could improve consumer confidence — positive for conversion rates across the category
+  - Brands with clear class compliance would be easier for publishers to recommend confidently
+  - Age restriction requirements could restrict certain e-bike affiliate promotions on platforms with younger audiences (TikTok)
+
+#### Community Cycling Growth — Wisconsin Gravel Network Launch (April 2026)
+
+- Wisconsin launched a statewide gravel cycling network tied to National Trails Day and Bike Month (May 2026)
+- Partnerships with cycling organizations and expanded Midwest marketing
+- Signals: regional cycling community infrastructure investment is accelerating
+- **Affiliate angle:** Geographic cycling networks create hyper-local affiliate publisher opportunities — local bike clubs, route blogs, regional adventure media are underserved by national programs but highly relevant audiences for route-specific gear recommendations
+
+#### Vertical Momentum Signal — Spring 2026
+
+- Cycling season described as "exploding" in multiple trade and consumer sources for Spring 2026
+- Major European and US races driving social media and search trend surges
+- Peak affiliate earning window is open now (April–June); brands should be activating publisher programs aggressively
+- National Bike Month (May 2026) provides content hooks and promotional windows for affiliate publishers
+
+#### Priority Bicycles — Updated Competitive Position (Apr 23, 2026)
+
+| Dimension | Status | Risk Level | Change |
+|---|---|---|---|
+| Commission rate (5%) | On par with non-electric category norm | Medium | Unchanged |
+| Cookie window (21 days) | Weakest in DTC segment (competitors: 30–60 days) | **High** | Worsening — gap widened |
+| Network presence (AvantLink only) | Isolated — most DTC e-bike competitors on Impact/Refersion | **High** | Worsening — network divergence accelerating |
+| TikTok Shop | Not present; accessories opportunity unexploited | Medium | New gap identified |
+| Federal regulation (Safe SPEEDS Act) | Neutral to positive if passed — clearer compliance comms | Low | New signal |
+| Spring 2026 demand surge | Positive — peak window open now | Positive | Actionable now |
+
+**Revised top action items for Priority Bicycles:**
+1. **Urgent: Extend cookie to 45–60 days** — the 21-day window is now the worst in the DTC cycling segment by a wide margin.
+2. **Add Impact or Refersion as second network** — majority of DTC e-bike publishers are now Impact/Refersion-first; AvantLink-only status excludes them.
+3. **Test TikTok Shop for accessories SKUs** — not full bikes, but accessories/add-ons could convert well with nano/micro creator promotion at low unit cost.
+4. **Activate National Bike Month (May 2026) publisher push** — seasonal window is open; proactive publisher outreach with Bike Month content hooks.
+5. **Prepare Safe SPEEDS Act compliance comms** — if passed, be first to clearly communicate class compliance across all publisher assets.

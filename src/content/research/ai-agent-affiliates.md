@@ -472,3 +472,27 @@ impact: high
 sentiment: negative
 ---
 As of 2026, FTC fines for affiliate disclosure violations are set at $53,088 per instance, and enforcement activity has already increased 40% compared to 2025. The FTC's updated Endorsement Guides explicitly cover AI-generated content, and the Consumer Review Rule prohibits fake reviews, undisclosed paid endorsements, and suppression of negative reviews. Every affiliate link, sponsored post, or paid product mention requires a clear and conspicuous disclosure. LiveChannel vendors operating affiliate programs must audit publisher disclosure practices — both direct program participants and any sub-affiliates — as liability can extend to the program operator for non-compliant publisher activity.
+
+---signal---
+id: news-20260423-001
+signal: IAB Tech Lab launches industry council to address transparency in $200B U.S. programmatic ad market
+date: 2026-04-23
+source: https://www.tvtechnology.com/business/iab-tech-lab-launches-industry-council-to-address-transparency-in-usd200b-u-s-programmatic-ad-market
+categories: industry
+tags: iab, programmatic, transparency, ad-market, accountability, brand-safety
+impact: medium
+sentiment: positive
+---
+IAB Tech Lab announced a new industry council targeting transparency and accountability in the $200 billion U.S. programmatic advertising market. Initial participants include leadership from agencies, publishers, and platforms including Dentsu. While programmatic is distinct from affiliate, this move signals rising regulatory and industry pressure for attribution clarity across all performance channels — directly relevant to how affiliate networks will need to demonstrate transparent conversion tracking in an AI-powered ad environment.
+
+---signal---
+id: news-20260423-002
+signal: IAB forecasts U.S. ad spend to surge 9.5% in 2026 as AI powers marketing and linear TV declines
+date: 2026-04-23
+source: https://www.tvtechnology.com/business/iab-tech-lab-launches-industry-council-to-address-transparency-in-usd200b-u-s-programmatic-ad-market
+categories: industry
+tags: iab, ad-spend, ai-marketing, market-growth, tv-decline, digital-commerce
+impact: medium
+sentiment: positive
+---
+IAB's latest forecast projects U.S. advertising spend will spike 9.5% in 2026, driven by AI-powered marketing automation and the continued decline of linear TV. This rising tide benefits affiliate and performance channels — as brand budgets shift to measurable digital formats, affiliate's inherent ROI accountability positions it to capture incremental budget share. LiveChannel vendors with strong affiliate programs will be well-positioned to benefit from this realignment.

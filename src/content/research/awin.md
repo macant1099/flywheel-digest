@@ -1,7 +1,7 @@
 ---
 title: "Awin — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-16"
+lastUpdated: "2026-04-23"
 ---
 
 # Awin — Network Profile
@@ -225,6 +225,82 @@ Awin unveiled its most significant investment to date in the North American mark
 - The CPI / Soft Click / browser extension defense story is directly relevant to any LiveChannel vendor running programs with coupon/deal publishers — Awin is the only major network with explicit last-click misattribution protection at scale
 - The LLM discovery engine pilot is the clearest signal yet that Awin is positioning for agentic commerce monetization — vendors who join now get early access to this infrastructure
 - The 140% support team expansion addresses the #1 weakness flagged in this profile (poor SMB support during migration period)
+
+---
+
+### 2026-04-23 — ThinkTank Americas 2026 Wrap (April 20–22, Chicago)
+**Source:** Awin.com / Instagram (@awin) / Web Search
+**Signal Type:** Strategic / Events / AI
+**Relevance:** HIGH
+
+Awin's flagship North/South American event concluded April 20–22 at the WNDR Museum in Chicago. Three major themes emerged with direct implications for the affiliate channel:
+
+**AI-Driven Discovery & Attribution:**
+- Day-two keynote: Lily Ray (USA Today's top SEO expert) addressed how AI-driven discovery is reshaping brand visibility, trust, and affiliate performance. Key takeaway: generative AI search surfaces are actively rerouting consumer discovery away from traditional SEO and affiliate referral chains — content publishers need to adapt now.
+- Multiple sessions on AI-powered affiliate strategies covered how generative/predictive technologies are changing workflows, attribution models, and consumer behavior. Awin framing AI as both a threat (black-box attribution loss) and an opportunity (LLM discovery engine, smart recommendations).
+
+**Creator-Led Commerce:**
+- Two dedicated creator tracks: mechanics of building creator-friendly affiliate programs (Christian Mairs), and a creator panel on what influencers look for in brand partnerships (Gabrielle Pajer).
+- Signals that Awin is deepening its creator/influencer program infrastructure — relevant for LiveChannel vendors who use influencer + affiliate in the same funnel.
+
+**Brand-Side Signal — Liquid Death:**
+- Opening keynote: Mike Cessario (founder/CEO, Liquid Death — $1.4B brand) on how bold creativity and cultural relevance drives performance. Liquid Death is an Awin brand partner. The appearance signals Awin's US enterprise brand roster is now attracting DTC-native consumer brands beyond traditional retail.
+
+**Flywheel Implications:**
+- The AI-discovery narrative from ThinkTank Americas directly reinforces Awin's LLM discovery engine pilot positioning. Vendors who join Awin gain early access to this agentic commerce infrastructure.
+- Creator-program focus confirms Awin is building the tools LiveChannel vendors need for hybrid affiliate/influencer strategies.
+- No major new product announcements confirmed post-event yet — watch for a ThinkTank recap post on awin.com in the coming days.
+
+---
+
+### 2026-04-23 — Commission by Product Feature (New Platform Capability)
+**Source:** Awin Developer Docs (help.awin.com) — Published April 7, 2026
+**Signal Type:** Platform / Technology
+**Relevance:** MEDIUM-HIGH
+
+Awin published new developer documentation for a **Commission by Product** feature on April 7, 2026. This capability allows advertisers to pay different commission rates based on specific product IDs, product names, or product categories — moving beyond flat program-wide rates.
+
+**How it works:**
+- Requires product-level tracking integration (via MasterTag or S2S).
+- Commission groups are linked to product-level tracking parameters. Each product in the consumer's basket must be associated to a "part" in the tracking call.
+- Commission group codes in product-level data must match tracked part codes (e.g., CLOTHING, EQUIPMENT, ACCESSORIES).
+- Products that don't match a commission group code are excluded from custom commissioning (fall back to default).
+
+**Why it matters:**
+- LiveChannel vendors with multi-SKU catalogs (e.g., electronics with accessories, apparel with clearance/hero items) can now reward publishers differently by category — protecting margins on low-ASP items while maximizing publisher incentive on hero products.
+- This is a meaningful improvement over the previous category-level commission capabilities and closes a gap vs. Impact Radius's per-product commissioning.
+- Enables "new customer bonus" logic at the product level, not just the program level.
+
+**Flywheel Implications:**
+- Vendors evaluating Awin vs. Impact should note this feature closes a key competitive gap.
+- AFARE scoring relevance: commission flexibility is a component of program quality scoring — this feature strengthens Awin's score on that dimension.
+
+---
+
+### 2026-04-23 — ThinkTank DACH 2026 Announced (5th Edition, Returning After Hiatus)
+**Source:** affiliateblog.de — Published April 17, 2026
+**Signal Type:** Strategic / Events / European Market
+**Relevance:** MEDIUM
+
+Awin has announced ThinkTank DACH 2026, the 5th edition of its German-speaking market event, returning after a one-year hiatus. Published coverage frames the return as a response to affiliate industry demand for peer-level exchange forums in the DACH region.
+
+**Context:**
+- DACH (Germany, Austria, Switzerland) is one of Awin's strongest markets — Awin's roots are German (Affiliate Window + Zanox both had significant German operations).
+- The return after a year off signals Awin is re-investing in European market engagement, potentially in parallel with the US push.
+- No specific date/location confirmed in available search snippets.
+
+**Flywheel Implications:**
+- Primarily relevant for LiveChannel vendors with European market ambitions.
+- Signals Awin's global event calendar is expanding — ThinkTank Americas (April), ThinkTank DACH (TBD) = consistent geographic investment.
+
+---
+
+### 2026-04-23 — Commission Rate Best Practices Guide Updated
+**Source:** help.awin.com — Updated April 1, 2026
+**Signal Type:** Platform / Publisher Guidance
+**Relevance:** LOW-MEDIUM
+
+Awin updated its "Best practices for setting commission rates" help article on April 1, 2026. The guide covers sustainable and competitive commission rate selection, monitoring strategy, and refinement over time. No major policy changes indicated — routine documentation update. Signals ongoing platform documentation investment as part of the Accelerate/SMB onboarding push.
 
 ---
 

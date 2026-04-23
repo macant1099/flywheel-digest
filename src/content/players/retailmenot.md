@@ -1,7 +1,7 @@
 ---
 name: "RetailMeNot"
 type: "publisher"
-description: "Leading digital coupon and deal aggregation platform with 688M+ annual visits and 500,000+ offers from 70,000+ retailers"
+description: "Leading digital coupon, cashback, and AI-powered shopping companion platform — now operating as RetailMeNot Group (Ziff Davis), unifying RetailMeNot, Offers.com, BlackFriday.com, TechBargains, Deals of America, and R BrandWorks"
 website: "https://www.retailmenot.com"
 founded: "2006"
 headquarters: "Austin, TX"
@@ -15,7 +15,7 @@ keyStats:
   - label: "US Monthly Visitors"
     value: "23M+"
 vendorRelevance: "medium"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-23"
 ---
 
 ## Overview
@@ -80,11 +80,43 @@ RetailMeNot earns revenue through performance-based affiliate commissions:
 
 ## Recent Developments
 
-- **Ziff Davis Integration**: Continued integration into the Ziff Davis digital media portfolio, with cross-promotion opportunities across other Ziff Davis properties.
-- **Cashback Expansion**: Expanded cashback offerings to compete more directly with Rakuten Rewards and other cashback platforms.
-- **Mobile Growth**: Continued investment in the mobile app experience, including location-based in-store offer activation.
-- **Industry Scrutiny**: The broader affiliate industry continues to debate the value of coupon/deal publishers, with some networks implementing stricter attribution controls.
+### 🏢 RetailMeNot Group Launch — January 28, 2026
+Ziff Davis formally launched **RetailMeNot Group** as the unified U.S. shopping and savings portfolio. The group brings together:
+- **RetailMeNot** — the core coupon/cashback destination
+- **Offers.com** — secondary deal aggregator
+- **BlackFriday.com** — seasonal deal destination
+- **TechBargains** — tech/electronics deals
+- **Deals of America** — regional deal discovery
+- **R BrandWorks** — the in-house influencer creative studio and strategic media arm, delivering custom video and immersive brand experiences to 100M high-intent consumers
+
+The group announced a refreshed brand identity and repositioning from "coupon destination" to **"comprehensive savings and shopping ecosystem."** Chief Commercial Officer Magali Darling framed it as RetailMeNot evolving into a "complete shopping companion."
+
+### 🤖 AI-Powered Shopping Companion — January 2026 (Beta)
+RetailMeNot rolled out an **AI-powered shopping companion** in beta, designed to interpret shopper intent and surface the most relevant deals, value, and customer service in real time. This bridges the gap between AI-driven discovery and checkout — a direct competitive response to Perplexity Shopping and ChatGPT's shopping integrations.
+
+### 💸 Guaranteed Cash Back Program — February 25, 2026
+RetailMeNot launched **Guaranteed Cash Back** — always-on cashback rewards at 4,000+ retailers, including newly-funded merchants. Key attributes:
+- Stackable with other savings and promo codes
+- "Always-on" (not promotional/limited-time)
+- Positioning directly against Rakuten Rewards' guaranteed cashback model
+- Launched as part of Spring Savecation 2026 (March 5-9) alongside travel brands Expedia, Gap, Samsonite
+
+### 🎂 20th Anniversary (2026)
+RetailMeNot celebrated its 20-year milestone. Founded 2006 by Guy King and Bevan Clark; now one of the longest-running consumer savings platforms in the U.S.
+
+### Industry Context
+- The broader affiliate industry continues to debate the value of coupon/deal publishers, with some networks implementing stricter attribution controls.
+- AI shopping agents are creating new distribution vectors that compete directly with coupon-site last-click models.
 
 ## Vendor Takeaway
 
-RetailMeNot represents a double-edged sword for vendors. On one hand, it drives massive volume traffic from high-intent consumers. On the other, it can erode margins and claim attribution on sales that would have happened regardless. For Flywheel vendors, the key considerations are: (1) evaluate whether RetailMeNot traffic genuinely incremental or merely capturing existing purchase intent at the last click; (2) consider implementing new-customer-only commission structures to ensure RetailMeNot is driving acquisition, not just discounting existing customers; (3) monitor the broader industry trend toward stricter attribution standards and reduced coupon site commissions. RetailMeNot is most valuable for vendors during promotional periods (Black Friday, clearance events) when the goal is maximum volume rather than margin protection.
+RetailMeNot's 2026 pivot is significant. The **RetailMeNot Group formation** means vendors are no longer just dealing with one coupon site — they're dealing with a multi-property shopping ecosystem that now includes an influencer studio (R BrandWorks) reaching 100M consumers. The **AI shopping companion beta** is the most important development to watch: if it gains traction, RetailMeNot moves from last-click coupon capture toward upper-funnel influence, which changes the attribution calculus entirely.
+
+For Flywheel vendors, the key considerations in 2026:
+1. **Evaluate incrementality honestly** — is RetailMeNot traffic genuinely additive or just capturing shoppers who were already going to buy?
+2. **Consider new-customer-only commissions** — structure deals so RetailMeNot earns only on first-time buyers, not existing customers looking for coupon codes
+3. **Watch the AI companion** — if RetailMeNot's AI tool surfaces your products in discovery (not just checkout), the value equation improves dramatically
+4. **R BrandWorks is a separate opportunity** — the influencer creative studio is distinct from coupon placement; ask your affiliate manager about branded content activations
+5. **Guaranteed Cash Back positioning** — the new always-on cashback program puts pressure on Rakuten Rewards; vendors should compare net cost per acquisition across both platforms
+
+RetailMeNot is most valuable for vendors during promotional periods (Black Friday, clearance events), but the 2026 platform evolution toward "shopping companion" + AI may expand its utility beyond seasonal discounting.
