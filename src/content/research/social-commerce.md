@@ -223,3 +223,53 @@ impact: medium
 sentiment: neutral
 ---
 2026 data shows the emerging compensation trend on TikTok Shop is a hybrid model: a guaranteed flat fee ($100–$500/video) plus 15–20% commission for top-performing creators. This structure is being adopted to secure quality creator commitment while maintaining performance incentive alignment. LiveChannel vendors competing for creator attention on short-form video platforms should model this hybrid structure when recruiting affiliates.
+
+---signal---
+id: news-20260424-001
+signal: Meta launches Facebook/Instagram affiliate tools — Instagram Reels now shoppable with creator product tagging
+date: 2026-04-20
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, instagram, facebook, social-commerce, creator-affiliate, tiktok-shop
+impact: high
+sentiment: positive
+---
+Meta debuted creator affiliate partnership features at Shoptalk in Las Vegas, mirroring TikTok Shop's model. Creators can tag products in Facebook photo posts and Reels (up to 30 items per Reel), displaying an affiliate banner and earning commission on resulting purchases. Amazon and Shopee are launch partners, with Temu, eBay, and Mercado Libre set to join soon. Meta also introduced checkout in its Business AI sales agent, signaling a push into full agentic commerce.
+
+---signal---
+id: news-20260424-002
+signal: Instagram relaunches native creator affiliate commerce after 3-year hiatus — "era of link in bio is over"
+date: 2026-04-23
+source: https://www.affiversemedia.com/instagram-relaunches-creator-affiliate-commerce-the-shop-the-look-mess-is-the-harder-problem/
+categories: industry
+tags: instagram, meta, creator-affiliate, social-commerce, tiktok-shop, LTK
+impact: high
+sentiment: positive
+---
+Instagram returned to creator affiliate commerce in late March 2026, more than three years after shutting it down. Head of Instagram Adam Mosseri announced creators can now tag affiliate products in Reels and earn commissions on purchases. Meta's Nicola Mendelsohn declared "the era of link in bio is finally over" at Shoptalk Spring. Instagram faces a steep climb: TikTok Shop processed $33.2B GMV in 2024 (projected ~$66.2B in 2025), LTK facilitated $6B+ in sales, and ShopMy reached a $1.5B valuation while Instagram sat out. A separate controversy around the "Shop the Look" AI feature (auto-tagging creator images with unrelated brands) is creating creator trust friction.
+
+---signal---
+id: news-20260424-003
+signal: Later surpasses $2.9B in creator-driven commerce, doubles enterprise business, appoints new CTO
+date: 2026-04-14
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, influencer-marketing, social-commerce, creator-economy, enterprise
+impact: medium
+sentiment: positive
+---
+Later, the enterprise influencer marketing and social commerce platform, announced it has surpassed $2.9B in creator-driven commerce and more than doubled its enterprise business. The company also appointed a new CTO and expanded AI capabilities. The announcement underscores the accelerating shift of influencer marketing from brand awareness to measurable performance channel, a dynamic directly relevant to affiliate program design for LiveChannel vendors.
+
+---signal---
+id: news-20260424-004
+signal: TikTok Shop 2026 trend: hybrid creator compensation — flat fee per video plus 15–20% commission
+date: 2026-03-24
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: industry
+tags: tiktok-shop, commission-structure, creator-compensation, hybrid-model, social-commerce
+impact: medium
+sentiment: neutral
+---
+The emerging 2026 TikTok Shop compensation model is a hybrid: a guaranteed flat fee ($100–$500 per video) for top creators, stacked on top of a 15–20% commission. This model is gaining traction as brands compete for high-performing creators who want income certainty alongside performance upside. Relevant for LiveChannel vendors designing creator partnership terms, particularly in beauty, wellness, and consumer electronics verticals where TikTok Shop penetration is highest.
+
+---

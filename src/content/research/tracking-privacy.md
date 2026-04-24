@@ -91,3 +91,29 @@ impact: medium
 sentiment: neutral
 ---
 By 2026, third-party cookie deprecation is no longer a forecast — it is an operational reality across major browsers. The affiliate industry has structurally shifted to server-side and first-party tracking solutions. Leading platforms in 2026 include Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, and Tune (CAKE). LiveChannel vendors still relying on legacy cookie-based attribution should audit tracking infrastructure now; attribution gaps directly reduce measurable affiliate ROI and publisher recruitment leverage.
+
+---signal---
+id: news-20260424-006
+signal: FTC affiliate disclosure fines now $53,088 per violation; enforcement up 40% in 2025
+date: 2026-04-17
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: FTC, disclosure, compliance, regulation, enforcement, fines
+impact: high
+sentiment: negative
+---
+Starting in 2026, FTC fines for affiliate disclosure violations are set at $53,088 per instance, with enforcement activity having already increased 40% in 2025. The FTC also updated its Endorsement Guides in 2025 to explicitly address AI-generated content. Key 2026 changes: brands cannot outsource compliance to creators, and creators cannot assume brand coverage. This creates liability risk across all affiliate program participants — networks, brands, and publishers. LiveChannel vendors running affiliate programs must audit disclosure practices across their entire publisher base.
+
+---signal---
+id: news-20260424-007
+signal: Cookie deprecation now an operational reality in 2026 — server-side tracking the new standard
+date: 2026-04-01
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookieless, server-side-tracking, privacy, attribution, first-party-data
+impact: medium
+sentiment: neutral
+---
+By 2026, cookie deprecation is no longer a forecast but an operational reality across major browsers. Affiliate marketing has entered a structural transformation phase, with leading platforms (Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, TUNE/CAKE) pivoting to first-party and server-side tracking infrastructure. Attribution data gaps are widening for programs that haven't migrated. Networks and vendors still relying on third-party cookie attribution are seeing conversion undercount, retargeting audience shrinkage, and commission disputes. The transition window is effectively closed — programs must act now.
+
+---

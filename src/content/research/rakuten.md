@@ -1,7 +1,7 @@
 ---
 title: "Rakuten Advertising — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-12"
+lastUpdated: "2026-04-24"
 ---
 
 # Rakuten Advertising — Network Profile
@@ -168,6 +168,11 @@ Rakuten's Innovation Labs and AI initiatives make it a leading indicator for how
 
 **2026:**
 - January 2026: Launched Innovation Labs — a product collaboration hub for accelerating AI development in affiliate marketing. Available in the Insights & Analytics portal, it enables brands and publishers to test AI tools before wider release.
+- February 2026: Announced 2026 Agency Partner program — new Preferred and Platinum tier recipients recognized for innovation and growth in affiliate marketing.
+- February 2026: Announced Rakuten Optimism 2026 — U.S. flagship marketing conference, May 5-6, Arizona Biltmore, Phoenix, AZ.
+- March 2026: Hosted DealMaker Europe 2026 + Golden Link Awards (London, March 25).
+- **March 25, 2026: Rakuten Advertising × Similarweb LLM Intelligence Partnership** — Strategic collaboration integrating Similarweb's behavioral data into Rakuten's analytics environment to help brands measure and optimize their presence within LLMs and AI-driven discovery channels. First affiliate network to deliver LLM visibility data to advertisers. CEO Nick Stamos: "clients will have insights that aren't available anywhere else." Initially rolling out to select clients; expanded reporting coming soon.
+- **April 2026 (DealMaker):** VP Product Management Meytal Markman on the industry roadmap: (1) Creator/affiliate channel convergence at scale — tools/tech needed to merge influencer and performance marketing; (2) Micro-influencers and Closed User Groups (CUGs) rising due to trust and niche audience access; (3) Brand safety investment accelerating — brands "doubling and tripling down" on monitoring tools beyond historically regulated industries; (4) Attribution evolution — shift away from last-click determinism toward probabilistic models, MMM, and ambient value attribution, giving affiliate a seat at the table more holistically.
 - Continued focus on AI-driven optimization and predictive analytics.
 - Positioning for agentic commerce: Rakuten's Rewards ecosystem (cashback model) could serve as a template for how AI agents monetize product recommendations — the agent earns a commission/cashback on behalf of the user.
 - Innovation Labs represents Rakuten's bet that collaborative AI development with brands and publishers will produce more practical tools than top-down platform-imposed solutions.
@@ -210,4 +215,55 @@ Rakuten operates on a managed service model with customized pricing per advertis
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+### 2026-04-24 — Similarweb LLM Intelligence Partnership
+**Source:** PR Newswire (March 25, 2026) | https://www.prnewswire.com/news-releases/rakuten-advertising-and-similarweb-power-llm-visibility-and-performance-intelligence-for-brands-302724256.html
+**Signal Type:** Platform/Product
+**Importance:** HIGH
+
+Rakuten Advertising announced a strategic collaboration with Similarweb to integrate real-user behavioral data on LLM topics and responses into Rakuten's analytics environment. The capability helps brands understand how they are represented within generative AI platforms (ChatGPT, Perplexity, Gemini, etc.) and ties that LLM visibility data to affiliate performance metrics. Initially available to a select client group; broader rollout with expanded reporting features forthcoming.
+
+**Flywheel Relevance:** This is the first major affiliate network to directly address LLM/AI-search visibility as a performance metric. For LiveChannel vendors and the Flywheel program, this signals that affiliate attribution will increasingly need to account for AI-driven discovery paths — not just last-click or organic search. Rakuten is positioning itself as the network for AI-ready brands.
+
+---
+
+### 2026-04-24 — DealMaker Europe: VP Product on Attribution + Creator Convergence
+**Source:** Hello Partner (April 14, 2026) | https://hellopartner.com/2026/04/14/affiliate-earns-a-seat-at-the-table-meytal-markman-talks-innovation-brand-safety-and-micro-influencers/
+**Signal Type:** Industry/Leadership
+**Importance:** MEDIUM-HIGH
+
+Meytal Markman, VP Product Management, outlined four macro trends shaping Rakuten's product roadmap: (1) Creator/affiliate convergence — brands want influencer and performance marketing merged at scale; (2) Micro-influencers and CUGs growing as trust vehicles; (3) Brand safety monitoring accelerating industry-wide; (4) Attribution shift from last-click determinism to probabilistic, MMM, and ambient value models. The last-click pressure relief is notable — it validates affiliate as a full-funnel channel, not just a bottom-of-funnel closer.
+
+**Flywheel Relevance:** The ambient value attribution framing is directly relevant to AI agent commerce. If affiliate can capture "ambient" influence (awareness, consideration, not just click-to-buy), then AI agent recommendations become attributable. This strengthens the case for affiliate-as-channel in agentic environments.
+
+---
+
+### 2026-04-24 — Rakuten Optimism 2026 Conference Announced
+**Source:** Yahoo Finance / PR Newswire (February 24, 2026)
+**Signal Type:** Events
+**Importance:** LOW-MEDIUM
+
+Rakuten International announced Rakuten Optimism 2026 — U.S. flagship marketing conference — for May 5-6, 2026 at the Arizona Biltmore, Phoenix, AZ. Annual conference where Rakuten typically makes platform announcements and partner recognitions. Watch for product reveals, new agency/publisher partnerships, and AI roadmap previews coming out of this event.
+
+---
+
+### 2026-04-24 — 2026 Agency Partner Program Announced
+**Source:** Rakuten Advertising Blog (February 11, 2026) | https://blog.rakutenadvertising.com/news/rakuten-advertising-agency-partners-2026/
+**Signal Type:** Partnership/Network
+**Importance:** LOW
+
+Rakuten named its 2026 Preferred and Platinum agency partners — performance agencies recognized for innovation and client growth. Signals which agencies are now driving Rakuten's enterprise business in 2026 (useful for identifying who manages top advertiser programs on the network).
+
+---
+
+### 2026-04-24 — Rakuten × YouTube Shopping Japan Partnership (February 2026)
+**Source:** Rakuten Today (rakuten.today, ~Apr 2026) | https://rakuten.today/blog/rakuten-is-going-all-in-on-v-commerce-with-youtube.html | GlobeNewsWire Japan Social Commerce Q1 2026 Report (Apr 22, 2026)
+**Signal Type:** Partnership / V-Commerce / International
+**Importance:** MEDIUM-HIGH
+
+In February 2026, Google and Rakuten announced a landmark partnership to bring the YouTube Shopping affiliate program to Japan through Rakuten's affiliate infrastructure. Rakuten is positioned as the V-commerce (video commerce) distribution layer for YouTube Shopping in the Japanese market — combining YouTube's creator ecosystem with Rakuten's 100M+ Japanese loyalty member base and established affiliate network relationships.
+
+**Flywheel Relevance:**
+- **Network-Platform Integration Model:** This is the first major case of a traditional affiliate network (Rakuten) integrating directly with a platform-native shopping program (YouTube Shopping) to extend the platform's affiliate reach into a new geography. If successful in Japan, this model could replicate: CJ, Awin, or Impact partnering with YouTube Shopping in EMEA, LatAm, or APAC markets.
+- **V-Commerce Infrastructure:** Rakuten is explicitly positioning as a "V-commerce" (video commerce affiliate) infrastructure provider — connecting YouTube creators to brand affiliate programs through Rakuten's network. This is a direct competitor to TikTok Shop's native affiliate system in the Japan market.
+- **Japan Market Signal:** Japan's social commerce market is shifting from live-selling models toward "discovery-led commerce" (per Q1 2026 market reports) — creators surface products in content, conversions happen in trusted marketplaces. Rakuten's integration with YouTube positions it at the center of this discovery-to-purchase chain.
+- **LiveChannel Relevance:** Vendors with Japan market ambitions should monitor whether Rakuten × YouTube Shopping extends beyond Japan. For US-focused vendors, this signals that YouTube's affiliate program is actively seeking traditional network distribution partnerships — a structural integration that could eventually bring YouTube Shopping traffic into Rakuten Advertising's US publisher ecosystem.
