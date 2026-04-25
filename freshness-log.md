@@ -98,3 +98,26 @@
 - **Today's briefing:** Present ✓
 - **Build:** ✅ 96 pages in 1.24s
 - **Commit:** 2d01609 — 13 files changed, 569 insertions
+
+## 2026-04-24 08:01 PDT — Webmaster Sync
+
+**Files synced:** 14 changed
+- Research: 5 updated (activation, consumer-electronics, levanta, rakuten, social-commerce, tracking-privacy)
+- Players: 2 updated (amaze-holdings new, perplexity-shopping)
+- Playbooks: 2 refreshed (anker, priority-bicycles)
+- Partners: 2 refreshed (anker, priority-bicycles)
+- Newsletters: 2 fixed frontmatter (W16, W17)
+
+**Freshness warnings (research >7 days):**
+- ai-agent-affiliates.md (2026-04-12)
+- cj-affiliate.md (2026-04-12)
+- discovery.md (2026-04-15)
+- levanta.md (2026-04-13)
+- livechannel.md (2026-04-12)
+- social-commerce.md (2026-04-13)
+- tracking-privacy.md (2026-04-13)
+
+**Player profiles:** All within 14-day window ✓
+**Today's briefing:** Present ✓
+**Build:** ✓ 98 pages in 1.18s
+**Commit:** d2ffb2e → pushed to main
