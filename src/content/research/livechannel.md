@@ -1,7 +1,7 @@
 ---
 title: "LiveChannel — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-12"
+lastUpdated: "2026-04-25"
 ---
 
 # LiveChannel — Network Profile
@@ -142,9 +142,16 @@ LiveChannel represents a potential disruption vector for the affiliate industry.
 ## Key Developments
 
 **2025-2026:**
-- LiveChannel is operating and active with its "Connected Commerce" platform.
+- LiveChannel is operating and active with its "Connected Commerce" platform (verified live April 2026).
 - The company's Pacific Northwest heritage and remote-first structure suggest a lean, capital-efficient approach.
 - The broader market context is favorable: community-driven commerce is trending upward as consumers increasingly trust peer recommendations over algorithmic advertising.
+- No new public product announcements, funding rounds, or case studies surfaced as of April 2026 — company continues to operate with intentionally low public profile.
+
+**April 2026 — Agentic Commerce Creates Structural Tailwind:**
+- Agentic commerce is now the dominant industry theme: $5T projected by 2030 (McKinsey), 805% AI traffic growth in 2025 (Adobe)
+- ChatGPT referrals convert 86% worse than affiliate links due to attribution/data infrastructure gaps — community storefronts with deterministic tracking (LiveChannel's model) are structurally better positioned for agentic commerce
+- The IAB Connected Commerce Summit 2026 (April) and Logicbroker's Connected Commerce 2026 event signal that LiveChannel's "Connected Commerce" brand terminology is gaining mainstream industry adoption
+- Zero-click commerce and AI-generated hosts emerging as live commerce trends that could either complement or compete with community-first models
 
 **Market Context — Live Commerce Trends:**
 LiveChannel operates adjacent to the broader live commerce/social commerce movement:
@@ -199,4 +206,74 @@ Until LiveChannel publishes more public metrics, this profile should be treated 
 
 ## Signal Tracking
 
-_(No signals yet — collection pipeline not active.)_
+---
+
+### Signal — 2026-04-25 — Site Verification
+
+**Source:** livechannel.com (live fetch)
+**Type:** Platform Status
+**Confidence:** High
+
+Site confirmed live and messaging unchanged as of 2026-04-25:
+- Tagline: "The 3rd Way" / "Your Next Channel For Growth"
+- Core value prop: "Connect Brands, Membership Organizations and Their Members"
+- Platform pillars described as: Scaleable, Flexible, Complete, Profitable
+- Team quote from Stephanie Sandmeyer (Process Design Engineer) confirms active headcount
+- Hiring still open: "seeking out talented new team members from across the globe"
+- No new public product announcements or press releases found
+
+**Implication:** LiveChannel remains stable and active but continues to operate with a low public profile. No visible scale metrics or case studies surfaced.
+
+---
+
+### Signal — 2026-04-25 — Agentic Commerce Macro Tailwind
+
+**Source:** MetaRouter (citing McKinsey, Morgan Stanley, Bain, Adobe, Salesforce)
+**Type:** Market Context
+**Confidence:** High
+
+Key agentic commerce statistics now shaping the affiliate and commerce landscape:
+- **$5 trillion** in global agentic commerce volume projected by 2030 (McKinsey)
+- **$190–385 billion** in US e-commerce spending via AI agents by 2030 (Morgan Stanley)
+- **15–25%** of e-commerce flowing through agentic channels by 2030 (Bain)
+- **39% of consumers** (and 50%+ of Gen Z) already use AI for product discovery (Salesforce)
+- **23% of Americans** bought something via AI in the past month (Morgan Stanley)
+- **805% YoY increase** in AI traffic to US retail sites on Black Friday 2025 (Adobe)
+
+**The performance gap (critical for LiveChannel positioning):**
+- ChatGPT referrals currently convert **86% worse than affiliate links** (Kaiser & Schulze)
+- Only **<0.2%** of e-commerce sessions come from ChatGPT referrals — demand is real, infrastructure is not ready
+- **4.4x higher conversion** for AI-generated product recommendations vs. traditional search (McKinsey) — but only when agent-native infrastructure exists
+
+**LiveChannel Implication:** The "visibility gap" problem — agents can't see discovery/browse data in traditional commerce — is precisely what platform-mediated community commerce sidesteps. LiveChannel's deterministic, storefront-native attribution model is structurally better suited to agentic commerce than cookie-based affiliate networks. This is a significant latent advantage that has not been publicly articulated by the company.
+
+---
+
+### Signal — 2026-04-25 — "Connected Commerce" Term Gains Industry Traction
+
+**Source:** IAB Connected Commerce Summit 2026, Logicbroker Connected Commerce 2026
+**Type:** Market Context / Terminology
+**Confidence:** Medium
+
+- The **IAB Connected Commerce Summit 2026** occurred in mid-April 2026 — the industry's flagship event for brands, retailers, and platform leaders shaping commerce-media strategy
+- **Logicbroker's Connected Commerce 2026** event focused specifically on "what the Agentic shift means in practice" for senior retail and brand leaders
+- Digiday noted trade/shopper teams merging with retail media teams to form "connected commerce teams" inside major brand organizations
+
+**LiveChannel Implication:** The term "Connected Commerce" — which LiveChannel has used as its core brand positioning — is now being adopted more broadly by the industry to describe the convergence of retail media, community, and agentic commerce. This both validates LiveChannel's early positioning AND increases the risk that the term loses its differentiation. Worth monitoring whether LiveChannel sharpens its brand language in response.
+
+---
+
+### Signal — 2026-04-25 — Live Commerce 2026 Macro Trends
+
+**Source:** G2 Learn, OneStream, Channelize.io, Salesforce
+**Type:** Market Context
+**Confidence:** High
+
+2026 live commerce landscape trends directly relevant to LiveChannel's model:
+- **AI-generated hosts** and AR/VR-powered product demos are becoming mainstream in live selling
+- **Gamified streams** and **personalized one-to-one shopping** emerging as conversion drivers
+- **Zero-click commerce** gaining momentum — shoppers may complete purchases without ever visiting a traditional storefront
+- **Influencer-powered storefronts** and **live shopping streams** cited by Salesforce as transforming social feeds into "immersive shopping destinations"
+- US live streaming commerce market on track for the $55B projection by 2026 (on-target per prior research)
+
+**LiveChannel Implication:** The broader live commerce wave continues to validate community-first commerce. However, the dominant execution model (TikTok Shop, Amazon Live, YouTube Shopping) remains creator-centric rather than community-centric. LiveChannel's differentiation — the *community entity* as the organizing principle — remains intact but still unproven at scale against these better-capitalized incumbents.

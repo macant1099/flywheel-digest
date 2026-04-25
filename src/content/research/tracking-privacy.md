@@ -117,3 +117,27 @@ sentiment: neutral
 By 2026, cookie deprecation is no longer a forecast but an operational reality across major browsers. Affiliate marketing has entered a structural transformation phase, with leading platforms (Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, TUNE/CAKE) pivoting to first-party and server-side tracking infrastructure. Attribution data gaps are widening for programs that haven't migrated. Networks and vendors still relying on third-party cookie attribution are seeing conversion undercount, retargeting audience shrinkage, and commission disputes. The transition window is effectively closed — programs must act now.
 
 ---
+
+---signal---
+id: news-20260425-006
+signal: Cookie deprecation is now operational reality in 2026 — server-side and first-party tracking the new standard
+date: 2026-04-25
+source: https://irev.com/blog/cookieless-affiliate-tracking-what-actually-works-in-2026/
+categories: industry
+tags: cookie-deprecation, server-side-tracking, first-party-data, attribution, privacy
+impact: medium
+sentiment: neutral
+---
+Industry guidance published this month confirms that by 2026, third-party cookie deprecation is no longer a forecast but an operational reality across major browsers. Server-to-server (S2S) tracking and first-party data collection are now the baseline expectation for affiliate attribution. Leading platforms in 2026 include Impact, PartnerStack, Refersion, Tapfiliate, Post Affiliate Pro, and Tune (CAKE). LiveChannel vendors still relying on cookie-only attribution should audit their setup immediately.
+
+---signal---
+id: news-20260425-007
+signal: FTC raises affiliate disclosure fine to $53,088 per violation — enforcement up 40% in 2025, AI content rules now active
+date: 2026-04-25
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, disclosure, regulation, compliance, fines, ai-content, endorsement-guides
+impact: high
+sentiment: negative
+---
+Starting in 2026, FTC fines for affiliate disclosure violations are set at $53,088 per instance, and enforcement activity increased 40% in 2025. The FTC's updated Endorsement Guides now explicitly address AI-generated content — affiliates using AI to write reviews or produce sponsored content must disclose. The Consumer Reviews and Testimonials Rule prohibits fake reviews and undisclosed paid endorsements. LiveChannel vendors with affiliate programs need to audit publisher compliance and update creator contracts to cover AI-generated content disclosure.

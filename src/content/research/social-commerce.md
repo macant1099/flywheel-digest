@@ -273,3 +273,51 @@ sentiment: neutral
 The emerging 2026 TikTok Shop compensation model is a hybrid: a guaranteed flat fee ($100–$500 per video) for top creators, stacked on top of a 15–20% commission. This model is gaining traction as brands compete for high-performing creators who want income certainty alongside performance upside. Relevant for LiveChannel vendors designing creator partnership terms, particularly in beauty, wellness, and consumer electronics verticals where TikTok Shop penetration is highest.
 
 ---
+
+---signal---
+id: news-20260425-001
+signal: Meta expands affiliate tool rollout — Facebook Reels shoppable with creator product tagging, Business AI agent gets checkout
+date: 2026-04-25
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, facebook, reels, affiliate-tools, social-commerce, ai-checkout, shoptalk, amazon, shopee
+impact: high
+sentiment: positive
+---
+Meta debuted creator affiliate partnership features at Shoptalk Las Vegas — creators can tag products in Facebook photo posts and Reels earning commissions, with Amazon and Shopee as launch partners and Temu, eBay, Mercado Libre joining soon. Meta's Business AI agent now includes checkout, and product-tagged Reels feed into the Partnership Ads Hub to improve creator-brand discoverability. Industry observers note Meta is playing catch-up to TikTok Shop, and some brands are still slower to adopt — affiliate seen as secondary to paid by many advertisers. LiveChannel vendors in beauty, wellness, and electronics verticals should evaluate creator product tagging immediately.
+
+---signal---
+id: news-20260425-002
+signal: TikTok Shop hybrid commission structure emerging as 2026 standard — flat fee plus 15–20% commission
+date: 2026-04-25
+source: https://www.shortformnation.com/blog/tiktok-shop-affiliate-commission-rates-what-brands-should-offer-2026-data
+categories: industry
+tags: tiktok-shop, commission-structure, hybrid, creator-commerce, social-commerce
+impact: medium
+sentiment: neutral
+---
+2026 data shows a hybrid compensation model gaining traction on TikTok Shop: a guaranteed flat fee ($100–$500/video) combined with 15–20% commission for top-performing creators. This shifts affiliate relationships closer to influencer deal structures and requires brands to budget both performance and guaranteed spend. LiveChannel vendors should model blended CAC against this structure before recruiting TikTok Shop affiliates.
+
+---signal---
+id: news-20260425-003
+signal: Later surpasses $2.9B in creator-driven commerce, doubles enterprise business, appoints new CTO
+date: 2026-04-25
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: later, creator-commerce, influencer-marketing, performance-channel, social-commerce
+impact: medium
+sentiment: positive
+---
+Later announced April 14 it has surpassed $2.9B in creator-driven commerce and more than doubled its enterprise business, signaling that influencer marketing has fully crossed into performance channel territory. The company expanded AI capabilities and appointed a new CTO. This validates the macro shift from flat-fee influencer deals to measurable affiliate-style outcomes — directly relevant to LiveChannel vendor program design.
+
+---signal---
+id: news-20260425-004
+signal: Performance-based influencer compensation hits 53% adoption — more than doubled in two years
+date: 2026-04-25
+source: https://entrustechinc.com/performance-based-influencer-marketing-2026/
+categories: industry
+tags: influencer-marketing, performance-based, commission, creator-economy
+impact: medium
+sentiment: positive
+---
+Influencer Marketing Factory's 2026 Creator Economy Report shows performance-based compensation at 53% adoption, up from ~25% two years ago. Instagram formally re-entered affiliate commerce as part of this wave. The convergence of influencer and affiliate is accelerating — vendors relying on flat-fee influencer deals risk overpaying while competitors lock in performance-only terms.

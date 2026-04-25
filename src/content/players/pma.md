@@ -15,7 +15,7 @@ keyStats:
   - label: "Type"
     value: "501(c)(6) Non-Profit"
 vendorRelevance: "low"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-25"
 ---
 
 ## Overview
@@ -79,9 +79,13 @@ The PMA is a membership-based non-profit:
 ## Recent Developments
 
 - **2025 Industry Study**: Published major findings showing the affiliate marketing industry grew 49.8% from 2021-2024, reaching $13.62 billion, outpacing e-commerce growth by 2x.
-- **Affiliate Summit 2026**: Active presence at Affiliate Summit in Las Vegas (January 2026), with board of directors nominations and community events.
+- **Affiliate Summit West 2026**: Strong presence at ASW26 in Las Vegas (January 2026), with board of directors engagement and community happy hour events.
 - **2026 Board Elections**: Opened 2026 Board of Directors nominations in October 2025, refreshing industry leadership representation.
-- **Community Growth**: Continued expansion of Slack community channels and regular networking events.
+- **Blueprint for 2026 Webinar** (December 2025): Hosted "Creating a Blueprint for 2026 Success: Collaboration to Retain and Grow Partnerships" — a widely-attended webinar covering strategic partnership models heading into 2026.
+- **Retailer Affiliate Agreements Guide** (February 9, 2026): Published a new downloadable resource to help brands navigate affiliate contract best practices — a practical tool for vendors drafting or reviewing partner agreements.
+- **NextGen Reverse Mentoring Webinar** (April 1, 2026): Hosted a webinar pairing emerging affiliate professionals with industry veterans — part of ongoing investment in talent and community development.
+- **Measurements & Insights Council Survey**: Launched an industry survey on affiliate measurement practices to inform upcoming benchmarking research and 2026 industry study.
+- **Brand & Agency Recruitment Push**: PMA actively seeking brands and agencies to join as members, signaling a strategic effort to broaden membership beyond networks and platforms.
 
 ## Vendor Takeaway
 

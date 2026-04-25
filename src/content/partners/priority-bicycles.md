@@ -1,10 +1,10 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-24"
+date: "2026-04-25"
 ---
 
 # Priority Bicycles Affiliate Partner Recommendations
-**Date:** 2026-04-23 (updated)
+**Date:** 2026-04-25 (updated)
 **Brand:** Priority Bicycles (prioritybicycles.com)
 **Category:** Commuter / Urban Bicycles — Belt Drive, Low-Maintenance
 **Current Affiliate Network:** AvantLink (5% commission, 21-day cookie, avg. sale $550+)
@@ -408,6 +408,124 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 | **15** | **Gear Patrol** | **23/25** | **Warm** | **Very High** | **Low (decade relationship — formalize tracking)** |
 | **16** | **Electric Bike Report** | **22/25** | **Warm** | **High** | **Low (affiliate links live — enroll AvantLink)** |
 | 17 | Capital One Shopping | 19/25 | Warm | Medium-High | Low (impact.com merchant enrollment) |
+| **19** | **Popular Science** | **25/25** | **Warm** | **Very High** | **Low ("Best overall" pick — enroll AvantLink now)** |
+| **20** | **WIRED** | **23/25** | **Warm** | **Very High** | **Low (review + gallery live — enroll AvantLink)** |
+| **21** | **Cyclingnews** | **22/25** | **Cold→Warm** | **Medium-High** | **Medium (pitch for 2026 guide inclusion; use Future PLC relationship)** |
+| **22** | **TechRadar** | **22/25** | **Warm** | **High** | **Medium (refresh 2022 review; bundle with Future PLC deal)** |
+
+---
+
+## New Leads — Discovered 2026-04-25
+
+### 19. Popular Science
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 5 |
+| **Total** | **25/25** |
+
+**URL:** https://www.popsci.com/gear/best-electric-commuter-bikes/
+**Lead Type:** 🔥 Warm Lead — Top-Pick Award
+**Evidence:** Popular Science's active 2026 electric commuter bike guide (Oct 2025, updated for spring 2026) names the **Priority Current Plus as "Best overall e-bike for long commutes"** — the #1 pick in their tested roundup. PopSci explicitly awards category winners; earning the top commuter e-bike slot is an elite-tier editorial endorsement from a 150-year-old science brand trusted by millions of mainstream Americans. PopSci uses affiliate links throughout their gear guides (standard affiliate infrastructure).
+**About:** Popular Science (popsci.com) is one of the most trusted general-interest science and technology publications in the US, now digital-first. DA ~80, 10M+ monthly visits, audience skews educated urban professionals — precisely the Priority buyer. Their "Best Of" category awards carry enormous consumer trust and drive sustained purchase intent over months.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to PopSci's gear/shopping editor via their editorial contact; supplement with AvantLink publisher outreach
+- **Key value prop:** PopSci has awarded the Priority Current Plus their #1 commuter e-bike pick — if their outbound link isn't routing through AvantLink directly to Priority's DTC store, Priority is leaving significant commission revenue uncaptured from one of the highest-trust editorial sources in consumer publishing. Pitch is simple: "Your top pick is our top model — let's make sure every click pays you."
+- **Authenticated member base:** PopSci newsletter with estimated 1M+ subscribers and Google News push following. Strong social amplification of "Best Of" awards.
+
+**Activation Angle:**
+- **Member communication channels:** Newsletter, Google News push, social (X, Instagram, Pinterest), article refresh updates (PopSci refreshes seasonal guides multiple times per year)
+- **How to embed:** AvantLink-tracked DTC links in the Current Plus review entry; exclusive "PopSci readers" landing page with transparent specs and easy return policy copy; seasonal refreshes for summer riding season
+- **Estimated activation potential:** HIGH — PopSci's "Best overall" designation is permanent in the article until they change picks. Sustained organic search traffic for "best electric commuter bike" terms will drive affiliate clicks for months. Formalizing AvantLink enrollment is a quick structural win.
+
+---
+
+### 20. WIRED
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **23/25** |
+
+**URL:** https://www.wired.com/review/priority-current-plus-electric-bike/ and https://www.wired.com/gallery/best-electric-bikes/
+**Lead Type:** 🔥 Warm Lead — Dedicated Review + Gallery Inclusion
+**Evidence:** WIRED has published a **dedicated hands-on Priority Current Plus review** (May 2025) — "Serious Power, Effortless Fun" — covering the Gates Carbon Drive belt, 750 Wh battery, and up to 90 miles per charge. The Current Plus is also listed in WIRED's active **"Best Electric Bikes (2026)"** gallery (updated April 2026), which is the most-trafficked e-bike buying guide in tech media. WIRED carries full affiliate commerce disclosure on review pages.
+**About:** WIRED (wired.com) is the dominant tech culture publication globally. DA ~90, 20M+ monthly visitors, Condé Nast. Their audience is urban, affluent, early-adopter tech buyers — strong overlap with Priority's DTC buyer who appreciates clean engineering and is comfortable buying direct. WIRED's e-bike coverage has grown substantially; their "Best Electric Bikes" gallery ranks for top commercial intent queries.
+
+**Recruitment Angle:**
+- **Best outreach channel:** AvantLink publisher outreach (Condé Nast affiliate ops team) + email to WIRED's gear editor
+- **Key value prop:** WIRED already invested editorial resources in a dedicated Current Plus review — that content is live and driving traffic. Formalizing AvantLink enrollment ensures Priority receives tracked revenue attribution on every WIRED referral. Offer WIRED's gear team the Priority Apollo gravel bike or Skyline for a follow-up review to double the affiliate-generating content footprint.
+- **Authenticated member base:** WIRED has a paywall subscriber base (est. 200K+ digital subscribers), newsletter list, and Condé Nast cross-publication reach (GQ, Vogue, Architectural Digest audiences)
+
+**Activation Angle:**
+- **Member communication channels:** WIRED newsletter (weekly), subscriber-exclusive content, "Best Of" guide refresh emails, social (X/Instagram/YouTube, 1M+ followers)
+- **How to embed:** AvantLink tracking on Current Plus review page + "Best Electric Bikes" gallery entry; pitch Priority Skyline or Apollo for a "WIRED Tested" technical deep-dive to expand the Priority footprint; seasonal inclusion in WIRED's spring/summer gear round-ups
+- **Estimated activation potential:** HIGH — WIRED's "Best Electric Bikes" gallery is a perennial high-traffic affiliate page; a listing there generates continuous passive referral revenue. The dedicated review ranks for "Priority Current Plus review" and related terms with sustained authority.
+
+---
+
+### 21. Cyclingnews
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.cyclingnews.com/features/best-commuter-bikes/
+**Lead Type:** Cold Lead → Warm Opportunity (active 2026 buying guide, Priority not yet listed)
+**Evidence:** Cyclingnews published **"Best commuter bikes 2026: Folding, flat bar and electric"** (March 20, 2026) — a live, affiliate-enabled buying guide with explicit commission disclosure ("When you purchase through links on our site, we may earn an affiliate commission"). Priority Bicycles does not appear to be listed in the current guide, making this a prime cold-to-warm conversion play. Cyclingnews is the Future PLC flagship cycling publication, sister to Cycling Weekly (already a warm partner), with parallel affiliate infrastructure.
+**About:** Cyclingnews (cyclingnews.com) is Future PLC's primary cycling news and review publication — the AP wire of cycling journalism. DA ~70, 3M+ monthly visitors, audience spans road racing fans to practical commuter buyers. Given that Cycling Weekly (same parent, Future PLC) already has an active Priority coupon page, the commercial relationship between Future PLC and AvantLink/Priority likely extends to Cyclingnews — it may just need activation for this specific guide.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to Cyclingnews features/buying guide editor; leverage the existing Cycling Weekly relationship as a warm intro within the Future PLC commercial team
+- **Key value prop:** Cyclingnews's 2026 commuter bike guide is live and ranking now — Priority's Continuum Onyx (CVT gearing, hydraulic disc brakes, belt drive) is a category-defining product that fills a gap in their current guide. With Cycling Weekly already carrying Priority coupon codes, expanding to Cyclingnews is a natural adjacent channel within the same publisher group. One commercial conversation = two publications.
+- **Authenticated member base:** Cyclingnews has a newsletter and registered user base; Future PLC cross-publication data allows audience segmentation across Cycling Weekly, Cyclingnews, and other Future properties
+
+**Activation Angle:**
+- **Member communication channels:** Email newsletter, "Best Of" buying guide pages (perennial SEO traffic drivers), social (X, Instagram, YouTube), cross-promotion with Cycling Weekly
+- **How to embed:** Pitch Priority Continuum Onyx and Priority Current for inclusion in the 2026 commuter bike guide; offer review units for in-house testing; ensure AvantLink tracking is configured for Cyclingnews as a distinct publisher; request seasonal editorial placement in summer commuter guide refresh
+- **Estimated activation potential:** MEDIUM-HIGH — Cyclingnews's buying guide is an active affiliate page but Priority's absence means no revenue today. Landing in the guide turns a zero into a continuous passive revenue stream; the Future PLC relationship makes this a relatively low-friction activation.
+
+---
+
+### 22. TechRadar
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 4 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **22/25** |
+
+**URL:** https://www.techradar.com/reviews/priority-current-e-bike
+**Lead Type:** 🔥 Warm Lead — Existing Review, Affiliate-Enabled, Refresh Opportunity
+**Evidence:** TechRadar published a **Priority Current e-bike review** (August 2022) with explicit affiliate disclosure ("When you purchase through links on our site, we may earn an affiliate commission"). TechRadar is a Future PLC property (same parent as Cycling Weekly and Cyclingnews), meaning the affiliate infrastructure and publisher relationships are shared. The review is from 2022; Priority has since launched the **Current Plus** (2025) — a significantly upgraded model — making a review refresh pitch highly timely and commercially motivated.
+**About:** TechRadar (techradar.com) is Future PLC's flagship technology review publication. DA ~90, 15M+ monthly visitors, audience is global tech consumers (primarily US, UK). TechRadar covers e-bikes in their tech/gadget vertical, giving Priority access to an audience that doesn't read cycling-specific publications but buys tech products at high price points.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Leverage the Future PLC publisher relationship (Cycling Weekly, Cyclingnews) to introduce Priority to TechRadar's tech/outdoor editor; offer Priority Current Plus review unit for a 2026 update
+- **Key value prop:** The Priority Current review is 4 years old — a significant gap in a fast-moving e-bike market. Offering TechRadar a Priority Current Plus review unit positions Priority in front of TechRadar's massive tech-buyer audience with a freshly updated piece. The Future PLC relationship means a single commercial conversation can unlock Cyclingnews + Cycling Weekly + TechRadar simultaneously — maximum publisher leverage.
+- **Authenticated member base:** TechRadar newsletter and Future PLC cross-publication registered user base (TechRadar Pro subscribers, estimated 300K+)
+
+**Activation Angle:**
+- **Member communication channels:** TechRadar newsletter, "Best Of" buying guides ("Best E-Bikes 2026" is a high-traffic perennial), social (X, YouTube), Future PLC cross-publication reach
+- **How to embed:** Refresh the 2022 Priority Current review with a Priority Current Plus hands-on; inclusion in TechRadar's "Best E-Bikes 2026" buying guide; AvantLink tracking on review page and buying guide entries; cross-link between TechRadar, Cyclingnews, and Cycling Weekly coverage for maximum Future PLC network effect
+- **Estimated activation potential:** MEDIUM-HIGH — TechRadar's scale (15M monthly visitors) means even a small conversion rate generates meaningful affiliate volume. The Future PLC bundled approach (3 publications, 1 commercial relationship) is the highest-leverage activation path.
 
 ---
 

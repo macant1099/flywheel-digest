@@ -1,6 +1,6 @@
 ---
 vendor: "anker"
-date: "2026-04-24"
+date: "2026-04-25"
 ---
 
 # Anker Affiliate Partner Recommendations

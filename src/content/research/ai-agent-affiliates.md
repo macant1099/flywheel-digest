@@ -496,3 +496,15 @@ impact: medium
 sentiment: positive
 ---
 IAB's latest forecast projects U.S. advertising spend will spike 9.5% in 2026, driven by AI-powered marketing automation and the continued decline of linear TV. This rising tide benefits affiliate and performance channels — as brand budgets shift to measurable digital formats, affiliate's inherent ROI accountability positions it to capture incremental budget share. LiveChannel vendors with strong affiliate programs will be well-positioned to benefit from this realignment.
+
+---signal---
+id: news-20260425-008
+signal: Markable launches free creator tier with AI deep links, DM automation, and bio link tools targeting social commerce
+date: 2026-04-25
+source: https://e-commerce.news/story/markable-launches-free-creator-tier-as-social-commerce-grows
+categories: industry
+tags: markable, ai-tools, creator-tier, deep-links, social-commerce, bio-link, dm-automation
+impact: medium
+sentiment: positive
+---
+Markable launched a free creator tier featuring AI-powered deep links, automated direct messaging, AI collage tools, and AI bio link tools — all designed to convert posts, comments, and recommendations into purchases. The company projects billions in annual sales by end of 2026. This is a notable entrant in AI-assisted affiliate tooling for creators, lowering the barrier to entry for casual affiliates. LiveChannel vendors should monitor whether Markable-enabled creators begin driving measurable volume.
