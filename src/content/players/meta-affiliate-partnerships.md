@@ -1,7 +1,7 @@
 ---
 name: "Meta Facebook Affiliate Partnerships"
 type: "platform"
-description: "Meta's newly launched closed-loop affiliate commerce system enabling creators to tag shoppable products from Amazon, eBay, Temu, Shopee, and Mercado Libre directly within Facebook content"
+description: "Meta's affiliate commerce system enabling creators to tag shoppable products on Facebook and Instagram Reels — covering Amazon/marketplace integrations (Facebook) and native creator commission tagging (Instagram, relaunched March 2026)"
 website: "https://www.facebook.com/creators/tools/affiliate-partnerships"
 founded: "2026"
 headquarters: "Menlo Park, CA"
@@ -12,12 +12,18 @@ keyStats:
     value: "Amazon, eBay, Temu, Shopee, Mercado Libre"
   - label: "Creator Incentive"
     value: "Up to $3,000/month guaranteed (Creator Fast Track)"
+  - label: "Instagram Reels Affiliate"
+    value: "Native relaunch March 2026 (US + 4 markets; 22 markets by spring)"
+  - label: "Instagram Commission (Platform Cut)"
+    value: "Zero — full commission passes to creator"
+  - label: "Creator Eligibility (Instagram)"
+    value: "1,000+ followers, 18+, up to 30 products/Reel"
   - label: "US Reach"
     value: "Amazon affiliate integration live; eBay + others expanding"
   - label: "Competitive Target"
     value: "TikTok Shop closed-loop model"
 vendorRelevance: "high"
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-26"
 ---
 
 ## Overview
@@ -82,6 +88,8 @@ Vendors selling on Amazon: No direct integration needed — the affiliate commis
 - **Trust deficit for commerce**: Facebook has struggled to drive social commerce adoption vs. Instagram and TikTok; creator skepticism about Facebook's commerce credibility may slow adoption
 
 ## Recent Developments
+
+**Late March 2026 — Instagram Reels Native Affiliate Commerce Relaunched**: Instagram Head Adam Mosseri announced that creators (1,000+ followers, 18+) can now tag affiliate products directly in Reels — up to 30 products per Reel — and earn commissions when viewers purchase. The feature is live in the US, Brazil, India, Indonesia, and Thailand, with confirmed expansion to all 22 Instagram commerce markets by spring 2026. Critically, **Meta is currently charging zero platform commission** — the full brand-set commission passes directly to the creator, making Instagram's terms the most creator-favorable of any social commerce platform at launch. Products must exist in a verified Meta commerce catalogue. Eligible creators earn 5–10% base with up to +5% performance bonus at volume thresholds. This marks Instagram's return to native affiliate commerce after shutting down its prior program in 2022–2023. The relaunch is fully independent from the Facebook Affiliate Partnerships marketplace model — it's a direct brand-to-creator affiliate tagging flow.
 
 **March 25, 2026 (Shoptalk)** — Official launch of Facebook Affiliate Partnerships with Amazon (US), Shopee (Singapore, Malaysia, Vietnam, Indonesia, Philippines, Thailand, Brazil, Taiwan), and announced expansions for eBay, Temu, and Mercado Libre.
 

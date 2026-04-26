@@ -15,7 +15,7 @@ keyStats:
   - label: "Valuation"
     value: "$21B+ (2026)"
 vendorRelevance: "high"
-lastUpdated: "2026-04-24"
+lastUpdated: "2026-04-26"
 ---
 
 ## Overview
@@ -89,6 +89,7 @@ Perplexity's commerce model is radically different from traditional affiliate ma
 - **Perplexity Computer for Pro (April 2026)**: Perplexity Computer launched to all Pro subscribers — a powerful multi-step agent layer (20+ advanced models, 400+ connectors) available via web and iOS app. Enables complex tasks like trip planning, data analysis, and portfolio site deployment from a single conversation. Enterprise Max/Pro also now have Computer access with Slack integration, capable of querying Snowflake, Salesforce, and HubSpot in plain English and automating recurring workflows.
 - **Comet Enterprise (April 2026)**: Comet, Perplexity's AI-native browser agent, is now available for enterprise deployment. Administrators can deploy it silently via MDM across macOS and Windows devices, configure browser policies, and control which autonomous actions the AI agent can take. Comet combines in-page research, email management, flight booking, form filling, and multi-step web tasks.
 - **Personal Computer Announcement (April 2026)**: Perplexity announced *Personal Computer* — an always-on AI that runs on a dedicated Mac mini, merging local files, apps, and sessions with Perplexity Computer. Operates 24/7 as a digital proxy: monitors triggers, executes proactive tasks, carries work forward autonomously. Sensitive actions require explicit approval with a full audit trail and kill switch. Waitlist open.
+- **Comet on iOS Pre-Order & New Model Integrations (Late April 2026)**: Perplexity shipped pre-ordering for Comet on iOS. Claude Sonnet 4.6 and Gemini 3.1 Pro are now available as model options within Perplexity, expanding the underlying AI options for both search and shopping flows. Response preferences launched allowing users to tune output length and depth. Enterprise Memory (persistent context across sessions) launched for Enterprise tiers.
 - **Virtual Try-On & Commerce UI Refresh (April 2026)**: New shopping-centric UI updates include virtual try-on for apparel/accessories, real-time finance and news feeds integrated directly into search results, chat bubbles UI, universal tabs, and a refreshed sidebar. PayPal checkout continues to power Instant Buy within shopping flows.
 - **Advertising Pivot (February 2026)**: Abandoned advertising model to focus exclusively on shopping experience and Pro membership growth.
 - **PayPal Integration (2025)**: Selected PayPal to power Instant Buy and agentic commerce capabilities, enabling in-chat checkout.

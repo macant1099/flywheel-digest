@@ -4,7 +4,7 @@ category: DTC Bicycles (Belt-Drive, E-Bikes, Fleet)
 platform: Shopify (standard)
 website: https://www.prioritybicycles.com
 websiteDisplay: prioritybicycles.com
-afareScore: 46
+afareScore: 47
 afareBand: Developing
 afareDimensions:
   - name: Program Presence
@@ -58,9 +58,9 @@ afareDimensions:
         maxScore: 4
         evidence: "Flat 5% across diverse price points ($300 kids bikes to $2,500+ e-bikes). No strategic rate differentiation by category."
   - name: Partner Ecosystem
-    score: 11
+    score: 12
     maxScore: 20
-    tagline: Stronger-than-expected editorial coverage with Wirecutter and major cycling publications
+    tagline: Stronger-than-expected editorial coverage with Wirecutter, WIRED, PopSci, and major cycling publications
     criteria:
       - name: Active Affiliate Count
         score: 1
@@ -71,9 +71,9 @@ afareDimensions:
         maxScore: 4
         evidence: "4+ partner types confirmed: content/review (Wirecutter, Bicycling.com, GearJunkie, BikeXchange, BikePacking.com), coupon/deal (Cycling Weekly active coupon page), comparison/database (99 Spokes), content creators (Van Duzer, TwoWheelingTots)."
       - name: Top Partner Quality
-        score: 3
+        score: 4
         maxScore: 4
-        evidence: "Wirecutter/NYT recommending Continuum Onyx in Best Hybrid Bikes 2026 (DA 95+). Bicycling.com (DA 85+) dedicated reviews. GearJunkie (DA 70+) Tested program. Cycling Weekly (DA 75+) review + active coupon page."
+        evidence: "7+ tier-1 editorial partners (DA 70+): Popular Science (DA 80+) 'Best overall e-bike for long commutes' for Current Plus; WIRED (DA 90+) dedicated hands-on review + Best Electric Bikes 2026 gallery; Wirecutter/NYT (DA 95+) recommending Continuum Onyx; Bicycling.com (DA 85+) dedicated reviews; GearJunkie (DA 70+) Tested program; Cycling Weekly (DA 75+) review + active coupon page; Electrek (DA 75+) 3+ hands-on reviews."
       - name: Content Creator Engagement
         score: 3
         maxScore: 4
@@ -146,7 +146,7 @@ gaps:
     description: "21-day cookie is problematic for high-consideration bicycle purchases. Recommendation: Extend to 30-45 days."
   - title: No membership commerce model (1/4)
     description: "Purely transactional with no recurring revenue opportunity. Recommendation: Launch a 'Priority Rider' membership at $49-99/year."
-assessment: "Priority Bicycles scores 46/100 (Developing band, entry) on the AFARE scale, reflecting a small DTC brand with thoughtful partnership strategy and stronger-than-expected editorial coverage, but limited affiliate infrastructure and scale. Wirecutter, Bicycling.com, GearJunkie, and Cycling Weekly all actively feature Priority products (April 2026)."
+assessment: "Priority Bicycles scores 47/100 (Developing band, entry) on the AFARE scale, reflecting a small DTC brand with thoughtful partnership strategy and stronger-than-expected editorial coverage, but limited affiliate infrastructure and scale. Wirecutter, Bicycling.com, GearJunkie, and Cycling Weekly all actively feature Priority products (April 2026)."
 assessmentHighlight: "The clearest path to 60+ (mid-Developing) is: (1) launch on Impact or CJ, (2) extend cookie to 30-45 days, (3) introduce tiered e-bike commission incentives, and (4) confirm AvantLink enrollment for tier-1 publishers to prevent affiliate leakage."
 evaluationDate: "2026-04-13"
 competitivePosition:

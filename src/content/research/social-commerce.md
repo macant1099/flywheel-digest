@@ -1,7 +1,7 @@
 ---
 title: "Social Commerce & Influencer Affiliate — Industry Research"
 category: industry
-lastUpdated: "2026-04-13"
+lastUpdated: "2026-04-26"
 ---
 
 # Social Commerce & Influencer Affiliate — Industry Research
@@ -321,3 +321,27 @@ impact: medium
 sentiment: positive
 ---
 Influencer Marketing Factory's 2026 Creator Economy Report shows performance-based compensation at 53% adoption, up from ~25% two years ago. Instagram formally re-entered affiliate commerce as part of this wave. The convergence of influencer and affiliate is accelerating — vendors relying on flat-fee influencer deals risk overpaying while competitors lock in performance-only terms.
+
+---signal---
+id: news-20260426-001
+signal: Instagram "Shop the Look" AI auto-tagging controversy — AI tagging products in existing creator content without explicit consent
+date: 2026-04-23
+source: https://www.affiversemedia.com/instagram-relaunches-creator-affiliate-commerce-the-shop-the-look-mess-is-the-harder-problem/
+categories: industry
+tags: instagram, meta, shop-the-look, ai-tagging, creator-rights, attribution, social-commerce
+impact: medium
+sentiment: negative
+---
+Alongside its late-March 2026 affiliate commerce relaunch, Instagram tested "Shop the Look" — a feature using AI visual recognition to automatically tag products in existing creator content, redirecting commerce revenue without creator action or consent. This creates attribution ambiguity, potential creator rights issues, and brand safety risks if AI mis-tags products. Affiliate marketers and brands should monitor whether Meta addresses consent and commission clarity as the feature scales; mis-tagged product placements could generate unauthorized affiliate link activity.
+
+---signal---
+id: news-20260426-002
+signal: 7K Metals exits MLM, pivots to direct retail + affiliate model — MLM-to-affiliate conversion trend signal
+date: 2026-04-23
+source: https://thecompletelawyer.com/7k-metals-direct-retail/
+categories: industry
+tags: mlm, affiliate-conversion, direct-retail, precious-metals, industry-trend
+impact: low
+sentiment: neutral
+---
+7K Metals announced in March 2026 its transition away from network marketing to a direct retail and affiliate model, allowing customers to purchase without going through an independent representative. This joins a broader trend of MLM-structured companies pivoting to traditional affiliate programs as regulatory scrutiny on MLM compensation structures increases. For the affiliate industry, each MLM-to-affiliate conversion represents new publisher inventory entering affiliate networks.
