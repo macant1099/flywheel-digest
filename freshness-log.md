@@ -121,3 +121,20 @@
 **Today's briefing:** Present ✓
 **Build:** ✓ 98 pages in 1.18s
 **Commit:** d2ffb2e → pushed to main
+
+## 2026-04-25 08:01 PDT
+
+**Files synced:**
+- Research: 16 files (6 networks, 4 verticals, 3 industry, 3 network-building)
+- Players: 45 files (1 new: markable.md)
+- Playbooks: 2 (anker, priority-bicycles)
+- Partners: 2 (anker, priority-bicycles)
+- Newsletters: 3 (fixed W16/W17 frontmatter — date/week were empty)
+
+**Freshness issues:**
+- 6 research files stale (>7 days): ai-agent-affiliates, cj-affiliate, discovery, levanta, social-commerce, tracking-privacy
+- 0 player profiles stale
+- Today's briefing: present ✓
+
+**Build:** ✅ Success (100 pages, 1.24s) — duplicate id warnings (expected from glob-loader overwrites)
+**Commit:** 50da528 — 14 files changed, +608/-90 lines
