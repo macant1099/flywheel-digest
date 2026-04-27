@@ -1,6 +1,6 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-26"
+date: "2026-04-27"
 ---
 
 # Priority Bicycles — AFARE Action Playbook

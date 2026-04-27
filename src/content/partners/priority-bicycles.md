@@ -1,6 +1,6 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-26"
+date: "2026-04-27"
 ---
 
 # Priority Bicycles Affiliate Partner Recommendations
@@ -412,6 +412,9 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 | **20** | **WIRED** | **23/25** | **Warm** | **Very High** | **Low (review + gallery live — enroll AvantLink)** |
 | **21** | **Cyclingnews** | **22/25** | **Cold→Warm** | **Medium-High** | **Medium (pitch for 2026 guide inclusion; use Future PLC relationship)** |
 | **22** | **TechRadar** | **22/25** | **Warm** | **High** | **Medium (refresh 2022 review; bundle with Future PLC deal)** |
+| **23** | **BikeRadar** | **23/25** | **Cold** | **High** | **Low (Future PLC bundle — 4 pubs, 1 conversation)** |
+| **24** | **ElectricBikeExplorer.com** | **20/25** | **Cold** | **Medium-High** | **Low (Current Plus review unit + AvantLink enrollment)** |
+| **25** | **Cascade Bicycle Club** | **19/25** | **Cold** | **Medium-High** | **Medium (corporate partner portal — LiveChannel model fit)** |
 
 ---
 
@@ -526,6 +529,94 @@ Priority Bicycles is the category leader in direct-to-consumer belt drive commut
 - **Member communication channels:** TechRadar newsletter, "Best Of" buying guides ("Best E-Bikes 2026" is a high-traffic perennial), social (X, YouTube), Future PLC cross-publication reach
 - **How to embed:** Refresh the 2022 Priority Current review with a Priority Current Plus hands-on; inclusion in TechRadar's "Best E-Bikes 2026" buying guide; AvantLink tracking on review page and buying guide entries; cross-link between TechRadar, Cyclingnews, and Cycling Weekly coverage for maximum Future PLC network effect
 - **Estimated activation potential:** MEDIUM-HIGH — TechRadar's scale (15M monthly visitors) means even a small conversion rate generates meaningful affiliate volume. The Future PLC bundled approach (3 publications, 1 commercial relationship) is the highest-leverage activation path.
+
+---
+
+---
+
+## New Leads — Discovered 2026-04-27
+
+### 23. BikeRadar
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 3 |
+| **Total** | **23/25** |
+
+**URL:** https://www.bikeradar.com
+**Lead Type:** ❄️ Cold Lead — High-Authority Gap (Priority absent from coverage)
+**Evidence:** BikeRadar has an active "Best Commuter Bikes" buyer's guide and a dedicated "Belt Drive Bicycles: The Pros and Cons Explained" guide (updated February 2025) — the latter ranks for high-intent belt drive research queries. BikeRadar does NOT appear to have reviewed or featured any Priority Bicycles models in recent searches, making this a significant editorial gap for a brand that is literally the category leader in belt drive commuter bikes. BikeRadar is a Future PLC property — the same publishing group that owns Cycling Weekly (active coupon partner), Cyclingnews (2026 buying guide target), and TechRadar (refresh opportunity). One Future PLC commercial conversation could unlock Priority placements across all four publications.
+**About:** BikeRadar (bikeradar.com) is Future PLC's flagship cycling gear and review publication. DA ~72, 3M+ monthly visitors (global). Their audience spans road, commuter, gravel, MTB, and e-bike buyers across the US and UK. BikeRadar's buying guides are authoritative, affiliate-linked, and perennial — a placement in their commuter or belt drive guide would drive passive referral revenue for years.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to BikeRadar's gear editor or buying guide team; leverage the existing Cycling Weekly Future PLC relationship as a warm internal introduction — one commercial team for all Future cycling properties
+- **Key value prop:** Priority is the #1 direct-to-consumer belt drive brand in the US with a Wirecutter-recommended model, Popular Science "Best Overall" e-bike, and WIRED hands-on review — yet BikeRadar has zero Priority coverage. That gap is an editorial opportunity. Pitch the Continuum Onyx for their "Best Commuter Bikes" guide and the Current Plus for their e-bike roundup; offer review units and AvantLink tracking. Frame the Future PLC bundle: Cycling Weekly + Cyclingnews + TechRadar + BikeRadar = maximum network effect from one relationship.
+- **Authenticated member base:** BikeRadar has a registered user community (forums, newsletter) and Future PLC's cross-publication audience data (Cycling Weekly subscribers, etc.)
+
+**Activation Angle:**
+- **Member communication channels:** BikeRadar newsletter, "Best Of" buying guide pages (perennial SEO traffic drivers), forums with engaged commuter and e-bike communities, social (Instagram, YouTube), Future PLC cross-publication network
+- **How to embed:** AvantLink tracking on any Priority review pages; inclusion in the BikeRadar "Best Commuter Bikes" guide and "Best Belt Drive Bikes" content; cross-link with Cycling Weekly coupon page for a seamless reader journey (review on BikeRadar → coupon code on Cycling Weekly → purchase on Priority DTC)
+- **Estimated activation potential:** MEDIUM — BikeRadar's conversion rate is lower than niche e-bike sites (their audience is broad cyclists vs. purchase-intent e-bike shoppers), but their scale (3M+ visits) and authority make even a small conversion rate meaningful. The Future PLC bundle angle is the real leverage: one editorial relationship → four publications.
+
+---
+
+### 24. ElectricBikeExplorer.com
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 3 |
+| Brand Safety | 4 |
+| Conversion Potential | 4 |
+| **Total** | **20/25** |
+
+**URL:** https://electricbikeexplorer.com/best-commuter-ebikes-2026/
+**Lead Type:** ❄️ Cold Lead — Active 2026 Guide, Priority Not Listed
+**Evidence:** ElectricBikeExplorer published "Best Commuter Ebikes for 2026: Top Picks for Every Rider & Budget" (updated 2 weeks ago, April 2026). The guide explicitly covers belt-drive options and references a "500W rear hub motor with optional belt-drive or 10-speed drivetrain" competitor — meaning the belt-drive category is actively covered. Priority Current Plus (Popular Science "Best Overall" e-bike commuter) is absent from the guide, representing a clear editorial gap. The site also links to companion guides ("Affordable Electric Commuter Bikes Under $1,200," "Best Cargo E-Bikes for Commuting") indicating a robust, affiliate-driven content architecture. Standard affiliate disclosure infrastructure is present.
+**About:** ElectricBikeExplorer.com is an independent e-bike review and buying guide site focused on commuter and urban riders. Estimated DA ~35-40, 100K-300K monthly visits (niche but highly purchase-intent). Their audience is in active e-bike buying mode — the guide is framed around helping shoppers decide, with detailed spec comparisons and budget tiers. A reader who spends 10 minutes on their 2026 commuter guide is a high-conversion candidate.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Direct email outreach to the site editor/owner (typically a small editorial team for sites at this scale); offer a Priority Current Plus review unit as the opening
+- **Key value prop:** The Priority Current Plus was named "Best Overall" commuter e-bike by Popular Science and is featured in WIRED's 2026 e-bike gallery — it's an editorially validated product that belongs in any serious 2026 commuter e-bike roundup. For ElectricBikeExplorer, adding the Current Plus (and potentially the Skyline for a "best automatic-shifting e-bike" angle) fills a genuine content gap while providing an affiliate commission from AvantLink's 5% rate on avg. $2,000+ e-bike sales (~$100/conversion).
+- **Authenticated member base:** Newsletter/email list likely (standard for affiliate sites); no hard membership but email subscribers represent an engaged buyer audience
+
+**Activation Angle:**
+- **Member communication channels:** Email newsletter, dedicated buying guide pages (primary SEO traffic driver), companion guide cross-links, social channels
+- **How to embed:** AvantLink enrollment + Priority Current Plus listing in their 2026 commuter e-bike guide; seasonal guide refresh at start of summer riding season; potential dedicated Priority Current Plus review page for additional long-tail SEO coverage; companion guide inclusion ("Best Belt Drive E-Bikes 2026")
+- **Estimated activation potential:** MEDIUM-HIGH — Niche e-bike buying guide audiences convert at high rates; an AvantLink-tracked listing in their top guide generates continuous passive revenue at the e-bike AOV premium (~$2,000 average sale vs. Priority's overall ~$550 AOV)
+
+---
+
+### 25. Cascade Bicycle Club
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 3 |
+| Reach & Authority | 3 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **19/25** |
+
+**URL:** https://cascade.org / https://cascade.org/get-involved/corporate-partnerships
+**Lead Type:** ❄️ Cold Lead → LiveChannel Model Fit (Authenticated Member Base)
+**Evidence:** Cascade Bicycle Club is Seattle's largest cycling advocacy organization with 9,500+ paying members. They operate a Members Benefits Portal (accessible at cascade.org/get-involved/join-or-renew-your-membership/member-benefits-portal) offering "exclusives and offers from our bicycle-friendly partners" — a direct parallel to the LiveChannel affiliate model. Corporate partners receive access to Cascade's member audience through co-branded offers, newsletter placement, and event sponsorship. Current partner discount examples include 15% off SKS USA products and 20% off Swift Adventure Co. equipment — a Priority commuter bike discount in this portal would be a natural fit for Cascade's commuter-focused membership. Cascade also operates major cycling events (STP, Obliteride) with 10,000+ participants annually.
+**About:** Cascade Bicycle Club (cascade.org) is the largest cycling membership organization in Washington State. Members are urban and suburban cyclists — commuters, recreational riders, families — precisely Priority's buyer profile. The organization runs an active corporate partnerships program (updated January 2026) and hosts cycling education programs that attract exactly the "want to bike more but don't want to deal with maintenance" customer that Priority targets. Members pay annual dues, making this an authenticated, financially engaged audience.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Email to Cascade's Corporate Partnerships team (dedicated page at cascade.org/get-involved/corporate-partnerships) — this is a well-defined inbound partnership channel with clear precedent
+- **Key value prop:** Priority's low-maintenance, belt-drive bikes are the ideal product for Cascade members who want to commute or ride recreationally without dealing with chain maintenance. The pitch: offer Cascade members a dedicated discount code (e.g., 10-15% off any Priority bike) accessible exclusively through the Member Benefits Portal — matching the SKS and Swift Adventure precedents. Priority gets access to 9,500 authenticated, cycling-committed buyers with purchase intent; Cascade gets a premium bike brand in their partner portfolio.
+- **Authenticated member base:** YES — Cascade has 9,500+ paying members, authenticated via annual dues. Member Benefits Portal requires login. This is a textbook LiveChannel model candidate: verified audience, gated offers, direct communication channels.
+
+**Activation Angle:**
+- **Member communication channels:** Member Benefits Portal (authenticated, login-required offers), email newsletter to 9,500+ members, event communications (STP participants, Obliteride registrants), in-person event booths/demos at major Cascade rides
+- **How to embed:** Priority discount code (10-15% off) in the Member Benefits Portal; co-branded email to Cascade members at spring riding season (April-May); Priority demo bike at Cascade's major events (STP start line, bike fairs); potential for Priority to be the official commuter bike partner of Cascade — a meaningful brand association in Seattle/Pacific Northwest commuter market
+- **Estimated activation potential:** MEDIUM-HIGH — 9,500 authenticated members with above-average cycling engagement and purchase intent. Even 1% conversion at ~$700 AOV = $66,500 in attributable GMV. The LiveChannel model fit (authenticated members, gated portal, email list) makes this a structurally superior lead type for long-term relationship value.
 
 ---
 

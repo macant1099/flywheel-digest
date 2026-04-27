@@ -345,3 +345,27 @@ impact: low
 sentiment: neutral
 ---
 7K Metals announced in March 2026 its transition away from network marketing to a direct retail and affiliate model, allowing customers to purchase without going through an independent representative. This joins a broader trend of MLM-structured companies pivoting to traditional affiliate programs as regulatory scrutiny on MLM compensation structures increases. For the affiliate industry, each MLM-to-affiliate conversion represents new publisher inventory entering affiliate networks.
+
+---signal---
+id: news-20260427-001
+signal: Meta launches creator affiliate tools at Shoptalk — Amazon & Shopee as launch partners, Business AI checkout integrated
+date: 2026-04-27
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, instagram, facebook, affiliate-tools, social-commerce, amazon, shopee, business-ai, shoptalk, tiktok-shop-rival
+impact: high
+sentiment: positive
+---
+Meta debuted creator affiliate partnership tools at Shoptalk Las Vegas (late March 2026), positioning directly against TikTok Shop. Amazon and Shopee are launch partners for the Facebook product-tagging feature in photo posts and Reels; Temu, eBay, and Mercado Libre will join soon. Meta also integrated checkout into its Business AI sales agent. Instagram Reels are now shoppable — creators can tag up to 30 products per Reel — and tagged content surfaces automatically in the Partnership Ads Hub, boosting creator visibility to brand partners. Industry insiders note adoption may start slower in non-beauty/wellness verticals where affiliate is not yet a primary strategy.
+
+---signal---
+id: news-20260427-002
+signal: Instagram formally relaunches native creator affiliate commerce — "era of link in bio is over," Reels now commission-eligible
+date: 2026-04-27
+source: https://www.affiversemedia.com/instagram-relaunches-creator-affiliate-commerce-the-shop-the-look-mess-is-the-harder-problem/
+categories: industry
+tags: instagram, meta, creator-affiliate, social-commerce, reels, shoptalk, shop-the-look, tiktok-shop, ltk, shopmy
+impact: high
+sentiment: positive
+---
+Instagram returned to native creator affiliate commerce in late March 2026 — more than three years after shutting down its prior program. Head of Instagram Adam Mosseri announced creators can tag affiliate products directly in Reels and earn commissions; Meta's Nicola Mendelsohn declared "the era of link in bio is finally over" at Shoptalk Spring. Instagram is re-entering a market where TikTok Shop processed $33.2B GMV in 2024, LTK facilitated $6B+ in annual sales, and ShopMy hit a $1.5B valuation. The contested "Shop the Look" AI auto-tagging feature (which linked creators to brands without consent) remains an unresolved trust issue with creators as Instagram attempts to rebuild participation.
