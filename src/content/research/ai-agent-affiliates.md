@@ -508,3 +508,27 @@ impact: medium
 sentiment: positive
 ---
 Markable launched a free creator tier featuring AI-powered deep links, automated direct messaging, AI collage tools, and AI bio link tools — all designed to convert posts, comments, and recommendations into purchases. The company projects billions in annual sales by end of 2026. This is a notable entrant in AI-assisted affiliate tooling for creators, lowering the barrier to entry for casual affiliates. LiveChannel vendors should monitor whether Markable-enabled creators begin driving measurable volume.
+
+---signal---
+id: news-20260428-004
+signal: AI SaaS affiliate programs averaging 20% commission and 60-day cookies; 2.3x higher EPC vs display for B2B
+date: 2026-04-28
+source: https://customgpt.ai/top-10-ai-affiliate-programs/
+categories: industry
+tags: ai-tools, saas-affiliate, commission-rates, epc, b2b
+impact: medium
+sentiment: positive
+---
+January 2026 analysis of 58 AI SaaS affiliate programs found median payout of 20% with 60-day cookie windows. Top-quartile AI programs delivered ~2.3x higher earnings-per-click versus display ads for B2B traffic. AI-powered content creation and optimization is now the top affiliate marketing trend for 2026, alongside server-side tracking adoption.
+
+---signal---
+id: news-20260428-005
+signal: FTC raises AI influencer disclosure fines to $53,088 per violation; enforcement up 40% since 2025
+date: 2026-04-28
+source: https://www.adamigo.ai/blog/ftc-disclosure-rules-what-brands-must-know
+categories: industry
+tags: ftc, disclosure, ai-influencers, compliance, regulation, enforcement
+impact: high
+sentiment: negative
+---
+FTC per-violation fines for affiliate disclosure non-compliance are set at $53,088 starting 2026, following a 40% enforcement increase in 2025. The FTC updated Endorsement Guides in 2025 to explicitly cover AI-generated content — AI influencers operating without disclosure are now directly in scope. Affiliate programs using AI creators or automated content must audit disclosure practices immediately.

@@ -2,7 +2,7 @@
 title: "Network Building: Partner Recruitment"
 category: "network-building"
 summary: "How to pitch, negotiate, and onboard partners into private LiveChannel affiliate networks"
-lastUpdated: "2026-04-23"
+lastUpdated: "2026-04-28"
 status: "active"
 tags: ["recruitment", "outreach", "negotiation", "onboarding", "contracts"]
 ---

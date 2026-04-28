@@ -277,3 +277,15 @@ Key agentic commerce statistics now shaping the affiliate and commerce landscape
 - US live streaming commerce market on track for the $55B projection by 2026 (on-target per prior research)
 
 **LiveChannel Implication:** The broader live commerce wave continues to validate community-first commerce. However, the dominant execution model (TikTok Shop, Amazon Live, YouTube Shopping) remains creator-centric rather than community-centric. LiveChannel's differentiation — the *community entity* as the organizing principle — remains intact but still unproven at scale against these better-capitalized incumbents.
+
+---signal---
+id: news-20260428-007
+signal: Costco.com online growth at 22.6%; roadshow-to-digital conversion emerging as key affiliate opportunity for Costco-adjacent vendors
+date: 2026-04-28
+source: https://www.mojosalesandbranding.com/post/costco-digital-strategy-2026-roadshow-brand-opportunity
+categories: livechannel
+tags: costco, costnext, roadshow, digital-conversion, livechannel, vendor-strategy
+impact: medium
+sentiment: positive
+---
+Costco reported 22.6% online growth in 2026. Analysis highlights a cross-channel reinforcement pattern: roadshow exposure → Costco.com visit → personalized carousel recommendation → digital purchase. For LiveChannel CostcoNext vendors, this signals that affiliate and digital touchpoints post-roadshow are increasingly important conversion drivers that need proper tracking infrastructure.

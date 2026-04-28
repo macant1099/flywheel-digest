@@ -1,7 +1,7 @@
 ---
 title: "ShareASale — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-21"
+lastUpdated: "2026-04-28"
 ---
 
 # ShareASale — Network Profile
@@ -183,6 +183,14 @@ Monitoring the ShareASale-to-Awin migration patterns provides intelligence on:
 - **Trustpilot sentiment (April 2026):** Publisher frustration with customer support remains an ongoing complaint — "empty phrases" and "standard procedures" cited as insufficient for performance publishers. Positive signals around new platform tools and approval speed.
 - **Industry research (Forrester/Awin, March 2026):** 92% of marketers rate affiliate as an effective or highly effective channel, placing it behind only content marketing and PPC.
 - **AI shopping threat acknowledgment:** Awin's Mastertag positioned as a "privacy-first, future-proof data foundation" for brands competing in AI discovery and LLM performance — acknowledging that billions of dollars in consumer spending are moving into AI black boxes where traditional attribution fails.
+- **April 20-22, 2026 — ThinkTank Americas:** Awin's flagship North American conference held in Chicago. Core themes: AI-driven discovery disrupting attribution, creator-led commerce as primary affiliate engine, practical performance strategies over theory. Keynotes from Liquid Death CEO Mike Cessario (brand-as-culture) and SEO expert Lily Ray (AI discovery and affiliate visibility). Creator program scaling was a dedicated track.
+- **April 23, 2026 — Conversion API docs update:** Awin updated its Conversion API documentation — batch order submission, authenticated S2S transmission, and improved developer guidance. A minor infrastructure signal indicating ongoing API investment.
+- **March/April 2026 — Commission Rate Policy Codified:** Awin published formal best-practice guidance on commission rates (March 9, updated April 1). Key published restriction: commission reductions capped at 20% max per adjustment, no more than once every 30 days, with 7-day advance notice required to publishers. This codifies protections for publisher trust.
+- **Industry: APMA Ethics Code + Subnetwork Crackdown:** The Affiliate Professional Management Association released a new code of conduct targeting subnetwork transparency. Publishers and networks must now disclose specific traffic sources. Fraud-masking subnetworks face forced exit. Cleaner attribution should increase executive confidence in channel ROI and lift commission pools for legitimate publishers.
+- **Industry: M&A Consolidation Accelerates:** Levanta acquiring Perch+ highlights a broader trend toward all-in-one aggregation platforms owning the full affiliate user journey — discovery through payment. Smaller niche networks face increasing pressure from consolidated giants (Awin, CJ, Impact, Rakuten).
+
+**ThinkTank Americas 2026 — Key Takeaways for Flywheel:**
+AI-driven discovery was the dominant theme. Lily Ray's keynote on how AI reshapes affiliate visibility is directly relevant to the AFARE scoring framework — vendors with poor AI footprint (Mac Bee's ACES domain) will also suffer in affiliate partner discovery as AI mediates more of the affiliate-to-consumer journey. The creator-led commerce track confirmed that publisher mix is shifting: top-performing affiliate programs in 2026 need a creator tier, not just coupon/loyalty sites.
 
 **Impact on Market Structure:**
 The ShareASale closure is one of the most significant affiliate industry consolidation events in recent years. It effectively reduced the "Big 5" US networks to a "Big 4," with Awin absorbing ShareASale's entire merchant and publisher base. This has implications for:
@@ -213,6 +221,51 @@ Awin's Winter 2026 platform upgrade introduced three meaningful capabilities: (1
 - Vendors with lean affiliate management teams (common in LiveChannel's SMB segment) stand to benefit most from Campaign Builder's simplified workflow.
 - AI partner recommendations could surface mid-tier publisher partnerships that smaller merchant teams wouldn't otherwise discover — net positive for reach expansion.
 - Ava chatbot indicates Awin is investing in self-serve support, which may partially address the ongoing publisher dissatisfaction with human support responsiveness.
+
+---
+
+### 2026-04-28 — ThinkTank Americas 2026 Recap: AI Discovery + Creator Commerce
+**Source:** Awin.com / Spotify Awin-Win Podcast (April 20-22, 2026) | **Type:** Industry Event | **Relevance:** High
+
+Awin's flagship North American conference (Chicago, April 20-22) just wrapped. Three themes dominate:
+
+1. **AI-driven discovery is the central strategic challenge.** Lily Ray's day-two keynote addressed how AI search and generative product discovery reshapes affiliate visibility. Programs not optimized for AI surface are losing organic publisher interest — because publishers can see their content underperforms in AI-mediated traffic.
+2. **Creator-affiliate convergence is now the primary growth track.** Dedicated sessions on building creator-friendly programs confirm that video-native creators have overtaken traditional bloggers as the primary affiliate revenue engine in most verticals. Brands that offer creator-specific commission tiers, UGC rights frameworks, and dedicated onboarding tooling are outcompeting legacy programs.
+3. **Mike Cessario (Liquid Death) keynote reinforced brand-as-culture.** His message: bold creative and cultural fluency drive affiliate retention — publishers want to promote brands their audiences already respect. Relevant for LiveChannel vendors with weak brand identity.
+
+**Implications for vendors:**
+- Vendors with zero creator-tier affiliate strategy are now behind the curve — ThinkTank surfaced this as table-stakes, not advanced play.
+- AI visibility (Mac Bee ACES scores) now directly influences affiliate program attractiveness — poor AI footprint = less publisher interest from AI-savvy creator affiliates.
+- Vendors should evaluate whether their Awin program materials (brand guidelines, creative assets, commission structure) support creator-style promotion or are still optimized for coupon/content only.
+
+---
+
+### 2026-04-28 — Awin Commission Rate Policy: 20% Cap + 7-Day Notice Rule
+**Source:** Awin Help Center (Published March 9, Updated April 1, 2026) | **Type:** Policy | **Relevance:** Medium
+
+Awin has formally codified commission rate change restrictions in its advertiser help center:
+- **Max 20% reduction** per rate change event.
+- **Once per 30 days** maximum frequency.
+- **7-day advance notice** required via Communication Center before any reduction takes effect.
+
+This protects publishers from sudden commission collapses — a tactic historically used by brands to extract publisher effort before cutting payouts. The policy formalizes what was previously handled case-by-case.
+
+**Implications for vendors:**
+- Vendors planning to test high launch rates and then reduce need to plan a multi-month step-down schedule.
+- The 7-day notice requirement creates a publisher communication cadence opportunity — proactive vendors can use announcements as relationship touchpoints rather than bad-news bombs.
+- Vendors using rate changes as a lever for budget control need to model the 30-day cycle into their planning horizon.
+
+---
+
+### 2026-04-28 — Industry: APMA Ethics Code Targets Subnetwork Fraud
+**Source:** AffiliList / Hello Partner (April 2026) | **Type:** Regulatory | **Relevance:** Medium
+
+The Affiliate Professional Management Association (APMA) released a new code of conduct with specific focus on subnetwork transparency. Requirements: subnetworks must disclose individual traffic source channels; bundled/masked traffic attribution is no longer compliant. This directly targets a long-standing fraud vector where subnetworks aggregated low-quality traffic and passed it as high-value publisher volume.
+
+**Implications for vendors:**
+- Cleaner data attribution downstream means vendor ROI reporting will be more accurate — good for affiliate channel investment cases.
+- Fraudulent subnetwork volume disappearing from the ecosystem should improve actual conversion quality on programs using Awin's publisher pool.
+- If Awin enforces APMA standards (likely, as a major network), commission pools previously diluted by fraud should concentrate on legitimate performers.
 
 ---
 

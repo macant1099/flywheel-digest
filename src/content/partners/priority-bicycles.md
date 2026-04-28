@@ -1,6 +1,6 @@
 ---
 vendor: "priority-bicycles"
-date: "2026-04-27"
+date: "verified audience, gated offers, direct communication channels."
 ---
 
 # Priority Bicycles Affiliate Partner Recommendations

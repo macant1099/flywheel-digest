@@ -1,6 +1,6 @@
 ---
 vendor: "anker"
-date: "2026-04-27"
+date: "2026-04-28"
 ---
 
 # Anker Affiliate Partner Recommendations
@@ -1666,6 +1666,165 @@ These sites have strong audience overlap with Anker's target buyers but are not 
 | 48 | Treeline Review | 18/25 | Warm | Medium | Low |
 | 51 | Houston Chronicle | 16/25 | Warm | Low | Low |
 | 51 | Digital Reviews Network | 17/25 | Warm | Low | Low |
+
+---
+
+---
+
+---
+
+## 2026-04-28 Discovery Update
+
+*Automated partner discovery scan — even-day cycle (Anker). All leads below are new — no duplicates with prior entries.*
+
+---
+
+### 53. Digital Trends
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 5 |
+| Content Relevance | 5 |
+| Reach & Authority | 5 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **24/25** |
+
+**URL:** https://www.digitaltrends.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Active multi-format Anker publisher with evidence of ongoing coverage in 2025–2026: Anker 7-in-1 Nano Charging Station product launch article (July 2025), Anker SOLIX portable power station deal coverage (March 2026 — "This is the portable power upgrade for people who want to be ready, not worried"), and Anker's 737 Power Bank deal alert coverage. Digital Trends covers charging accessories across multiple verticals (phones, laptops, outdoors/adventure). Confirmed affiliate links: Digital Trends earns commissions on purchases made through links. DA ~90+, 50M+ monthly visits across desktop and mobile.
+**Evidence:** Multiple Anker articles spanning product launches, deal alerts, and buying guides in 2025–2026. Digital Trends is Red Ventures' flagship consumer technology publication (same parent company as ZDNET, already #8 in the priority matrix). Their "Best" product roundups and buying guides carry very high authority. The SOLIX outdoor coverage is particularly notable — Digital Trends' tech-meets-lifestyle editorial reach extends into the outdoor/adventure vertical where SOLIX lives. Red Ventures' centralized affiliate infrastructure connects to the existing ZDNET relationship.
+**Opportunity:** Digital Trends is one of the largest and most authoritative consumer tech publications globally. Their audience — tech-forward early adopters, gadget purchasers, phone and laptop buyers — is a direct match for Anker's core buyer. Current links likely route through Amazon Associates (~3%). The Red Ventures leverage angle is critical: Digital Trends and ZDNET share the same parent company, meaning a single Red Ventures partnership conversation can extend the ZDNET deal to cover Digital Trends at near-zero incremental relationship cost. Digital Trends' SOLIX coverage also unlocks a premium outdoor/emergency preparedness editorial vertical.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Red Ventures centralized affiliate partnerships team — the same contact managing ZDNET for Anker (Red Ventures operates a unified publisher monetization platform across all properties); LinkedIn outreach to Red Ventures' Head of Commerce/Affiliate Partnerships; Digital Trends commerce editor direct email as a secondary contact
+- **Key value proposition:** Red Ventures triple-play: adding Digital Trends to the existing ZDNET Anker relationship covers an additional 50M+ monthly visitors at no new relationship overhead; commission upgrade from Amazon's ~3% to Anker direct 8% (a 166% lift) is the math story; exclusive Digital Trends reader promo code (e.g., "DTRENDS12" for 12% off anker.com) personalizes the conversion funnel for a tech-enthusiast audience; SOLIX power station deal coverage (March 2026) already demonstrates editorial appetite for Anker's highest-margin product line
+- **Authenticated member base:** No authenticated base — primarily SEO and deal-alert driven (open readership); however Red Ventures operates newsletter infrastructure across all properties including Digital Trends, which has an email subscriber base of engaged tech readers
+
+**Activation Angle:**
+- **Member communication channels:** Digital Trends email newsletter (engaged tech enthusiast audience), Digital Trends social media (Twitter/X 2M+, Facebook 3M+, Instagram 500K+), Red Ventures unified deal alert network shared with ZDNET — simultaneous deal placement across both properties at each Anker sale event; Google Discover and Apple News distribution for deal alert articles; Digital Trends YouTube channel (250K+ subscribers) for video product coverage
+- **Embed opportunities:** "Best portable chargers" and "Best power banks" buying guides (Anker's prime category); SOLIX portable power station deal alerts and reviews (Digital Trends' outdoor coverage is a natural SOLIX fit); "Best USB-C chargers" and "Best GaN chargers" category pages; Prime Day / Amazon Spring Sale / Black Friday deal roundup coverage (Digital Trends is a major deal alert publisher during sale events); CES product launch coverage (annual anchor for new Anker announcements); deal alert pipeline for ongoing Anker promotions
+- **Estimated activation potential:** High — Digital Trends' deal alert readers are in active purchase mode; 50M+ monthly visitors at a tech-enthusiast site means significant absolute traffic volume even at moderate click-through rates; Red Ventures network amplification (simultaneous ZDNET + Digital Trends placement) creates a coordinated dual-property traffic surge for Anker sale events; SOLIX outdoor coverage adds a high-ticket ($1,000–$5,000) conversion funnel alongside core charger products
+
+---
+
+### 54. Mashable
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 4 |
+| Content Relevance | 5 |
+| Reach & Authority | 4 |
+| Brand Safety | 4 |
+| Conversion Potential | 4 |
+| **Total** | **21/25** |
+
+**URL:** https://mashable.com
+**Lead Type:** Warm Lead
+**Current Relationship:** Prolific Anker publisher across editorial, deal alerts, and product reviews in 2025–2026: "Best Amazon Spring Sale Anker charger deals 2026" (April 2026 — featuring Nano 45W Smart Charger and Anker Prime 3-in-1 Qi2 25W Charging Station); "The 8 best Anker charging accessories to buy right now" (updated February 17, 2026); "The Anker Nano 3-in-1 power bank is my must-have travel device" (personal editorial endorsement, July 2025); ongoing Anker MagSafe UFO charger deal coverage (Oct 2025). Mashable explicitly earns affiliate commissions on purchases. Ziff Davis-owned publication (same parent as PCMag and RetailMeNot, both already in the matrix).
+**Evidence:** 4+ distinct Anker content pieces across deal alerts, personal endorsements, and buying guides in 2025–2026. The "must-have travel device" first-person endorsement is organic editorial credibility that signals genuine product affinity. Mashable is Ziff Davis (DA ~85, 20–30M monthly visits). Their shopping/deals vertical is robust, with dedicated commerce staff covering Amazon sale events. The Ziff Davis connection creates a potential coordinated partnership covering Mashable, PCMag, and RetailMeNot simultaneously — a three-property Ziff Davis deal.
+**Opportunity:** Mashable's broad tech-meets-culture audience is wider than pure tech publications, reaching millennials and Gen Z across gaming, social media, entertainment, and gadgets. This demographic skews younger and more mobile-first than PCMag's enterprise audience — making Mashable an ideal partner for Anker's MagSafe, compact Nano, and stylish charging accessories that appeal to design-conscious buyers. The Ziff Davis leverage angle is the key differentiator: a single Ziff Davis commerce team conversation can extend the existing PCMag relationship to cover Mashable and RetailMeNot at incremental cost, creating a three-property ecosystem deal.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Ziff Davis centralized commerce/affiliate team — the same contact managing PCMag for Anker (Ziff Davis operates unified affiliate infrastructure across all properties via Impact and RetailMeNot's Ziff Davis Commerce network); LinkedIn outreach to Mashable's Senior Commerce Editor; a single Ziff Davis conversation covers Mashable, PCMag, and RetailMeNot simultaneously
+- **Key value proposition:** Ziff Davis three-property deal: extending the existing PCMag Anker relationship to Mashable and RetailMeNot covers a combined audience of 100M+ monthly visitors across three distinct buyer demographics (Mashable: millennial/Gen Z tech-culture buyers; PCMag: enterprise IT and power users; RetailMeNot: bottom-of-funnel deal seekers) at minimal incremental cost; commission upgrade from Amazon's ~3% to Anker direct 8% for all three properties; exclusive Mashable reader promo code (e.g., "MASH12" for 12% off) personalizes the Mashable audience's conversion path; Amazon Spring Sale deal coverage (already established) becomes a Anker-direct trackable event with higher commission per conversion
+- **Authenticated member base:** No anonymous readership — primarily SEO and social-driven; however Ziff Davis operates a centralized newsletter and registered user infrastructure across all properties; Mashable's email list is part of the Ziff Davis audience network
+
+**Activation Angle:**
+- **Member communication channels:** Mashable email newsletter (millennial/Gen Z tech audience), Mashable social media (Twitter/X 9M+, Facebook 10M+, Instagram 2M+ — Mashable has significant social reach for deal amplification), Ziff Davis unified deal alert network (cross-property amplification with PCMag and RetailMeNot), Mashable YouTube channel (450K+ subscribers, deal and review video content)
+- **Embed opportunities:** "Best Anker charging accessories" buying guide refresh (already live at Feb 2026 — push for Anker direct Impact links replacing Amazon links); Amazon Spring Sale deal coverage (April 2026 already established — convert to Anker direct for Prime Day 2026); "Best travel charger" and "best MagSafe accessories" category content (Mashable's travel and lifestyle focus); holiday gift guide tech section (Mashable gift guides reach high-engagement holiday shoppers); "best budget tech" and "best gadgets under $50" roundups (Anker's price range is perfect for Mashable's value-conscious audience)
+- **Estimated activation potential:** High — Mashable's deal alert readers are in active purchase mode; the Spring Sale Anker article demonstrates an established deal-alert pipeline ready to be converted to direct commission tracking; Ziff Davis network amplification compounds reach across PCMag and RetailMeNot simultaneously; younger millennial/Gen Z demographic represents Anker's next-generation buyer cohort — building Mashable as a long-term partner establishes brand loyalty with an audience that will buy Anker products for the next 20+ years
+
+---
+
+### 55. SFGate / Hearst Newspapers Shopping
+
+| Dimension | Score |
+|-----------|-------|
+| Audience Overlap | 3 |
+| Content Relevance | 4 |
+| Reach & Authority | 4 |
+| Brand Safety | 5 |
+| Conversion Potential | 4 |
+| **Total** | **20/25** |
+
+**URL:** https://www.sfgate.com/shopping/
+**Lead Type:** Warm Lead
+**Current Relationship:** SFGate's dedicated Shopping vertical (managed by a dedicated "Manager, Performance Content" — Billy Cadden) has published multiple Anker articles in 2026: "The best deals on Anker power adapters and chargers" (February 24, 2026 — comprehensive deal roundup covering power banks, SOLIX stations, and charging gear); "Anker just released its smartest 45W charger yet" (January 26, 2026 — editorial product coverage); "Anker's fast, compact 3-port charger is just $26 right now" (deal alert); "Anker's Prime 14-port docking station is 20% off right now" (March 2026, AnkerWork docking station coverage); and hands-on testing of Anker alongside Belkin and Mophie for their "best portable chargers and power banks of 2026" guide (January 2026). SFGate's affiliate model is confirmed: "Hearst Newspapers participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites."
+**Evidence:** 5+ dedicated Anker articles in Q1 2026 spanning editorial product coverage, deal alerts, hands-on comparisons, and comprehensive deal roundups. A dedicated Performance Content Manager role signals serious investment in commerce-driven editorial. SFGate is a Hearst Newspapers property — the **same publisher as Men's Journal (#6) and Digital Spy (#48 in this matrix)** — meaning a single Hearst centralized affiliate team conversation can extend any existing relationship to SFGate's Shopping vertical at no new overhead. SFGate's AnkerWork docking station coverage (March 2026) is particularly notable — it demonstrates that SFGate's commerce team has discovered Anker's broader product portfolio beyond core chargers.
+**Opportunity:** SFGate's Shopping vertical is a commerce-first editorial property operating under Hearst's centralized affiliate program. Their hands-on testing of Anker vs Belkin vs Mophie (January 2026) mirrors the editorial rigor of Wirecutter and CNN Underscored at a regional newspaper scale. The Hearst leverage angle is the primary unlock: Men's Journal (already #6 in the priority matrix) and SFGate operate under the same Hearst affiliate team, meaning a single expanded partnership negotiation covers both properties. The AnkerWork docking station coverage signals that SFGate's commerce team is open to Anker's full product catalog — including higher-margin AnkerWork accessories.
+**Recommended Action:** Contact Hearst centralized affiliate/commerce team (same contact as Men's Journal). Request extension of any existing Hearst partnership to include SFGate's Shopping vertical. Provide exclusive SFGate reader promo code (e.g., "SFGATE10" for 10% off) and request enrollment in Anker's direct Impact program. Pitch AnkerWork docking station and multi-port charger reviews for their WFH/productivity content angle.
+
+**Recruitment Angle:**
+- **Best outreach channel:** Hearst centralized affiliate/commerce partnerships team (same contact managing Men's Journal — already in the priority matrix at #6); also direct email to Billy Cadden (Manager, Performance Content at SFGate Shopping) via SFGate editorial masthead
+- **Key value proposition:** Zero new relationship cost — Hearst already manages Men's Journal for Anker; adding SFGate Shopping extends coverage to a Bay Area/tech-adjacent audience at no incremental recruitment investment; commission upgrade from Amazon's ~3% to Anker direct 8% (confirmed affiliate infrastructure in place via Hearst Networks); AnkerWork docking station and hub reviews fill a WFH/productivity content gap that SFGate's commerce team has already shown interest in (March 2026 docking station deal article); exclusive "SFGATE10" reader code gives SFGate editorial differentiation in a crowded tech deal market
+- **Authenticated member base:** Partial — SFGate has registered users and a subscriber email list (San Francisco Chronicle digital subscribers access SFGate content); Hearst's centralized audience platform creates cross-property targeting opportunities; not a fully authenticated platform but Hearst's newsletter infrastructure provides direct member communication
+
+**Activation Angle:**
+- **Member communication channels:** SFGate Shopping email newsletter, Hearst Newspapers centralized deal alert network (cross-property with Houston Chronicle — already in matrix), SFGate social media (Twitter/X 150K+, Facebook 400K+), San Francisco Chronicle digital subscriber email list (Bay Area tech and business professionals), Hearst's deal blast coordination infrastructure for major sale events
+- **Embed opportunities:** "Best Anker chargers and deals" evergreen deal page (already live — optimize link routing to Impact direct); annual "best portable chargers" buying guide (Anker already hands-on tested vs Belkin/Mophie — secure "Best Overall" designation and direct links); AnkerWork docking station and hub reviews for Bay Area WFH/professional audience (strong editorial fit given SFGate's San Francisco tech-adjacent readership); Anker SOLIX power station deals for Bay Area outdoor/camping audience (Northern California camping and overlanding market); holiday gift guide tech section; Prime Day and Amazon Spring Sale deal alert coordination
+- **Estimated activation potential:** Medium-High — SFGate's dedicated Performance Content Manager role indicates professional deal-alert publishing cadence (multiple Anker posts per month already); Bay Area readership over-indexes on tech adoption and higher income — above-average AOV on Anker purchases; Hearst network amplification coordinates SFGate deal placements with Men's Journal editorial for dual-property coverage of major Anker promotions; AnkerWork professional accessories unlock a higher-margin product category with strong Bay Area/WFH audience fit
+
+---
+
+## Updated Partner Priority Matrix (as of 2026-04-28)
+
+| Priority | Partner | Score | Type | Est. Impact | Effort |
+|----------|---------|-------|------|-------------|--------|
+| 1 | TechRadar | 25/25 | Warm | Very High | Low |
+| 1 | Wirecutter (NYT) | 25/25 | Warm | Very High | Medium |
+| 3 | Android Central | 24/25 | Cold | Very High | Medium |
+| 3 | 9to5Toys | 24/25 | Warm | Very High | Low |
+| 3 | Tom's Guide | 24/25 | Warm | Very High | Low |
+| 3 | WIRED | 24/25 | Warm | Very High | Medium |
+| 3 | PCMag | 24/25 | Warm | Very High | Low |
+| 3 | ZDNET | 24/25 | Warm | Very High | Low |
+| 3 | Android Police | 24/25 | Warm | Very High | Low |
+| 3 | Digital Trends | 24/25 | Warm | Very High | Low |
+| 11 | CNN Underscored | 23/25 | Warm | Very High | Medium |
+| 11 | Engadget | 23/25 | Cold | High | Medium |
+| 11 | MacRumors | 23/25 | Warm | High | Low |
+| 11 | The Verge | 23/25 | Warm | Very High | Medium |
+| 11 | CNET | 23/25 | Warm | Very High | Medium |
+| 11 | The Independent/IndyBest | 23/25 | Warm | High | Low |
+| 11 | The Guardian/The Filter US | 23/25 | Warm | Very High | Medium |
+| 11 | PCWorld | 23/25 | Warm | High | Low |
+| 19 | Trusted Reviews | 22/25 | Cold | High | Medium |
+| 19 | JerryRigEverything | 22/25 | Warm | High | Medium |
+| 19 | AppleInsider | 22/25 | Warm | High | Low |
+| 19 | 9to5Mac | 22/25 | Warm | High | Low |
+| 19 | Travel + Leisure | 22/25 | Warm | High | Medium |
+| 19 | BGR | 22/25 | Warm | High | Low |
+| 25 | GearJunkie | 21/25 | Cold | Medium-High | Medium |
+| 25 | SlashGear | 21/25 | Cold | Medium | Medium |
+| 25 | MKBHD | 21/25 | Warm | Very High | High |
+| 25 | Popular Mechanics | 21/25 | Warm | High | Medium |
+| 25 | T3 | 21/25 | Warm | High | Low |
+| 25 | ChargerLab | 21/25 | Warm | Medium | Low |
+| 25 | Perks at Work | 21/25 | Cold | High | Medium |
+| 25 | Slickdeals | 21/25 | Warm | High | Low |
+| 25 | Creative Bloq | 21/25 | Warm | Medium-High | Low |
+| 25 | Working Advantage | 21/25 | Cold | High | Medium |
+| 25 | Forbes Vetted | 21/25 | Warm | High | Medium |
+| 25 | Consumer Reports | 21/25 | Warm | High | Medium |
+| 25 | Mashable | 21/25 | Warm | High | Low |
+| 38 | Popular Science | 20/25 | Warm | Medium | Medium |
+| 38 | Men's Journal | 20/25 | Warm | Medium | Low |
+| 38 | The Gadget Flow | 20/25 | Cold | Medium | Low |
+| 38 | Rakuten | 20/25 | Warm | High | Low |
+| 38 | RetailMeNot | 20/25 | Warm | High | Low |
+| 38 | PoweredThrough | 20/25 | Warm | Medium | Low |
+| 38 | CouponCabin | 20/25 | Warm | Medium-High | Low |
+| 38 | SFGate/Hearst | 20/25 | Warm | Medium | Low |
+| 46 | NotebookCheck.net | 19/25 | Warm | Medium | Medium |
+| 46 | TechBargains | 19/25 | Warm | Medium | Low |
+| 46 | CouponFollow | 19/25 | Warm | Medium-High | Low |
+| 46 | Gear Diary | 19/25 | Warm | Medium | Low |
+| 50 | Digital Spy | 18/25 | Warm | Medium | Low |
+| 50 | CleverHiker | 18/25 | Warm | Medium | Low |
+| 50 | Treeline Review | 18/25 | Warm | Medium | Low |
+| 53 | Digital Reviews Network | 17/25 | Warm | Low | Low |
+| 54 | Houston Chronicle | 16/25 | Warm | Low | Low |
 
 ---
 

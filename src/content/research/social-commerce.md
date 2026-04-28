@@ -369,3 +369,39 @@ impact: high
 sentiment: positive
 ---
 Instagram returned to native creator affiliate commerce in late March 2026 — more than three years after shutting down its prior program. Head of Instagram Adam Mosseri announced creators can tag affiliate products directly in Reels and earn commissions; Meta's Nicola Mendelsohn declared "the era of link in bio is finally over" at Shoptalk Spring. Instagram is re-entering a market where TikTok Shop processed $33.2B GMV in 2024, LTK facilitated $6B+ in annual sales, and ShopMy hit a $1.5B valuation. The contested "Shop the Look" AI auto-tagging feature (which linked creators to brands without consent) remains an unresolved trust issue with creators as Instagram attempts to rebuild participation.
+
+---signal---
+id: news-20260428-001
+signal: Meta rolls out creator affiliate tools on Instagram Reels with Amazon/Shopee as launch partners
+date: 2026-04-28
+source: https://www.marketingbrew.com/stories/2026/04/20/how-advertisers-are-thinking-about-meta-s-affiliate-tool-rollout
+categories: industry
+tags: meta, instagram, social-commerce, creator-affiliate, tiktok-shop, shoppable-reels
+impact: high
+sentiment: positive
+---
+Meta debuted creator affiliate partnership features at Shoptalk Spring 2026, making Instagram Reels natively shoppable with product tagging and commission payouts. Amazon and Shopee are launch partners, with Temu, eBay, and Mercado Libre set to join. Creators can tag up to 30 items per Reel and their content surfaces to brand partners via the Partnership Ads Hub. Meta is explicitly playing catch-up to TikTok Shop, which processed $33.2B GMV in 2024 and is projected to hit ~$66.2B in 2025.
+
+---signal---
+id: news-20260428-002
+signal: Instagram "Shop the Look" AI auto-tagging feature sparks creator backlash over unauthorized product links
+date: 2026-04-28
+source: https://www.affiversemedia.com/instagram-relaunches-creator-affiliate-commerce-the-shop-the-look-mess-is-the-harder-problem/
+categories: industry
+tags: instagram, meta, creator-trust, ai-tagging, social-commerce, brand-safety
+impact: medium
+sentiment: negative
+---
+Instagram tested "Shop the Look" in Feb 2026, using AI visual recognition to auto-tag products in creator posts without consent — linking images to knockoffs and non-partnered brands. Creator backlash was swift, with influencer strategists calling it a structural threat to creator monetization. Instagram returned to creator affiliate commerce in late March 2026 after a 3+ year hiatus; trust rebuilding remains the harder challenge.
+
+---signal---
+id: news-20260428-006
+signal: Later surpasses $2.9B creator-driven commerce GMV; performance-based influencer comp hits 53% industry adoption
+date: 2026-04-28
+source: https://www.prnewswire.com/news-releases/later-more-than-doubles-enterprise-business-as-influencer-marketing-becomes-a-performance-channel-302741194.html
+categories: industry
+tags: influencer-marketing, creator-commerce, performance-based, social-commerce, later-platform
+impact: medium
+sentiment: positive
+---
+Later announced record enterprise growth on April 14, 2026, surpassing $2.9B in creator-driven commerce and doubling enterprise business. The Influencer Marketing Factory's 2026 Creator Economy Report shows performance-based compensation at 53% industry adoption — more than double two years ago. Influencer affiliate as a performance channel is now mainstream, not experimental.

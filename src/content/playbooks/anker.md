@@ -1,6 +1,6 @@
 ---
 vendor: "anker"
-date: "2026-04-27"
+date: "2026-04-28"
 ---
 
 # Anker — AFARE Action Playbook
