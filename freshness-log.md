@@ -154,3 +154,18 @@
 
 **Build:** ✅ 102 pages in 1.25s
 **Commit:** 8e78f65 → pushed to main
+
+## 2026-04-27 08:01 PDT
+
+**Files synced:** 12 changed (2 research, 1 new player, 3 newsletters, 2 playbooks, 2 partners, 1 player update, 1 vendor YAML)
+- New: `players/ibotta.md`
+- Updated: `research/bicycles-outdoor.md` (major expansion), `research/social-commerce.md`, `players/awin.md`
+- Newsletters 2026-W16/W17/W18: added missing frontmatter with correct week numbers
+- Playbooks & partners: date-stamped 2026-04-27
+- `vendors/priority-bicycles.yaml`: evaluationDate updated 2026-04-13 → 2026-04-25
+
+**Freshness issues:**
+- 5 research files stale (>7 days): ai-agent-affiliates (Apr 12), cj-affiliate (Apr 12), discovery (Apr 15), levanta (Apr 13), tracking-privacy (Apr 13) — source files unchanged, flagged for next research cycle
+
+**Build:** ✅ 104 pages, 1.27s
+**Commit:** 95e2b79 → pushed to main
