@@ -169,3 +169,20 @@
 
 **Build:** ✅ 104 pages, 1.27s
 **Commit:** 95e2b79 → pushed to main
+
+## 2026-04-28 08:01 PDT
+
+**Files synced:** 17 changed (579 insertions)
+- Research: 6 files updated (ai-agent-affiliates, consumer-electronics, livechannel, shareasale, social-commerce, tracking-privacy)
+- Players: 4 files (connexity NEW, howl NEW, partnerize updated, recruitment updated)
+- Playbooks: 2 refreshed (anker, priority-bicycles)
+- Partners: 2 refreshed (anker major update +161 lines, priority-bicycles)
+- Newsletters: 3 fixed (added frontmatter to W16, W17, W18)
+
+**Freshness issues:**
+- 6 research files stale (>7 days): ai-agent-affiliates, cj-affiliate, discovery, levanta, sources-landscape-first-sweep, tracking-privacy
+- 13 player profiles stale (>14 days): affiliate-summit, avantlink, goaffpro, levanta, livechannel, openai-acp, performance-marketing-association, rakuten-advertising, rakuten-rewards, rakuten, tiktok-shop, wildfire-systems, wirecutter
+
+**Vendor scores:** Anker 65 ✓ Priority 47 ✓ (match scorecards)
+**Build:** ✅ 107 pages in 1.42s
+**Commit:** 08dff75 pushed to main
