@@ -1,7 +1,7 @@
 ---
 title: "Impact.com — Network Profile"
 category: affiliate-networks
-lastUpdated: "2026-04-22"
+lastUpdated: "2026-04-29"
 ---
 
 # Impact.com — Network Profile
@@ -183,6 +183,7 @@ Impact.com's $120 billion in partner-referred GMV and 20% growth rate make it a 
 - **Jan 28:** Launched **Geodesix**, a data marketplace providing AI systems with licensed commerce content from premium publishers, with clear publisher compensation. First major affiliate platform to monetize publisher content for AI retrieval.
 - **Apr 14:** CMO published "Answer Era" strategy: affiliate/publisher/creator partnerships are the primary AI brand visibility mechanism. Cites McKinsey research — brand-owned websites contribute only 5–10% of AI search results; third-party publisher/affiliate share exceeds 65% in key verticals.
 - **Apr 21:** Early adopter of YouTube's **Creator Partnerships API** — brands can now discover, manage, and measure YouTube creator campaigns with verified opt-in data inside Impact, unified with affiliate performance reporting.
+- **Apr 28:** Strategic alliance with Rakuten International announced. Rakuten exits affiliate platform software; thousands of Rakuten merchants migrate to Impact as exclusive tech provider. Rakuten designated **"Titanium Partner"** (new top-tier category). Combined entity positions to compete at scale vs. Google, Amazon, and Meta for always-on advertiser budgets. No equity/investment change — purely strategic. Largest structural consolidation in affiliate platform history.
 
 **Funding & Valuation:**
 Impact.com is widely expected to pursue an IPO within the next 1-2 years, given its scale ($270M+ ARR), growth rate, and market position. A public listing would make it the first pure-play partnership management platform on public markets.
@@ -260,3 +261,27 @@ impact: high
 sentiment: positive
 ---
 Impact.com CMO Cristy Garcia published the "Answer Era" strategic positioning: affiliate, creator, and publisher partnerships are the primary mechanism for AI brand visibility. Key McKinsey 2025 stat: brand-owned websites contribute only 5–10% of what AI search systems draw from; in CPG and financial services, third-party publisher/affiliate/UGC share exceeds 65%. Flywheel implication: affiliate partners are not just revenue drivers — they are the brand's voice in AI-generated answers. LiveChannel vendors with strong affiliate programs are structurally better positioned for AI discovery than those relying on owned-channel SEO. Impact is actively framing its own platform as the answer-era infrastructure.
+
+---signal---
+id: news-20260429-001
+signal: impact.com and Rakuten International announce strategic alliance to combine platform tech with managed services and Rewards data
+date: 2026-04-28
+source: https://www.prnewswire.com/news-releases/rakuten-and-impactcom-announce-alliance-to-scale-the-global-partnership-economy-302753955.html
+categories: affiliate-networks
+tags: impact, rakuten, alliance, industry-consolidation, tracking, attribution, automation, rakuten-rewards
+impact: high
+sentiment: positive
+---
+Announced April 28, 2026: Rakuten International and impact.com formed a strategic alliance to modernize the affiliate and performance marketing ecosystem — combining impact.com's SaaS partnership platform with Rakuten's global managed services, publisher relationships, and Rakuten Rewards shopper data. Collaborative projects will focus on improved tracking, attribution, and automation including real-time shopping enhancements along the shopper journey. This effectively positions impact.com's tech stack as core infrastructure within Rakuten's service offering, creating a formidable two-headed competitor against CJ, Awin, and ShareASale. For LiveChannel vendors, programs running on Impact may gain access to Rakuten Rewards members as a new traffic source.
+
+---signal---
+id: news-20260429-004
+signal: Rakuten exits affiliate platform software entirely — thousands of merchants migrate to Impact as exclusive tech provider; Rakuten named "Titanium Partner"
+date: 2026-04-28
+source: https://www.adexchanger.com/marketers/rakuten-and-impact-com-forge-a-new-alliance-that-resets-the-affiliate-industry/
+categories: affiliate-networks
+tags: impact, rakuten, platform-migration, titanium-partner, industry-consolidation, merchant-migration, adexchanger
+impact: high
+sentiment: positive
+---
+AdExchanger reporting adds critical operational details to the Rakuten/Impact alliance: Rakuten will **no longer operate the software and dashboard side of its affiliate business**. Thousands of merchants and publishers currently using Rakuten's partnership marketing tech will be transitioned to Impact's platform, making Impact the **exclusive platform provider** for Rakuten's commerce and affiliate partnership management. Rakuten becomes a **"Titanium Partner"** — a new, top-tier category on Impact's platform reflecting Rakuten's scale as a publisher/traffic source and a joint product roadmap commitment. In exchange, Impact will refer agency and creative services work back to Rakuten. Impact CEO David Yovanno framed the combined entity as now capable of competing at scale against Google, Amazon, and Meta for always-on advertiser budgets. This is the largest structural consolidation in affiliate platform history. For LiveChannel vendors: programs on Impact gain a materially larger publisher/traffic network; programs still on Rakuten's legacy tech will be migrated — no immediate action needed but brands should track migration communications from Rakuten.

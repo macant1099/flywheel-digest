@@ -153,3 +153,15 @@ impact: high
 sentiment: neutral
 ---
 Third-party cookie deprecation has moved from forecast to operational fact across major browsers in 2026. Leading affiliate platforms (Impact, PartnerStack, Refersion, Tapfiliate, TUNE/CAKE) have pivoted to server-side and first-party tracking architectures. Networks and advertisers not yet on S2S tracking face growing attribution gaps; migration is now a competitive necessity, not a roadmap item.
+
+---signal---
+id: news-20260429-003
+signal: FTC liability risk for AI influencers clarified — disclosure and liability rules apply equally to AI-generated personas and content
+date: 2026-04-27
+source: https://www.lawyer-monthly.com/2026/04/ai-influencers-ftc-rules-us-advertising-law-liability/
+categories: industry
+tags: ftc, ai-influencers, disclosure, liability, endorsement-guides, regulation, compliance
+impact: medium
+sentiment: negative
+---
+A detailed legal analysis published April 27, 2026 confirms that AI-generated influencer personas are subject to the same FTC Endorsement Guide disclosure obligations as human creators — and that brands deploying AI influencers carry significant liability if disclosures are missing or inadequate. The analysis highlights risks around misrepresentation of the AI nature of the endorser, failure to disclose material connection, and state-level consumer protection law exposure layered on top of FTC enforcement. As AI influencer tools proliferate, LiveChannel vendors running creator affiliate programs must explicitly address AI-generated content in publisher agreements and require clear #ad / #AI disclosure for all affiliated AI personas.

@@ -267,3 +267,15 @@ In February 2026, Google and Rakuten announced a landmark partnership to bring t
 - **V-Commerce Infrastructure:** Rakuten is explicitly positioning as a "V-commerce" (video commerce affiliate) infrastructure provider — connecting YouTube creators to brand affiliate programs through Rakuten's network. This is a direct competitor to TikTok Shop's native affiliate system in the Japan market.
 - **Japan Market Signal:** Japan's social commerce market is shifting from live-selling models toward "discovery-led commerce" (per Q1 2026 market reports) — creators surface products in content, conversions happen in trusted marketplaces. Rakuten's integration with YouTube positions it at the center of this discovery-to-purchase chain.
 - **LiveChannel Relevance:** Vendors with Japan market ambitions should monitor whether Rakuten × YouTube Shopping extends beyond Japan. For US-focused vendors, this signals that YouTube's affiliate program is actively seeking traditional network distribution partnerships — a structural integration that could eventually bring YouTube Shopping traffic into Rakuten Advertising's US publisher ecosystem.
+
+---signal---
+id: news-20260429-002
+signal: Rakuten International and impact.com announce strategic alliance — tech-plus-services merger positions combined entity against CJ and Awin
+date: 2026-04-28
+source: https://hellopartner.com/2026/04/28/exclusive-rakuten-and-impact-com-form-strategic-alliance-to-scale-connected-performance-ecosystem/
+categories: affiliate-networks
+tags: rakuten, impact, alliance, industry-consolidation, tracking, attribution, automation, rakuten-rewards, managed-services
+impact: high
+sentiment: positive
+---
+Rakuten International and impact.com announced a strategic alliance on April 28, 2026 to modernize the affiliate and performance marketing ecosystem. Impact.com CEO David Yovanno and the Rakuten exec team confirmed the alliance will focus on improving tracking, attribution, and automation — with real-time shopping enhancements central to the roadmap. Impact.com's technology becomes the core platform layer; Rakuten contributes managed services, publisher relationships, and the Rakuten Rewards data asset (~150M+ members). This is the biggest structural consolidation event in affiliate networks since Publicis acquired Epsilon/CJ in 2019. Brands on Rakuten Advertising should expect platform migration conversations; LiveChannel vendors should audit their Rakuten program health now before potential disruption.

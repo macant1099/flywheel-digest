@@ -12,12 +12,18 @@ keyStats:
     value: "$342M"
   - label: "Consumers Reached"
     value: "200M+"
-  - label: "Redeemers (Q3 2025)"
-    value: "18.2M"
+  - label: "2025 Net Income"
+    value: "$3.6M"
+  - label: "2025 EBITDA"
+    value: "$62.9M (18% margin)"
+  - label: "IPN Redeemers (Q4 2025)"
+    value: "20.4M"
+  - label: "IPN Redeemers (Avg 2025)"
+    value: "18.2M (up 24% YoY)"
   - label: "Total Consumer Savings"
     value: "$1.8B+ paid out"
 vendorRelevance: "high"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-29"
 ---
 
 ## Overview
@@ -98,8 +104,15 @@ Revenue in 2025 was $342.4M (down ~7% from $367.3M in 2024, due to a revenue mix
 
 - **IPO (April 2024)**: Ibotta listed on the NYSE (ticker: IBTA) at $88/share, raising approximately $577M at a valuation near $2.7B. The IPO was one of the stronger tech offerings of 2024.
 - **IPN Expansion**: Added Family Dollar, AppCard-powered grocers, Schnucks, and Instacart to the IPN in 2024, extending the network's grocery and convenience store reach.
-- **Q3 2025 Results (November 2025)**: Revenue of $72.1M (down 15% YoY) but redeemers grew 19% YoY to 18.2M — indicating the platform is growing consumer engagement even as revenue mix shifts.
-- **Full-Year 2025 Revenue**: $342.4M, reflecting the ramp of new IPN partners and continued investment in the network.
+- **Q4 2025 Results (February 25, 2026)**: Revenue of $88.5M beat the upper end of guidance; IPN redeemers reached 20.4M (up 19% YoY). DoorDash integration drove meaningful volume growth in Q4.
+- **Full-Year 2025 Revenue**: $342.4M (down 7% YoY), but IPN redeemers averaged 18.2M for the year — up 24% YoY. Net income of $3.6M; Adjusted EBITDA $62.9M (18% margin); free cash flow $61M.
+- **LiveLift™ Launched**: New suite of enhanced CPG promotions capabilities. Ibotta calls it "the future of promotions in the CPG industry" — providing brands with more sophisticated targeting, measurement, and lift attribution tools.
+- **DoorDash Added to IPN (Q2 2025)**: Ibotta offers rolled out to a majority of DoorDash customers. DoorDash is a major new distribution channel, extending IPN reach into food delivery/quick commerce.
+- **Third-Party Measurement Partnerships**: Strategic partnerships with **Circana** and **ABCS Insights** to provide independent third-party sales lift measurement for digital promotions — a major credibility booster for brand clients.
+- **New Executive Team**: Matt Puckett joined as CFO and Chris Riedy joined as CRO in 2025, strengthening leadership for the next phase.
+- **Share Buyback**: Repurchased 2.1M shares for $55M at avg ~$25.78/share during Q4 2025 — signaling management confidence in undervaluation.
+- **2026 State of Spend Report**: Ibotta's research found 62% of shoppers now choose price over brand loyalty, validating the platform's cash-back performance model as a priority channel for brand trial and retention.
+- **Q1 2026 Results Due May 6, 2026**: Watch for IPN redeemer growth continuation and first read on LiveLift™ adoption.
 - **Impact.com Integration**: Ibotta has joined Impact.com's marketplace, allowing brands that manage affiliate programs through Impact to access Ibotta as a publisher partner through standard affiliate tooling.
 
 ## Market Position & Competitive Context
